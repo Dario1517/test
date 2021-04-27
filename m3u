@@ -51,16 +51,58 @@ https://d3awnlgqz0szay.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/in
 https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", telefe 3
-https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,RADIO ACTIVA
+https://cloud2.streaminglivehd.com:1936/activa919/activa919/playlist.m3u8
+
+#EXTINF:-1,Infomedia 24 en vivo
+https://59d52c5a5ce5e.streamlock.net:4443/infomedia/infomedia/playlist.m3u8
+#EXTINF:-1,MAGAZINE
+https://g1.mc-slo.transport.edge-access.net/a10/ngrp:magazine_live01-100083_all/magazine_live01-100083_540p.m3u8
+
+#EXTINF:-1,NETWARE PELIS 1
+https://rtmp02.portalexpress.es/netwaremusic/netwaremusic/playlist.m3u8
+#EXTINF:-1,NETWARE PELIS 2
+https://rtmp02.portalexpress.es/netwaresports/netwaresports/playlist.m3u8
+
+#EXTINF:-1,Canal 2 Chaqueña
+https://Stmv1.zcastbr.com/stream1/stream1/playlist.m3u8
 
 
+#EXTINF:-1,13 RIO MAYO
+https://59537faa0729a.streamlock.net/canal13tvriomayo/canal13tvriomayo/playlist.m3u8
+
+#EXTINF:-1, FRECUENCIA MUSICAL
+https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 
 
+#EXTINF:-1,CANAL 11 MAR DEL PLATA
+https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
+#EXTINF:-1,CANAL 12
+https://f6z5x8d4.stackpathcdn.com/stream_360/index.m3u8
+
+#EXTINF:-1, EBO TV
+http://stmv1.questreaming.com/ebotv/ebotv/playlist.m3u8
+
+#EXTINF:-1,BEST CABLE
+https://live.siete.us:1991/bestcable/bestcable/playlist.m3u8
+
+#EXTINF:-1,FM IBEROAMERICA
+http://videostream.shockmedia.com.ar:1935/fmiberoamerica/fmiberoamerica/playlist.m3u8
 
 
+#EXTINF:-1,AGAPE CANAL 8
+https://can1.krakeniptv.com:25463/live/agape/CPLdE2EadX/1764.m3u8
 
 
+#EXTINF:-1,ESPERANZA TV
+https://bcliveunivsecure-lh.akamaihd.net/i/Esperanza_1@571273/index_596_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, CANAL 2 LA PAMPA
+https://stmv1.srvif.com/canal2/canal2/chunklist_w1646842213.m3u8
+
+
+#EXTINF:-1, UNI MAS
+https://unidfpclnlds158.akamaized.net/linear/hls/pa/event/fQCAqHLkSPeYW0FmDm7aOQ/stream/3bc90efb-e26d-4492-9b65-7acb7b0e1715:BRU/variant/e38bf0d4d30d9e59edf8e7c419786e33/bandwidth/3000000.m3u8?hdntl=exp=1601951016~acl=*~id=d80270bf-021c-4b01-b47c-c01ca3c80f7b~data=hdntl~hmac=66e0923e821f23b8c24054e2a01ae82ba1b1ba6baba93e51c6c9c52c745044a9
 
 
 
