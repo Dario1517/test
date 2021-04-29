@@ -31,48 +31,19 @@ https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/in
 
 
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/ilustracion-bandera-reino-unido_53876-18166.jpg?size=626&ext=jpg" group-title="REINO UNIDO", Sports Channel Network
-https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT INTERNACIONAL
-http://l3dtv.ga:8080/MJv7bnghmG/hy2Ynxw3z7/10920
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT PLAY 1
-https://d3awnlgqz0szay.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_13.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT PLAY 2
-https://d3awnlgqz0szay.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index_9.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT PLAY 3
-https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8
 
 
-#EXTINF:-1,RADIO ACTIVA
-https://cloud2.streaminglivehd.com:1936/activa919/activa919/playlist.m3u8
 
-#EXTINF:-1,Infomedia 24 en vivo
-https://59d52c5a5ce5e.streamlock.net:4443/infomedia/infomedia/playlist.m3u8
 #EXTINF:-1,MAGAZINE
 https://g1.mc-slo.transport.edge-access.net/a10/ngrp:magazine_live01-100083_all/magazine_live01-100083_540p.m3u8
 
-#EXTINF:-1,NETWARE PELIS 1
-https://rtmp02.portalexpress.es/netwaremusic/netwaremusic/playlist.m3u8
-#EXTINF:-1,NETWARE PELIS 2
-https://rtmp02.portalexpress.es/netwaresports/netwaresports/playlist.m3u8
-
-#EXTINF:-1,Canal 2 Chaqueña
-https://Stmv1.zcastbr.com/stream1/stream1/playlist.m3u8
 
 
-#EXTINF:-1,13 RIO MAYO
-https://59537faa0729a.streamlock.net/canal13tvriomayo/canal13tvriomayo/playlist.m3u8
-
-#EXTINF:-1, FRECUENCIA MUSICAL
-https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 
 
 #EXTINF:-1,CANAL 11 MAR DEL PLATA
@@ -109,8 +80,7 @@ https://unidfpclnlds158.akamaized.net/linear/hls/pa/event/fQCAqHLkSPeYW0FmDm7aOQ
 
 
 
-#EXTINF:-1,Onda Algeciras Televisión
-https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
+
 #EXTINF:-1,15
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
 #EXTINF:-1,HM 33
