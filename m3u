@@ -1,58 +1,29 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT
+https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT (OPCION 2)
+https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_11.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT PLAY 1
+https://d3awnlgqz0szay.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_13.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT PLAY 2
+https://d3awnlgqz0szay.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index_9.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT PLAY 3
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8
 
 
 
-#EXTINF:-1,STAR LIFE
-http://balancer1.ottmex.com:8081/tecno/Foxlife.TecnoByte/chunks.m3u8
-#EXTINF:-1,STUDIO UNIVERSAL
-http://balancer1.ottmex.com:8081/tecno/StudioUniversal.TecnoByte/chunks.m3u8
-#EXTINF:-1,MX | TELEMUNDO INTERNACIONAL
-http://balancer1.ottmex.com:8081/tecno/Telemundoint.TecnoByte/chunks.m3u8
-#EXTINF:-1,STAR CHANNEL
-http://balancer1.ottmex.com:8081/tecno/Fox.BKR/chunks.m3u8
-#EXTINF:-1,TNT SERIES
-http://balancer1.ottmex.com:8081/tecno/TNT_Series.TecnoByte/chunks.m3u8
-#EXTINF:-1,TNT
-http://balancer1.ottmex.com:8081/tecno/Tnt.TecnoByte/chunks.m3u8
-#EXTINF:-1,HBO
-http://balancer1.ottmex.com:8081/tecno/HBO.Tecnobyte/chunks.m3u8
-#EXTINF:-1,HBO 2
-http://balancer1.ottmex.com:8081/tecno/Hbo2.Tecnobyte/chunks.m3u8
-#EXTINF:-1,HBO PLUS
-http://balancer1.ottmex.com:8081/tecno/HboPlus.Tecnobyte/chunks.m3u8
-#EXTINF:-1,HBO SIGNATURE
-http://balancer1.ottmex.com:8081/tecno/HboSignature.Tecnobyte/chunks.m3u8
-#EXTINF:-1,HBO FAMILY
-http://balancer1.ottmex.com:8081/tecno/HboFamily.Tecnobyte/chunks.m3u8
-#EXTINF:-1,STAR ACTION
-http://balancer1.ottmex.com:8081/tecno/FoxAction.Tecnobyte/chunks.m3u8
-#EXTINF:-1,STAR SERIES
-http://balancer1.ottmex.com:8081/tecno/FoxSeries.Tecnobyte/chunks.m3u8
-#EXTINF:-1,STAR FUN
-http://balancer1.ottmex.com:8081/tecno/FoxFamily.Tecnobyte/chunks.m3u8
-#EXTINF:-1,GOLDEN PREMIER
-http://balancer1.ottmex.com:8081/tecno/GoldenPremier.Tecnobyte/chunks.m3u8
-#EXTINF:-1,HGTV
-http://balancer1.ottmex.com:8081/tecno/HGTV.TecnoByte/chunks.m3u8
-#EXTINF:-1,ANIMAL PLANET
-http://balancer1.ottmex.com:8081/tecno/AnimalPlanet.TecnoByte/chunks.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL
-http://balancer1.ottmex.com:8081/tecno/DiscoveryChannel.TecnoByte/chunks.m3u8
-#EXTINF:-1,DISCOVERY HOME & HEALTH
-http://balancer1.ottmex.com:8081/tecno/DiscoveryHH.Tecnobyte/chunks.m3u8
-#EXTINF:-1,HISTORY CHANNEL
-http://balancer1.ottmex.com:8081/tecno/HistoryChann.TecnoByte/chunks.m3u8
-#EXTINF:-1,DISCOVERY THEATER
-http://balancer1.ottmex.com:8081/tecno/Discovery_Theater.TecnoByte/chunks.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE
-http://balancer1.ottmex.com:8081/tecno/DiscoverySci.TecnoByte/chunks.m3u8
-#EXTINF:-1,DISCOVERY TURBO
-http://balancer1.ottmex.com:8081/tecno/DISCOVERYTURBO.Tecnobyte/chunks.m3u8
-#EXTINF:-1,DISCOVERY WORLD
-http://balancer1.ottmex.com:8081/tecno/DiscoveryWorld.Tecnobyte/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN 
+http://23.237.78.54/live-1000/244/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN 2
+http://23.237.78.54/live-1000/263/playlist.m3u8
 
 
 
