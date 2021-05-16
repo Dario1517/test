@@ -2814,65 +2814,6 @@ https://5f6e1fe8f2d2e.streamlock.net/cn22/cn22/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="WEB CAM Y CLIMA", FOUR SEASONS BUENOS AIRES
-https://www.youtube.com/watch?v=if91GyWP3zQ
-
-#EXTINF:-1 group-title="WEB CAM Y CLIMA", WORLD LIVE
-https://www.youtube.com/watch?v=Wt5M-1LAKDQ
-
-#EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2017/06/logo5900tv.png" group-title="WEB CAM Y CLIMA", 5900 TV CORDOBA
-https://mediacp.hostradios.com.ar:19360/5900/5900.m3u8
-
-#EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="WEB CAM Y CLIMA", BUNGE Y EL MAR PINAMAR
-https://wowza.telpin.com.ar:1935/camara-bunge/smil:camara-bunge.smil/chunklist_w968282560_b1344100_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="WEB CAM Y CLIMA", BUNGE Y LIBERTADOR PINAMAR
-https://wowza.telpin.com.ar:1935/camara-fuente/camara-fuente.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", CANAL 79 MAR DEL PLATA
-https://5f6e1fe8f2d2e.streamlock.net/mardelplata/mardelplata/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", CANAL 79 SANTA CLARA DEL MAR
-https://5f6e1fe8f2d2e.streamlock.net/santaclara/santaclara/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", CANAL 79 SAN JUAN
-https://5f6e1fe8f2d2e.streamlock.net/sanjuan/sanjuan/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", CANAL 79 LA COSTA
-https://5f6e1fe8f2d2e.streamlock.net/lacosta/lacosta/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", CANAL 79 PUAN
-https://5f6e1fe8f2d2e.streamlock.net/puan/puan/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.sierradelaventana.org/images/stories/logos/logo.png" group-title="WEB CAM Y CLIMA", SIERRA DE LA VENTANA
-https://streaming.reltid.com.ar/hls/sierra.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tornquistdistrital.com.ar/wp-content/uploads/2012/07/Logo-Monte.jpg" group-title="WEB CAM Y CLIMA", MONTE HERMOSO
-https://streaming.reltid.com.ar/hls/montedvr5.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="WEB CAM Y CLIMA", AV 3 Y 104 VILLA GESELL
-http://cam104y3.gesell.com.ar/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="WEB CAM Y CLIMA", BS AS Y PLAYA VILLA GESELL
-http://cambsasyplaya.gesell.com.ar/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="WEB CAM Y CLIMA", LA PINOCHA VILLA GESELL
-http://camlapinocha.gesell.com.ar/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="WEB CAM Y CLIMA", BOTAVARA PINAMAR
-https://wowza.telpin.com.ar:1935/camara-botavara/smil:camara-botavara.smil/chunklist_w555467229_b1344100_sleng.m3u8
-
-
-#EXTINF:-1 group-title="WEB CAM Y CLIMA", CAMARA USHUAIA
-https://www.youtube.com/watch?v=lKC9W-66qhQ
-
-
-
 
 
 
