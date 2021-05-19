@@ -31,3 +31,10 @@ https://cdn14.esp-cdn.xyz/e/e_sur_c.html?.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN ttt
 https://e10.cdnfoxtv.me/ingestnb4s/espn_sur/d.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN 2
+https://e10.cdnfoxtv.me/ingestnb4s/espn2_sur/c.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN 2 555
+https://e10.cdnfoxtv.me/ingestnb4s/espn2_sur/c.m3u8
