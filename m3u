@@ -26,8 +26,8 @@ https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/ind
 
 
 
-#EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", que seria
-https://evpp.mm.uol.com.br/geob_band/band/chunklist_w1292898079.m3u8
+#EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", band
+https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN ttt
 https://e10.cdnfoxtv.me/ingestnb4s/espn_sur/d.m3u8
