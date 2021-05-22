@@ -1,6 +1,450 @@
 #EXTM3U
 
 
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| A&E HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18229
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| A24 FHD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18230
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| AMC HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18231
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| AMERICA TV
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18232
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| ARGENTINISIMA HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18233
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| ATB TV
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18234
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| AXN FHD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18235
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| BABY TV HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18236
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| BOOMERANG FHD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18237
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| C5N HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18238
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| CADENA SUDESTE
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18239
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| A24 FHD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18230
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| AMC HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18231
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| AMERICA TV
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18232
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| ARGENTINISIMA HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18233
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| ATB TV
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18234
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| AXN FHD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18235
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| BABY TV HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18236
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| BOOMERANG FHD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18237
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| CANAL 26 HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18248
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| CANAL DE LA CIUDAD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18249
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| CANAL DE LA MUSICA
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18250
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| CARTOON NETWORK
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18251
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| CINE AR
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18252
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| CINECANAL HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18253
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| CINEMAX FHD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18254
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| CIUDAD MAGAZINE HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18255
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| CN 24/7
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18256
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| CN23 HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18257
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| CN3 PIRAMAR
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18258
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| CNN EN ESPANIOL
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18259
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| COMEDY
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18260
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| CONEXION
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18261
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| CONSTRUIR
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18262
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| CRONICA HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18263
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| DEPORTV HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18264
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| DIREC TV SPORT 1
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18265
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| DIREC TV SPORT 2
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18266
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| DIRECT TV SPORTS
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18267
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| DIRECT TV SPORTS 2
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18268
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| DIRECT TV SPORTS PLUS
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18269
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| Disney
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18270
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| Disney JUNIOR HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18271
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| Disney XD HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18272
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| DW
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18273
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| E! HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18274
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| El Garaje TV
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18275
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| EL NUEVE 9 HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18276
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| El Nueve FHD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18277
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| ElTrece HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18278
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| ENCUENTRO
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18279
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| ESPN
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18280
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| ESPN 2
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18281
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| ESPN 3
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18282
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| ESPN FUTBOL HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18283
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| ESPN+
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18284
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| EUROPA HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18285
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| FILM & ARTS HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18286
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| FOX Channel HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18287
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| FOX LIFE HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18288
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| FOX NEWS
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18289
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| FOX PREMIUM ACTION HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18290
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| FOX PREMIUM CINEMA HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18291
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| FOX PREMIUM CLASSICS HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18292
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| FOX PREMIUM COMEDY HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18293
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| FOX PREMIUM FAMILY FULLHD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18294
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| FOX PREMIUM FAMILY OESTE
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18295
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| FOX PREMIUM MOVIES HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18296
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| FOX PREMIUM Series HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18297
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| FOX SPORTS 1
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18298
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| FOX SPORTS 2 HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18299
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| FOX SPORTS 3 HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18300
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| FOX SPORTS HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18301
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| FOX SPORTS PREMIUM
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18302
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| FXM HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18303
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| GARAGE HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18304
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| GLITZ HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18305
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| GOL TV
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18306
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| GOLF Channel FHD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18307
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| GOURMET HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18308
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| H2
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18309
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| HBO 2 HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18310
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| HBO FAMILY HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18311
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| HBO HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18312
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| HBO PLUS HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18313
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| HBO SIGNATURE
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18314
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| HCDN HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18315
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| History HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18316
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| HTV
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18317
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| I
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18318
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| LIFETIME HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18319
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| Litus TV
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18320
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| LN Mas HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18321
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| LN+
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18322
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| MAS CHIC HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18323
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| MAX HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18324
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| MAX PRIME HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18325
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| MAX UP
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18326
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| METRO
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18327
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| MTV HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18328
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| MTV HITS HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18329
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| MUCH MUSIC HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18330
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| multivision HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18331
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| MUSIC TOP
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18332
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| NAT GEO HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18333
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| NAT GEO KIDS HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18334
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| NAT GEO WILD HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18335
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| Net TV FHD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18336
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| Nick Junior HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18337
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| nickelodeon HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18338
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| PAKA PAKA
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18339
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| PARAMOUNT HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18340
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| PROGRAMME NATIONAL
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18341
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| Provincial TV
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18342
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| QUIERO MUSICA
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18343
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| RURAL HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18344
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| SENADO
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18345
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| SONY HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18346
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| SPACE HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18347
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| STUDIO UNIVERSAL HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18348
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| SYFY
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18349
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| TBS VERY FUNNY HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18350
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| TCM
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18351
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| Telefe FHD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18352
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| TELEMUNDO
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18353
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| TELESUR
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18354
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| Television Publica FHD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18355
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| TELPIN Teven HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18356
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| TIERRAMIA TV
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18357
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| TNT HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18358
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| TNT Series HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18359
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| TNT SPORTS HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18360
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| TOONCAST HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18361
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| TRUTV HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18362
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| TV PUBLICA
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18363
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| TV5 HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18364
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| TVE HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18365
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| TYC SPORTS HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18366
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| UNIVERSAL HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18367
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| VH1 HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18368
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| VH1 MEGAHITS HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18369
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| VOLVER
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18370
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (ONLINE) ARG| WARNER HD
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18371
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| ZOOMOO
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18372
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Argentine", (OFFLINE) ARG| 24/7 Noticias
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18228
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 
