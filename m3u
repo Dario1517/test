@@ -35,3 +35,11 @@ https://e10.cdnfoxtv.me/ingestnb4s/espn2_sur/f.m3u8
 #EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN 3
 https://e10.cdnfoxtv.me/ingestnb4s/espn3_sur/f.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="DEPORTE", FOX SPORT
+https://e10.cdnfoxtv.me/ingestnb4s/fox1ar/f.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTE", FOX SPORT 2
+https://e10.cdnfoxtv.me/ingestnb4s/fox2ar/f.m3u8
+
+
+
