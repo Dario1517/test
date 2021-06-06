@@ -17,8 +17,8 @@ https://e10.cdnfoxtv.me/ingestnb4s/fox1ar/f.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTE", FOX SPORT 2
 https://e10.cdnfoxtv.me/ingestnb4s/fox2ar/f.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ARG| EL NUEVE 9 HD" tvg-logo="" group-title="Argentine",ARG| EL NUEVE 9 HD
-http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18276
+#EXTINF:-1 tvg-id="" tvg-name="ARG| EL NUEVE 9 HD" tvg-logo="" group-title="Argentine",ARG| prueba
+https://stream.zeno.fm/cvvvykmtpg8uv
 
 #EXTINF:-1 tvg-id="" tvg-name="ARG| El Nueve FHD" tvg-logo="" group-title="Argentine",ARG| El Nueve FHD
 http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18277
