@@ -1,75 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", ESPIRAL
-http://ps3u.ga/m3u/Lista02Peliculas/espiral/index.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", CRUELLA
-http://ps3u.ga/m3u/Lista02Peliculas/cruella/index.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", FRIENDS
-http://ps3u.ga/m3u/Lista02Peliculas/friends/index.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", AQUELLOS QUE DESEAN MI MUERTE
-http://ps3u.ga/m3u/Lista02Peliculas/deseanmimuerte/index.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", DESPUES DE TI
-http://ps3u.ga/m3u/Lista02Peliculas/despuesdeti/index.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", EL VIRTUOSO
-http://ps3u.ga/m3u/Lista02Peliculas/elvirtuoso/index.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", EL INMORTAL
-http://ps3u.ga/m3u/Lista02Peliculas/elinmortal/index.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", PALM SPRINGS
-http://ps3u.ga/m3u/Lista02Peliculas/palmsprings/index.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", TREN INFINITO
-http://ps3u.ga/m3u/Lista02Peliculas/treninfinito/index.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", EL PROTECTOR
-http://ps3u.ga/m3u/Lista02Peliculas/elprotector/index.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", HORIZONTE MORTAL
-http://ps3u.ga/m3u/Lista02Peliculas/horizontemortal/index.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", MORTAL KOMBAT
-http://ps3u.ga/m3u/Lista02Peliculas/mortalkombat/index.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", NADIE
-http://ps3u.ga/m3u/Lista02Peliculas/nadie/index.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", CAOS WALKING
-http://ps3u.ga/m3u/Lista02Peliculas/caos/index.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", GODZILLA VS KONG
-http://ps3u.ga/m3u/Lista02Peliculas/godzillavskong/index.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", UN MAL VIAJE
-http://ps3u.ga/m3u/Lista02Peliculas/unmalviaje/index.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", BUSCANDO A STEVE
-http://ps3u.ga/m3u/Lista02Peliculas/buscandoasteve/index.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", EL CAPITAN
-http://ps3u.ga/m3u/Lista02Peliculas/elcapitan/index.mp4
 
 #EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN
 https://e10.cdnfoxtv.me/ingestnb4s/espn_sur/f.m3u8
@@ -80,8 +10,8 @@ https://e10.cdnfoxtv.me/ingestnb4s/espn2_sur/f.m3u8
 #EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN 3
 https://e10.cdnfoxtv.me/ingestnb4s/espn3_sur/f.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTE", FOX SPORT
-https://e10.cdnfoxtv.me/ingestnb4s/fox1ar/f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTE", radio misiones
+https://01.solumedia.com.ar:7678
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="LOCALES 1", TELEFE  34.1  ####
 https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/master.m3u8?hdnea=st=1623232561~exp=1623239761~acl=/i/appmitelefe_1@326430/*~hmac=8b0f05686b54001420d7f43bb1e1d29ff9bf02504d541d791c0b4e2b98f2c1b5
