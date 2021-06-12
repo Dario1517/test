@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", RADIO CRISTAL
+https://streaming.evolucionstreaming.com:10866/stats?sid=1&json=1&callback=jQuery35104793303007503693_1623534997688&_=1623534997693
 
 #EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN
 https://e10.cdnfoxtv.me/ingestnb4s/espn_sur/f.m3u8
