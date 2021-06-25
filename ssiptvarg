@@ -1,1229 +1,930 @@
 #EXTM3U
 
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Informaci%C3%B3n_Period%C3%ADstica_IP_Logo.svg/260px-Informaci%C3%B3n_Period%C3%ADstica_IP_Logo.svg.png" group-title="NOTICIAS", IP  24.5         
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.grupocronica.com.ar/mediakit/wp-content/uploads/2017/10/cronica-hd-con-sombra-grande.png" group-title="NOTICIAS", CRONICA HD  24.4
-https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/120px-LogoCanal26.png" group-title="NOTICIAS", CANAL 26  24.2
-https://live-edge01.telecentro.net.ar/live/c26.smil/.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/A24_%282019-1%29.png/150px-A24_%282019-1%29.png" group-title="NOTICIAS", A24  36.3
-https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS", TODO NOTICIAS   
-https://www.youtube.com/watch?v=wHn1_QVoXGM    
-
-
-
-#EXTINF:-1 group-title="NOTICIAS", C5N  25.2
-https://www.youtube.com/watch?v=wlNWw5k14y8
-
-
-#EXTINF:-1 group-title="NOTICIAS", LN+  25.3
-https://www.youtube.com/watch?v=ns8-5XKA0Ww                 
-
-
-
-
-     
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="AMBA", AMERICA HD  36.1
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
-
- 
-
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/small.tvp_2021_solo.png.8136b8c364a0c185fe56affb93450fa5.png" group-title="AMBA", TV PUBLICA  23.2 
-https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="AMBA", CANAL 9  35.1 
-http://tv.nousiptv.com:8080/linodolega/12345/3438
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="AMBA", TELEFE  34.1
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0064
-
-
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png" group-title="NOTICIAS", TELEFÉ NOTICIAS
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f523aa5523ae000074745ec/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png" group-title="AMBA", TELEFÉ CLÁSICO
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae23-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a367d0d9-b23d-4bb5-8d48-55f0cbeac4fb&userId=&serverSideAds=true
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="AMBA", CANAL 13  33.1
-https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8   
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/120px-Net_TV_logo.png" group-title="AMBA", NET TV  27.2
-https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1088570060887810048/IAlLnIgQ.jpg" group-title="AMBA", CANAL DE LA CIUDAD
-https://g2.proy-slo.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/gcba_video4-100042_540p.m3u8               
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/150px-Logo_del_canal_Encuentro.svg.png" group-title="AMBA", CANAL ENCUENTRO 22.1
-https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8     
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/245px-Paka-paka.svg.png" group-title="AMBA", PAKA PAKA  22.2
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="AMBA", CINEAR  22.4
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8   
-
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" group-title="AMBA", GEN TV  17.3
-https://videohd.live:19360/8010/8010.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png" group-title="AMBA", CINCO TV TIGRE  30.1
-https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png" group-title="AMBA", NEO TV DIGITAL  14.1
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMm0MM0BtkhB9xHWsECtnky05aGfA8KKnDSg&usqp=CAU" group-title="AMBA", CANAL 29 QUILMES 18.1
-http://inliveserver.com:1935/8386/8386/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/08/canal-telecreativa.jpg" group-title="AMBA", TELECREATIVA LANUS
-https://panel.dattalive.com/8012/8012/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmExMjNmcmVlYXBwcy5mcmVlLmFwcDVkNWVjMWY4ODliOThfaWNvbl8xNTY3NjE5OTcxXzAxNw/icon.png?w=170&fakeurl=1" group-title="AMBA", CANAL 4 TELEAIRE SAN MARTIN
-https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-SlqJrd0GiYk/XjtCBz2FbhI/AAAAAAAAvog/HkkKzNWrEOYiE08Rdlw-mxsDtzpJ_zD8wCK8BGAsYHg/s0/2020-02-05.png" group-title="AMBA", CANAL 6 MORENO
-https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIC2PROV.png" group-title="AMBA", PROVINCIAL TV
-http://www.trimi.com.ar/provincial/streaming/mystreamProvincialHSMed.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.canalkzo.com/images/lg_kzo.svg" group-title="AMBA", KZO
-http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_540p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="NOTICIAS", FRANCE 24 ESPAÑOL - 24.3
-http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png" group-title="NOTICIAS", TELESUR  25.4
-https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="NOTICIAS", RT  25.5
-https://rt-esp-gd.secure2.footprint.net/1102.m3u8
-
-#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/mirador.png" group-title="AMBA", MIRADOR  22.3
-https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telemax.png" group-title="AMBA", TELEMAX  26.3
-https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://d2ucqd3jt48qxz.cloudfront.net/img/footer-logo.png" group-title="AMBA", ORBE 21  21.2
-https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dz92jh1unkapm.cloudfront.net/accounts/5cf95117cb97cae8e2c36676/logo.png" group-title="AMBA", UNIFE TV  25.1
-https://latamstreaming-live-os.akamaized.net/live_passthrough/unifearg1_ar_only_5/chunks.m3u8
-
-#EXTINF:-1 group-title="AMBA", DTV DIPUTADOS TELEVISION
-https://www.youtube.com/watch?v=NinBU5RPJZA
-
-#EXTINF:-1 tvg-logo="http://www.tectv.gob.ar/resources/img/logo.png" group-title="AMBA", TEC TV  22.5
-https://g3.mc-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://viajartv.tv/wp-content/uploads/2018/05/logo-viajar-new.png" group-title="AMBA", VIAJAR TV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0035
-
-#EXTINF:-1 tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="AMBA", GOURMET TV
-https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/canal-rural-tv.png" group-title="NOTICIAS", RURAL TV
-https://cda2.streaming.ws/elrural/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-pKI6d5kptYI/XnDCiQcHe0I/AAAAAAAAw_Y/pjVT7LGqYmswBIePrX9PeXozB4UncbPEgCK8BGAsYHg/s0/2020-03-17.png" group-title="NOTICIAS", CHACRA TV
-https://s8.stweb.tv/chacra/live/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/programs/ar_senal-argentinisima-satelital-1_p_m.jpg" group-title="NOTICIAS", ARGENTINISIMA SATELITAL
-http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w859718981_b1912000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/960549144657002496/9Rdtd6Ke_400x400.jpg" group-title="AMBA", TVU LA PLATA
-https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.onesignal.com/permanent/2abdeea6-0a9d-4083-913c-277bf221b79e" group-title="AMBA", SICARDI TV
-https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
-
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-3tmBSbJxRC4/X60f9a3rIGI/AAAAAAAAAQc/fF8IH8yVOA4RzCac-jUKBR7-BFVdjiTOwCK4BGAYYCw/s1600/Sin%2Bt%25C3%25ADtulo-logo%2Bnuevo%2Btl%2B2%2Bestrella.png" group-title="AMBA", TL ESTRELLA 
-https://stmvideo2.livecastv.com/telestrella/telestrella/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/canal22web.com/wp-content/uploads/2018/05/cropped-logo-canal22.gif?fit=512%2C512&ssl=1" group-title="AMBA", CANAL 22 WEB
-https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/1635339829_g4371-copia.png.60942d438030098e8f96bb76c5035349.png" group-title="DEPORTE", DEPORTV - 24.1
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT
-https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
-
-#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bein-sports.png" group-title="DEPORTES 2",  USA | BEIN SPORTS XTRA
-https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.diario26.com/images/musictop_logo.png?3" group-title="AMBA", MUSIC TOP
-https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-jE3Rb32vLEQ/XjtGJpQeqWI/AAAAAAAAvp4/P09Q1wK1oCwNhEhncQUUSJDGFBZzjErCwCK8BGAsYHg/s0/2020-02-05.png" group-title="AMBA", TERRAMIA TV
-http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT1c3PyXIcqxuCOYCxhVbQDPPtRAmtzSY59g&usqp=CAU" group-title="AMBA", CM
-https://g4.proy-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Am%C3%A9rica_Tucum%C3%A1n_Canal_28.1_%282019-1%29.png" group-title="NORTE", AMERICA TUCUMAN 
-http://45.6.4.154/americatuc/vivo.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Telefe_Tucum%C3%A1n_%282018%29.png/133px-Telefe_Tucum%C3%A1n_%282018%29.png" group-title="NORTE", TELEFE TUCUMAN
-https://tlfcapitalhls-lh.akamaihd.net/i/canal8tucuman_1@787002/master.m3u8?hdnea=st=1624528225~exp=1624704625~acl=/i/canal8tucuman_1@787002/*~hmac=02937d718ac9b87b36c545eb1acb94912a1ac6fd23aec6ab8056d4431fab8ccf
-
-
-#EXTINF:-1 tvg-logo="http://calchaquitv.com.ar/images/logo.png" group-title="NORTE", CALCHAQUI TV TUCUMAN
-http://video.streamtvradio.com:8081/uv068/uv068/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.ntvcanal7.com.ar/images/logo-canal7-150.png" group-title="NORTE", 7 NORTE TUCUMAN
-http://video.streamtvradio.com:8081/uv027/uv027/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa8N1f8j5_KNu-GyEt8MmVUXZmOc82wtIPAiG6_trSrkRup7IcU2CBjLqsp_S5WvsFBuU&usqp=CAU" group-title="NORTE", PALOMAR TV TUCUMAN
-http://video.streamtvradio.com:8081/uv038/uv038/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100598_Metro_TV_Canal_12_Tucuman.png" group-title="NORTE", CANAL 12 TUCUMAN
-https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
-
-#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.6435-9/69538283_2477118882346063_3348490571365744640_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=973b4a&_nc_ohc=FarCgd21lscAX9cOVuh&_nc_ht=scontent.fepa11-1.fna&oh=7037c9f82a841cc48bd44f6e67f90054&oe=60DA9F3B" group-title="NORTE", X24 TUCUMAN 
-https://srv1.zcast.com.br/x24hd/x24hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100580_Canal_6_Entre_Rios.png" group-title="CENTRO", 6 ENTRE RIOS TV
-https://stmvideo1.livecastv.com/canal6er/canal6er/playlist.m3u8
-
-#EXTINF:-1 group-title="CENTRO", EL DOCE CORDOBA
-https://www.youtube.com/watch?v=gBbMbqILzXU
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png/133px-Telefe_C%C3%B3rdoba_%282018%29.png" group-title="CENTRO", TELEFE CORDOBA
-https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1624528512~exp=1624704912~acl=/i/canal8cordoba_1@685726/*~hmac=114290872b05085f003efe9ad837664b037873bb13ce84a1bdfd8aa3dda8bd7c
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1_p-RfF0oIo/XjtDhLIE25I/AAAAAAAAvpE/uzoG77Dzsp8PEzYtGkaBadawaE0ISWlywCK8BGAsYHg/s0/2020-02-05.png" group-title="CENTRO", CANAL 10 CORDOBA
-https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-bhc1ryCQBss/XjtDRMLA6RI/AAAAAAAAvo8/A5WXhRqhV2EdFzBWINyyhUoqFK1eYWJmQCK8BGAsYHg/s0/2020-02-05.png" group-title="CENTRO", CANAL U CORDOBA
-https://vcp.myplaytv.com/canal10srt/smil:canal10srt.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Gceq5SpfHb8/XrYRAGJeBUI/AAAAAAAA0i4/OHxya9wtX5kJC06MlqyfpUCl9M2azquDQCK8BGAsYHg/s0/2020-05-08.png" group-title="CENTRO", TELEDIARIO RIO CUARTO
-https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Nueve_Litoral_%28Logo_2010%29.png" group-title="CENTRO", CANAL 9 PARANA
-https://stream.arcast.live/ahora/ahora/playlist.m3u8
-
-#EXTINF:-1 group-title="CUYO", CANAL 7 MENDOZA
-https://www.youtube.com/watch?v=MXSS64cx_P4
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="CUYO", CANAL 9 MENDOZA
-https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5d4CZcV4phPi6eGsr1eeaBDFwh4dQ-XmLtQ&usqp=CAU" group-title="CUYO", ACEQUIA TV MENDOZA
-http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://viviloendirecto.com/content/launch/images/launch.png" group-title="CUYO", TVEO MENDOZA
-https://5b3050bb1b2d8.streamlock.net/viviloendirecto/canal_tveo/chunklist_w2036248970.m3u8
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/El-Tres-TV-Rosario-en-vivo-Online.png" group-title="CENTRO", CANAL 3 ROSARIO
-https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/133px-Telefe_Rosario_%282018%29.png" group-title="CENTRO", TELEFE ROSARIO
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0307
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/133px-Telefe_Rosario_%282018%29.png" group-title="CENTRO", TELEFE ROSARIO (op 2)
-http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/index_1_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-OmdVIgiYcpQ/XrYImNhAa7I/AAAAAAAA0hA/HKMr0zop2CsNpUAuev_aVuelSQkqOLzTQCK8BGAsYHg/s0/2020-05-08.jpg" group-title="PAMPEANA", CANAL 10 MAR DEL PLATA
-https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Telefe_Mar_del_Plata_%282018%29.png/133px-Telefe_Mar_del_Plata_%282018%29.png" group-title="PAMPEANA", TELEFE MAR DEL PLATA
-https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=st=1624528640~exp=1624705040~acl=/i/mdqdistri02_1@829747/*~hmac=6d423c31cb9ac91c8db2da1c68171623fd9943eaa6a78f5beaf03fc2c01c987a
-
-#EXTINF:-1 tvg-logo="https://canal2mdp.com.ar/wp-content/uploads/2016/04/13427954_1104019889671271_5647949923378659701_n-1.jpg" group-title="PAMPEANA", CANAL 2 MAR DEL PLATA
-https://streamcasthd.com:19360/canal2mdp/canal2mdp.m3u8
-
-#EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/Canal-Universidad-de-Mar-del-Plata-en-vivo-Online.png?fit=1920%2C1080" group-title="PAMPEANA", UNIVERSIDAD TV MAR DEL PLATA
-https://stream-03.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL54_JLheUKXbVFjYCpOFEEy7M)/dm/3/x7kvvgi/s/live-2.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-6yBSbBB-AHE/XjtBSO4ZGtI/AAAAAAAAvoQ/_ZYx1XEmyo0wXnwYQDegDsetCUlb9u0FwCK8BGAsYHg/s0/2020-02-05.png" group-title="PAMPEANA", Canal 41 XFN MAR DEL PLATA
-https://5f6e1fe8f2d2e.streamlock.net/canalxfn/canalxfn/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8LPw-2NROAydBROCEBS7Vh2pGq4r_ecijUDPNjVXKcitaXEnojMVM3Nsh2SWR9brUJW0&usqp=CAU" group-title="CENTRO", SANTA FE CANAL
-http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/764094244722184192/ZzC-pGTJ.jpg" group-title="CENTRO", LITUS TV SANTA FE
-https://5975e06a1f292.streamlock.net:4443/litustv/ngrp:litustv_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Telefe_Santa_Fe.png/133px-Telefe_Santa_Fe.png" group-title="CENTRO", TELEFE SANTA FE
-https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/master.m3u8?hdnea=st=1624528565~exp=1624704965~acl=/i/canal13santafe_1@751190/*~hmac=660a5162b64b21cf9274195c7ff0a8fa45f35cf6a0ba4d6f429e1e8927cee052
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-AC26znRmOW4/XrYIBNhD6kI/AAAAAAAA0g4/kn_aWJvt1cAU5lJDuPtnU75IFziaYiaygCK8BGAsYHg/s0/2020-05-08.png" group-title="CENTRO", AIRE DE SANTA FE
-https://sc1.stweb.tv/airedigital/live/playlist.m3u8 
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-KpgEAsGdpDE/XUtjFb_0mpI/AAAAAAAAHDo/2tDNzjjnej8AEwBjlNPoPIPBOP6hs20hACLcBGAs/s1600/fm-activa-93-1.png" group-title="CENTRO", ACTIVA TV SANTA FE
-https://59537faa0729a.streamlock.net/tvactiva/tvactiva/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.c5sf.com/wp-content/uploads/2018/07/c5x2.png" group-title="CENTRO", C5SF SANTA FE
-https://5975e06a1f292.streamlock.net:4443/c5sf/c5sf/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.c5sf.com/wp-content/uploads/2018/07/c5x2.png" group-title="CENTRO", C5SF SANTA FE 2
-https://5975e06a1f292.streamlock.net:4443/c5sf2/c5sf2/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-2-Jujuy-en-vivo-Online.png?fit=1920%2C1080&ssl=1" group-title="NORTE", CANAL 2 JUJUY
-http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mheC_82BX9k/XjtJQGo368I/AAAAAAAAvrE/3PLKryDEU3UT_TEYgef0tCaWxwj2OJtLQCK8BGAsYHg/s0/2020-02-05.png" group-title="NORTE", CANAL 4 JUJUY
-http://streaming.wirenetserver.com.ar:1935/canal4/manifest.smil/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gU0LdOci1cE/XrYL7uefhAI/AAAAAAAA0h0/N9ww7QKwrrY9kCL4fMrD3mroXZHoYMudACK8BGAsYHg/s0/2020-05-08.png" group-title="NORTE", CANAL 7 JUJUY
-https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-MIPx_jwl1b8/YIIO2nIZJJI/AAAAAAABB4k/cFlUxyEcnB4HPw1-rjH77cyyscKnWHc3wCK8BGAsYHg/s512/2021-04-22.png" group-title="NORTE", RTV CABLE JUJUY
-https://streamcasthd.com:19360/rtvcable/rtvcable.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-d0xwvrhf7JA/XjtInR7RIZI/AAAAAAAAvqw/68cv4FGDFB8BJwWGdo-31-vPYVqkw2OmgCK8BGAsYHg/s0/2020-02-05.png" group-title="CUYO", CANAL 4 SAN JUAN
-http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
-
-#EXTINF:-1 group-title="CUYO", CANAL 8 SAN JUAN
-https://www.youtube.com/watch?v=BZGbwWeDeIQ
-
-#EXTINF:-1 group-title="CUYO", CANAL 13 SAN JUAN
-https://www.youtube.com/watch?v=q28hht7-sms
-
-#EXTINF:-1 tvg-logo="https://www.telesoldiario.com/wp-content/uploads/2019/03/telesol.jpg" group-title="CUYO", TELESOL SAN JUAN
-https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qopz8YZytSM/hqdefault.jpg" group-title="CUYO", AM 1020 SAN JUAN
-http://51.79.83.93:9998/live/am1020/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhml_0zRy7_oxvUndx_46JNVb1uDb3UO8_woGi6qg=s900-c-k-c0x00ffffff-no-rj" group-title="CUYO", ZONDA TV SAN JUAN
-https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/del-sur-tv.png" group-title="CUYO", DEL SUR TV SAN JUAN
-http://51.79.83.93:9998/live/delsurtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png" group-title="CUYO", CANAL 34 SAN JUAN
-http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cuidar.tv/templates/it_mighty/custom/images/cuidartv-logo.svg" group-title="CUYO", CUIDAR TV SAN JUAN
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0282
-
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_QTSBRhcjGU/XATV6kEZxBI/AAAAAAAAA64/EfPiSHBQFZMfzxSac9m9gDWR1VFtBGUWQCLcBGAs/s400/Canal_XAMA_TV_San_Juan.png" group-title="CUYO", XAMA TV SAN JUAN
-https://sc1.stweb.tv/unisanjuan/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://albardontv.com.ar/wp-content/uploads/2020/02/1.png" group-title="CUYO", ALBARDON TV SAN JUAN
-https://59537faa0729a.streamlock.net/albardontv/albardontv/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-P6gxaSGuYOY/Xjs7U_dYASI/AAAAAAAAvnc/Dj2e2bzLHdgo45TH9mqETojtcfMhKpX4wCK8BGAsYHg/s0/2020-02-05.png" group-title="NORTE", 13 MAX CORRIENTES
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://t5satelital.com/theme/img/T5logo.png" group-title="NORTE", T5 CORRIENTES
-http://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8    
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTV63G3ylzZ5HZpuXGO3gMM_karSoJ9au5N2w&usqp=CAU" group-title="NORTE", 5TV CORRIENTES
-http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/canalnueve.tv/wp-content/uploads/2019/06/c9_1.png" group-title="PATAGONIA", CANAL 9 COMODORO RIVADAVIA
-https://live.canalnueve.tv/canal.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-8RQ6Xhx3aek/XjtJFnEx_ZI/AAAAAAAAvrA/yM5l4Cz0Q3M6JmvHF4n5rjbEXc7W___XgCK8BGAsYHg/s0/2020-02-05.png" group-title="NORTE", CANAL 4 POSADAS
-https://589ff3c36f7e8.streamlock.net/canal4/canal4/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-uYJjXBSPKcQ/XrYLr-JJG2I/AAAAAAAA0hs/wSH1Dy7JWGkic3m4szzF2dIrjTyHOYHuwCK8BGAsYHg/s0/2020-05-08.png" group-title="NORTE", CANAL 6 POSADAS MISIONES
-https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-12-Misiones-en-vivo-Online.png" group-title="NORTE", CANAL 12 MISIONES
-https://g2.vxral-hor.transport.edge-access.net/a12/ngrp:c12_live01-100129_all/c12_live01-100129_720p.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Telefe_Neuqu%C3%A9n_%282018%29.png/133px-Telefe_Neuqu%C3%A9n_%282018%29.png" group-title="PATAGONIA", TELEFE NEUQUEN
-https://tlfcapitalhls-lh.akamaihd.net/i/canal7neuquen_1@751158/master.m3u8?hdnea=st=1624528804~exp=1624705204~acl=/i/canal7neuquen_1@751158/*~hmac=8946aa44e25d3486aa5ca4827d765e8737240091e9edbb4a153d862d67633bc6
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-E9zOAkKHOaw/XjtG9WkFKEI/AAAAAAAAvqQ/j2nVTLIMsZUsZfVliojEB5JU601yHtKQACK8BGAsYHg/s0/2020-02-05.png" group-title="PATAGONIA", RTN NEUQUEN
-http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Telefe_Bah%C3%ADa_Blanca_%282018%29.png/133px-Telefe_Bah%C3%ADa_Blanca_%282018%29.png" group-title="PAMPEANA", TELEFE BAHIA BLANCA
-https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?hdnea=st=1624501113~exp=1624677513~acl=/I/canal9bahiablanca_1@685725/*~hmac=3bd97ecec430eb39abae385f6df60e3c85bcbc4c2745632307570871e92207ca
-
-#EXTINF:-1 group-title="PAMPEANA", CANAL 7 BAHIA BLANCA (NOTICIERO)
-https://www.youtube.com/watch?v=K4HTS6vpOb0
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSw2yMcTqhKdvfWtFct2pBroKSFgxMlqYTAw&usqp=CAU" group-title="NORTE", CANAL 7 CATAMARCA
-https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Canal-3-La-Pampa-en-vivo-Online.png" group-title="PAMPEANA", CANAL 3 LA PAMPA
-https://5975e06a1f292.streamlock.net:4443/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-C_wI8P7fPY4/XrYSA1hre4I/AAAAAAAA0jM/fPA9M7hoGeYRd2DAHtOIvQzlFlF0ezrbACK8BGAsYHg/s0/2020-05-08.png" group-title="PATAGONIA", TV PUBLICA FUEGUINA
-https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://noticiasrionegro.nyc3.digitaloceanspaces.com/images/970695c419f6fdbe5e8d5a4f176375a6.jpg" group-title="PATAGONIA", CANAL 10 RIO NEGRO
-https://panel.dattalive.com/8204/8204/playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="http://canal7.tv/wp-content/uploads/2018/02/canal7-logos-02.png" group-title="NORTE", CANAL 7 SANTIAGO DEL ESTERO
-https://5975e06a1f292.streamlock.net:4443/envivo/castv/playlist.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-XB7qQwxGgsY/WKsrFu7SEMI/AAAAAAAAUW4/nJA6XK03oeI0v0iYaxfb1J5P-zGHRWCKACLcB/s1600/logo%2Bcanal.jpg" group-title="NORTE", CANAL 3 FORMOSA
-https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109636_UTN_TV.png" group-title="PATAGONIA", UTN TV RIO GALLEGOS
-https://5975e06a1f292.streamlock.net:4443/utntv/utntv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-dcR6LiSEM3o/XjtCwLNAomI/AAAAAAAAvow/p-uUGIkr-7ANc2E8PvDvRJE2lU4OZ3ExgCK8BGAsYHg/s0/2020-02-05.png" group-title="PATAGONIA", CANAL 7 CHUBUT
-http://stream.chubut.gov.ar:1935/C7/vivo.stream/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/eb/609px-Canal_Trece_San_Luis_%28Logo_2016%29.png/revision/latest/scale-to-width-down/340?cb=20191120203521" group-title="CUYO", CANAL 13 SAN LUIS
-https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR2rWFai7wm5hmr6nAciUu7Esm8YcLq10du0w&usqp=CAU" group-title="CUYO", CANAL 2 SAN LUIS
-https://59d52c5a5ce5e.streamlock.net:4443/sanluisctv/sanluisctv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-NGDAifGyP1E/UpI-Xc5EYqI/AAAAAAAAAFM/jdgvD3akd_I/s320/canal11.jpg" group-title="NORTE", CANAL 11 MACHAGAI CHACO
-http://videostream.shockmedia.com.ar:1935/cristalfm/cristalfm/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mgmL8cb_jtc/XjtDrQ3HzaI/AAAAAAAAvpI/tgRhGRWSXnsz9hvxd4oPgM16JpByuhRzwCK8BGAsYHg/s0/2020-02-05.png" group-title="NORTE", CHACO TV
-https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://ciudadtv.com.ar/imgs/logo.png" group-title="NORTE", CIUDAD TV CHACO
-http://coninfo.net:1935/chacodxdtv/live/chunklist_w594189072.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-TgZv-RGCYoc/XrYHwcpfivI/AAAAAAAA0gw/AuqgxhioqLc1qhSHFDdH1ZftA0PKvOnzQCK8BGAsYHg/s0/2020-05-08.jpg" group-title="NORTE", 9LINK CHACO
-http://www.coninfo.net:1935/9linklive/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/radioplus1035.com.ar/wp/wp-content/uploads/2021/05/cropped-133737876_867518750733014_8075470442578818509_o-1.jpg?w=512" group-title="NORTE", CANAL 6 PLUS TV  PRESIDENCIA DE LA PLAZA  CHACO
-http://videostream.shockmedia.com.ar:1935/plustv/plustv/chunklist_w70863142.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.estoesmachagai.com/web/img/IMAGEN_PORTADA_SITIO_WEB_02.jpg" group-title="NORTE", CANAL 3 PLUS TV  MACHAGAI CHACO
-https://59537faa0729a.streamlock.net/plustvmachagai/plustvmachagai/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/913627349/telecondor_satelital_400x400.jpg" group-title="CENTRO", CANAL 4 TELECONDOR
-https://59537faa0729a.streamlock.net/canal4telecondor/canal4telecondor/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV4s1mlOqPhwNQUcnPe1_TJW7FG_abAbyM6g&usqp=CAU" group-title="CENTRO", N24TV LOS CONDORES
-https://59537faa0729a.streamlock.net/n24tv/n24tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.fenix951.com.ar/nuevo_2013/a2017/assets/imgapp/logocanal.jpeg" group-title="NORTE", FENIX LA RIOJA
-https://stmvideo1.livecastv.com/fenixlarioja/fenixlarioja/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--13LR.png" group-title="NORTE", CANAL 13 LA RIOJA
-https://59d52c5a5ce5e.streamlock.net:4443/mp/mp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://multimedioteveochodigital.com/uploads/logo/logo_5cccaad4c70e1.png" group-title="NORTE", TEVE OCHO CHEPES LA RIOJA
-https://stmvideo1.livecastv.com/teveocho/teveocho/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://canal2sanagasta.com/wp-content/uploads/2018/03/28458722_419904775113526_320551255_n.png" group-title="NORTE", CANAL 2 SANAGASTA
-https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnitrSB9Z7r09TtKy1-VxLb8XvxxayUQEYvUnkYI=s900-c-k-c0x00ffffff-no-rj" group-title="NORTE", CHILECITO TV LA RIOJA
-https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hG84H0QxC34/XjtD8OwAKBI/AAAAAAAAvpQ/Lhs3FJpP72UaHBX4n9lp5dpsTZmU8Ya_gCK8BGAsYHg/s0/2020-02-05.png" group-title="NORTE", MULTIVISION SALTA
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyJyk1LbcH1cFHiW94bqNSt5gdWC1pa-exZg&usqp=CAU" group-title="NORTE", CANAL 10 SALTA
-https://clientes.videostreaming.ar:19360/openradio2/openradio2.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telefe_Salta_%282018%29.png/800px-Telefe_Salta_%282018%29.png" group-title="NORTE", TELEFE SALTA
-https://tlfcapitalhls-lh.akamaihd.net/i/canal11salta_1@722934/master.m3u8?hdnea=st=1624528639~exp=1624705039~acl=/i/canal11salta_1@722934/*~hmac=cbeac714dde0458c0463a5cc4bcdf0837df9c9c295010cd067a084949d230c0a
-
-
-#EXTINF:-1 tvg-logo="https://frecuenciasalta.ar/wp-content/uploads/2020/08/NEOX-SALTA-300x240.jpg" group-title="NORTE", NEOX TV SALTA
-https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/8wBbZDC6NMnd1uS8IGhPC2Lm4pxPt7uQ3TxaICRzD1vvfnXcpjiPtRGPivpDIJbC5SYB" group-title="NORTE", TELE5 SALTA
-https://vivo.solumedia.com:19360/canal5/canal5.m3u8
-
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-4uuTlgBxIrI/T-8fuime0xI/AAAAAAAAAu0/az3W_0QE8Aw/s1600/canal2.jpg" group-title="NORTE", CANAL 2 SALTA
-https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj3A5dsZMcJlJdjb7NWxnpPuV2HFmJVcJqzyf2Y9g=s900-c-k-c0x00ffffff-no-rj" group-title="NORTE", CANAL 18 SALTA
-https://59537faa0729a.streamlock.net/canalglobaltv/canalglobaltv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-KCqAdPir4u0/XrYMI6iIs_I/AAAAAAAA0h4/UaFlSVSv3Foz_7161A3vWWA5kkH4RTZbQCK8BGAsYHg/s0/2020-05-08.png" group-title="NORTE", CANAL 7 SALTA
-https://589ff3c36f7e8.streamlock.net/crespo3/crespo3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.mileniumtv.com.ar/wp-content/uploads/elementor/thumbs/logo-ohrxmwyu219car5qjnmnky0ll0mfu6yuk15jy6idgw.png" group-title="NORTE", MILENIUM TV SALTA
-https://videoairetafi.turadioonline.com.ar:5443/LiveApp/streams/490106569518876444904284.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-E_k6h1uVYe8/YHscpANLtMI/AAAAAAABBpM/x5nyrtk-tdMKfI9neaRMx8d0rXhI0DgYACK8BGAsYHg/s512/2021-04-17.jpg" group-title="NORTE", CANAL 10 NORTEVISION
-https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/apMSrKP4Vh0-kXjo9LblAWXF1ECWRAePh4fbqp6mgqzvvafXFHzKI2uoZ2p7Og3GJb4" group-title="CENTRO", SPEED TV CONCORDIA
-http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Wpq8af4GxNg/YLlykYLuXhI/AAAAAAABCps/Xxgv3b7r5voeijxjk4qxMt7tome4k85OQCJEEGAsYHg/s512/2021-06-03.jpg" group-title="CENTRO", TVES SAN JOSE DE LA ESQUINA SANTA FE
-https://mediacp.hostradios.com.ar:19360/envivotv/envivotv.m3u8
-
-
-
-#EXTINF:-1 group-title="CENTRO", ONCE PARANA
-https://www.youtube.com/watch?v=gAO5zqYol0A
-
-#EXTINF:-1 group-title="PAMPEANA", CANAL 12 TRENQUE LAUQUEN
-https://www.youtube.com/watch?v=eO0hLFml_3c
-
-#EXTINF:-1 group-title="PATAGONIA", ADNSUR COMODORO RIVADAVIA
-https://www.youtube.com/watch?v=6giZASf8--M
-
-#EXTINF:-1 group-title="PAMPEANA", VERTE TV
-https://www.youtube.com/watch?v=FxYA-W6Zbjk
-
-#EXTINF:-1 tvg-logo="https://itel.com.ar/web/image/res.company/1/logo/Itel%20S.A.?unique=18bdb79" group-title="CENTRO", ITEL CHAJARI
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0201
-
-
-
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127476_Vibra_TV.png" group-title="NORTE", VIBRA HD MONTE CASEROS
-https://live.admefy.com/live/default/shiny_silver_49d7a.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ZWPrpW2bheA/YJnMVAiFeSI/AAAAAAABCOs/fQfFM-dskRk13Y2-wumbOlfUhFOlrytLQCK8BGAsYHg/s512/2021-05-10.jpg" group-title="CENTRO", CANAL 5 ALCORTA SANTA FE
-https://stmvideo1.livecastv.com/canal5/canal5/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-XoS6RxCQSVU/YH40uN-lAnI/AAAAAAABBwg/gSs_tad_SrMBNJ_KqXnaNOoM60CSqWuBQCK8BGAsYHg/s512/2021-04-19.jpg" group-title="NORTE", TELENORD CORRIENTES
-http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-yXbMzmQrlwc/Xjs7Bl2nHtI/AAAAAAAAvnU/lSMJ7dxyZL08lM3-UbyU4ckOLrd3HTwvQCK8BGAsYHg/s0/2020-02-05.png" group-title="CENTRO", TDC TV SANTA FE
-https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-NNKwN__O6ow/XjtC-7aspzI/AAAAAAAAvo0/v09wOJBPPlUnV3i75aEZ-ffQbViAKoXJACK8BGAsYHg/s0/2020-02-05.png" group-title="PATAGONIA", Canal 12 PUERTO MADRYN
-https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1phsO-ubizU/Xjs7vHKVggI/AAAAAAAAvno/rT7oXAbNr_gKAdV3lKdf9tJjftYLEG9-wCK8BGAsYHg/s0/2020-02-05.png" group-title="CENTRO", QUATRO TV RIO CUARTO
-https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniwA0CrY8LRz5j9u7W--3nz-xTH9Rx06LJdwyrtyA=s900-c-k-c0x00ffffff-no-rj" group-title="CENTRO", CANAL 9 RIO CUARTO
-http://streamcasthd.com:1935/canal9riocuartotv/canal9riocuartotv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.radiocanal.com.ar/imagenes/estructura/canal4.png" group-title="CENTRO", CANAL 4 SAN FRANCISCO CORDOBA
-http://204.199.3.2/.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-pSW2boY6Hdg/XvKY9iZvQuI/AAAAAAAA2MI/VIJZpl99EmwV71NgaYFHvYEPEsl3jzD3ACK8BGAsYHg/s0/2020-06-23.jpg" group-title="CENTRO", CANAL COOP JESUS MARIA CORDOBA
-https://panel.dattalive.com/8138/8138/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://noticiasgualeguay.com/wp-content/uploads/2019/09/logocanal2-x2.png" group-title="CENTRO", CANAL 2 GUALEGUAY ENTRE RIOS
-https://59d52c5a5ce5e.streamlock.net:4443/gualeguay/gualeguay/chunklist_w953510345.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCInK8RGqWtu191slIer7HKe6io1ngczZbkQ&usqp=CAU" group-title="CENTRO", CANAL 5 TV ENTRE RIOS
-https://srv3.zcast.com.ar/carlosr/carlosr/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://revistafibra.info/wp-content/uploads/2014/10/cpe.png" group-title="PAMPEANA", CPE TV LA PAMPA
-https://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/index_150_av-p.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTgHZgj0j0s3y22Xu7XjBqMSGaRJJHIdGmkrg&usqp=CAU" group-title="CENTRO", CANAL 50 MORTEROS
-https://coopmorteros.online/canal50/vivo.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLnB0c3RhY3J1emFwcHBybGw0Ni5jYW5hbDVwaWNvdHJ1bmNhZG9hcHBfc2NyZWVuXzJfMTUzMjM1ODEyOV8wNTE/screen-2.jpg?fakeurl=1&type=.jpg" group-title="PATAGONIA", CANAL 5 PICO TRUNCADO SANTA CRUZ
-http://streaming.arcast.com.ar:1935/canal5picotruncado/canal5picotruncado/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45090_10_TV.png" group-title="CENTRO", CANAL 10 ENTRE RIOS
-http://streamingvideo.com.ar:1935/10tv/live/playlist.m3u8 
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Dwon9sRZsSY/Xjs6WmRFAaI/AAAAAAAAvnM/Zgcsd4pznrUNtvK8TghlckQw1YcLWnkdwCK8BGAsYHg/s0/2020-02-05.png" group-title="CENTRO", CL3 SANTA FE
-http://videostream.shockmedia.com.ar:1935/cl3cable/cl3cable/playlist.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/celtatv.png" group-title="PAMPEANA", CELTA TV TRES ARROYOS
-https://vivo.solumedia.com:19360/celta/celta.m3u8
-
-#EXTINF:-1 tvg-logo="https://noticiaseps.com.ar/wp-content/uploads/2018/06/cropped-noticiastitulo-3.png" group-title="PAMPEANA", NOTICIAS EPS BRAGADO
-https://inliveserver.com:1936/9504/9504/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3487556435/aaae8392a11f89550187210f1a944807_400x400.jpeg" group-title="PAMPEANA", CANAL 29 ENSENADA
-https://clientes.videostreaming.ar:19360/multimediosensenada/multimediosensenada.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhUQ5Os9Dt_YYuUoJ2UonRBs23Q-HMnpEe3Q0hd2g=s88-c-k-c0x00ffffff-no-rj" group-title="PAMPEANA", MERCEDES TV
-https://stmvideo1.livecastv.com/mercedestv/mercedestv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-NIJDSgSyQwI/YF4tcPPggxI/AAAAAAABA9Y/1pkfP7_eu10_moioRSqfOJpdaGgDsv2agCK8BGAsYHg/s512/2021-03-26.png" group-title="PAMPEANA", CANAL 32 SPTV SAN PEDRO
-https://srv4.zcast.com.br/sptv/sptv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80665_Canal_3_Pinamar.png" group-title="PAMPEANA", CANAL 3 PINAMAR
-https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108929_Airevision_Digital.jpg" group-title="PAMPEANA", AIREVISION PUNTA ALTA
-http://airevision.ddns.net:1935/live/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ulhiusmLK5w/XjtA5Bi-zrI/AAAAAAAAvoI/A7OP1Flx4xM4g5VOMH9ZfUz7HrxtW3OMQCK8BGAsYHg/s0/2020-02-05.png" group-title="PAMPEANA", CANAL 2 TELPIN PINAMAR
-https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-bfgU_ufKFps/XrYKd9HJC_I/AAAAAAAA0hY/TxCOOPSR-R8fBb8zd9ThamFRUKIRsoFrACK8BGAsYHg/s0/2020-05-08.png" group-title="PAMPEANA", CANAL 4 BAHIA BLANCA
-https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8
-
-#EXTINF:-1 tvg-logo="https://multimedio.com.ar/wp-content/uploads/2019/10/Logo-Canal-11.png" group-title="PAMPEANA", CANAL 11 MAR DE AJO
-https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
-
-#EXTINF:-1 tvg-logo="https://madmultimedios.com.ar/download/publicidades.imagen.85ca37af4521c2f4.696d6167656e2e706e67.png" group-title="PAMPEANA", CANAL 5 TANDIL
-https://stmvideo1.livecastv.com/madmultimedios/madmultimedios/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQm4lKe3uMzJnjq38A3QLkgbFduVklg1mHu2g&usqp=CAU" group-title="PAMPEANA", EL ECO TV TANDIL
-https://5f93e494d5906.streamlock.net/elecotv/elecotv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bernaltv.com.ar/wp-content/uploads/2021/04/logo.png" group-title="PAMPEANA", BERNAL TV
-https://5f6e1fe8f2d2e.streamlock.net/bernaltv/smil:bernaltv.smil/chunklist_w986599499_b350000_slen.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.canal4teleba.com.ar/img/banner.png" group-title="PAMPEANA", TELEBA BALCARCE
-http://inliveserver.com:1935/8550/8550/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg0FnSIU_RyiIpSh13Lib51bIc3eHkdYAdfQ&usqp=CAU" group-title="PAMPEANA", TELEJUNIN
-https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.treslineas.com.ar/foto/nota-1585649-senal-informativa-cable-local-despidio-trabajadores-927024.jpg?imgres=1000x0x80" group-title="PAMPEANA", TSN NECOCHEA
-https://panel.dattalive.com/tsnnecochea/tsnnecochea/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZScf2vGCoWiu40kFt6K-UBMCvX1CeZEAhUA&usqp=CAU" group-title="PAMPEANA", CELTV CANAL 2 TORNQUIST
-http://190.103.192.6:8080/hls/mystreamkey.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQveDDw-1eyCiqykUajXQ8IqRRCfTehbi_mj0jwSc3lm2t0754lpZIiZSEMyQWo1cVk0Im6X96FsFSwIeuHNcn_mg2xvOLDiGrxrlwN&usqp=CAU&ec=45688578" group-title="NORTE", CEEL 4 MISIONES
-https://5975e06a1f292.streamlock.net:4443/canal4eldorado/canal4eldorado/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/JsIS1YqaTOrBxvKTb7kxByI2MQ6W1XTxGb3u_jp5AQoD09CEuPb7PfjAUNiAW-cM4oA" group-title="NORTE", CANAL 9 NORTE MISIONES
-https://panel.dattalive.com/8076/8076/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://canal4esquel.com.ar/wp-content/uploads/2020/12/logo-web-retina-ok-si-300x99.png" group-title="PATAGONIA", CANAL 4 ESQUEL
-https://5975e06a1f292.streamlock.net:4443/canal4esquel/canal4esquel/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK6ESCf3yyS1i2vkhRNDR-UPf-UtveJIqyjA&usqp=CAU" group-title="PATAGONIA", TELECINCO TRELEW
-https://videohd.live:19360/8016/8016.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.infomedia24.com.ar/v2/wp-content/uploads/2017/04/logo-infomediax2.png" group-title="PATAGONIA", LM 24 RIO GALLEGOS
-https://59d52c5a5ce5e.streamlock.net:4443/infomedia/infomedia/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.crossingcontenidos.com.ar/wp-content/uploads/2020/10/LOGO-CROSSING-IPTV-300x282.png" group-title="PATAGONIA", CROSSING TV RIO GALLEGOS
-https://vivo.solumedia.com:19360/crossing/crossing.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tiketekarg.com/imagen/tike_vivo.jpeg" group-title="PATAGONIA", TiketekArg RIO GALLEGOS
-https://59d52c5a5ce5e.streamlock.net:4443/tiketekarg/tiketekarg/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cable10.com/imagenes/logo.png" group-title="PATAGONIA", CABLE 10 HD RIO GALLEGOS
-http://inliveserver.com:1935/8292/8292/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-KJGE0TKvI_8/YGpDWfym42I/AAAAAAABBMo/Bs78lQAvh4AdpUgsZ1R4HYCav3pdLpAFACK8BGAsYHg/s512/2021-04-04.png" group-title="PATAGONIA", ZN NOTICIAS CALETA OLIVIA
-http://arcast.com.ar:1935/znoticias/znoticias/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canal3lasheras.com/wp-content/uploads/2018/03/logocanal3-x1.png" group-title="PATAGONIA", CANAL 3 LAS HERAS
-https://5975e06a1f292.streamlock.net:4443/canal3/canal3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://uniteve.com.ar/wp-content/themes/uniteve-2017/img/header-logo.png" group-title="CENTRO", UNITEVE VILLA MARIA CORDOBA
-https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108679_UNIRIO.png" group-title="CENTRO", UNIRIO TV
-https://5f700d5b2c46f.streamlock.net:443/uniriotv/uniriotv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-j9I0buhulss/VxrWQ9llwXI/AAAAAAAACtQ/L2fSLfI0ujcLQbrzCfw8rX0dx4X1P2jvACLcB/s1600/canal-20-villa-maria-en-vivo.jpg" group-title="CENTRO", CANAL 20 VILLA MARIA CORDOBA
-https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Rq2DueK3lUg/YGpFUPnkHlI/AAAAAAABBM8/jOvaiSnJ6cEVltniX8zDuD-Mv9hc-HwzwCK8BGAsYHg/s512/2021-04-04.jpg" group-title="CENTRO", TRIBU TV LAS VARILLAS CORDOBA
-https://5975e06a1f292.streamlock.net:4443/tributv/tributv/playlist.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWoAtIdz70XOBYbpsiMug6PraWvCCVGQvNo6fEKq5jvaEttsrEZmotb9AsogSo3-vIjb4&usqp=CAU" group-title="CENTRO", VER TV VENADO TUERTO
-https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.valletv.com/Graficos/logo.jpg" group-title="PATAGONIA", VALLE TV NEUQUEN
-https://stmv1.srvstm.com/valletv/valletv/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1CWUuUCYIUmUwMKSE18tNRsrFGdg7F3RVQ&usqp=CAU" group-title="NORTE", CTV CORRIENTES
-https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
-
-#EXTINF:-1 tvg-logo="https://cablearmstrong.com.ar/wp-content/uploads/2018/11/cia-logox1.png" group-title="CENTRO", CABLE IMAGEN ARMSTRONG SANTA FE
-https://5975e06a1f292.streamlock.net:4443/casse/casse/chunklist_w1169271894.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/923596987471224838/D-wIdAot.jpg" group-title="CUYO", CANAL 10 SAN RAFAEL
-https://streamcasthd.com:19360/tvdiez/tvdiez.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0CkOG9gutouKH8tjBZFmLBHY_KArzQfrP3A&usqp=CAU" group-title="NORTE", TELEDIEZ PASO DE LOS LIBRES
-https://videohd.live:19360/8020/8020.m3u8
-
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/08/logo-canal-2-perico.jpg" group-title="NORTE", CANAL 2 PERICO
-https://streamcasthd.com:19360/tecnovisioncanal2/tecnovisioncanal2.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQY_HK9O5T7Eaq_O2DNcf4tFtbLkqWOmleAzQ&usqp=CAU" group-title="CENTRO", PLAY TELEVISION SANTA FE
-http://videostream.shockmedia.com.ar:1935/playtelevision/playtelevision/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.televideoinforma.com.ar/img/publicidades/Televideo_logo.jpg" group-title="CENTRO", TELEVIDEO OCAMPO SANTA FE
-https://inliveserver.com:1936/8050_1/8050_1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3cio_Qgzd_qujR2hFRp7kyIfdcB2XmU9w9Fs_mtVCPXffgMNrTdciv0OPXKnJJ42wS60&usqp=CAU" group-title="PATAGONIA", CANAL 10 SENILLOSA NEUQUEN
-https://stmv1.srvstm.com/senillosa/senillosa/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://linktvcanal.com/portal/wp-content/uploads/2017/07/logo.png" group-title="CENTRO", LINK TV SANTA FE
-https://panel.dattalive.com/8128/8128/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BmIhf8kYoobAlJbFrrdMKXDCaYmSwNnsXQT31wUD7wT342dw43uL-JWnPVH0-o4Jdhw=s180" group-title="NORTE", 12 TARTAGAL
-https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://66.media.tumblr.com/f1138b6d236d9787c1960cdd1ae51b26/tumblr_inline_polydyA71Z1ttmwm1_1280.png" group-title="CENTRO", CORREA RADIOVISION
-http://arcast.net:1935/correadigital/canal12/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.trutv.com.ar/wp-content/uploads/2018/05/logro-tru.png" group-title="CENTRO", TELEVISION REGIONAL UNIMARC CORDOBA
-https://vivo.solumedia.com:19360/trutv/trutv.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://cabledigital.com.ar/wp-content/uploads/2020/03/cropped-Logo-Cabledigital-PNG-para-web-3.png" group-title="CENTRO", CABLEDIGITAL HIUNCA REANCO CORDOBA
-https://vivo.solumedia.com:19360/huinca/huinca.m3u8
-
-#EXTINF:-1 tvg-logo="https://canal8catamarca.com.ar/wp-content/uploads/2018/05/cropped-fondo0001.jpg" group-title="NORTE", CANAL 8 CATAMARCA
-https://5975e06a1f292.streamlock.net:4443/c8/c8/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.canal21tv.com.ar/images/00Logo_canal_21_nuevo_02.png" group-title="NORTE", CANAL 21 POSADAS
-https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.santaeufemiaweb.com/img/portadaNueva.png" group-title="CENTRO", SANTA EUFEMIA WEB
-https://inliveserver.com:1936/14094/14094/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhad9VE0V5G3oA7H10-eR5SScS7s9LlBe8vJLjRpg=s900-c-k-c0x00ffffff-no-rj" group-title="CENTRO", IMAGEN REGIONAL ALEJO LEDESMA CORDOBA
-https://inliveserver.com:1936/14064/14064/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.15752-9/cp0/162033080_353666665889579_906973957199880096_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeEeESpEey4vNdlLU06PlbNcsLl-CNF8KWSwuX4I0XwpZAI2-dbOrfrB6dCr2AGENqc&_nc_ohc=Fn0xGjyP8mkAX89ogA1&tn=aMVpWWJL-ZWdnhwm&_nc_ht=scontent.fepa11-1.fna&tp=29&oh=6982a4d8dbae3a21c60fa7d9e714e70b&oe=60CA5CD7" group-title="NORTE", LTO CATAMARCA
-https://cdnhd.iblups.com/hls/ycxwLxWuQv.m3u8
-
-#EXTINF:-1 tvg-logo="http://television-internet.com.ar/canal-2-misiones-en-vivo.jpg?210107074240" group-title="NORTE", CANAL 2 MISIONES (SOLO IPTV AZUL)
-https://nd106.republicaservers.com/canal2misiones.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="AMBA", AMERICA  36.1 (OPCION 2)
-https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) EIN SPORTS
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=winhd&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) LA LIGA
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=laliga&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) GOLTV
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=goltv&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) AFIZZIONADOS
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=afizzionados&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) BEIN SPORTS N
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=beines&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) DIRECTV SPORTS
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=directv&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) FOX SPORTS PREMIUM
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=foxsportp&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) TELEMUNDO INTERNACIONAL
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=telemundoint&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) AZCORAZON
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=azcorazon&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) A&E
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=ae&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) AXN
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=axn&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) COMEDY CENTRAL
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=comedy&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) E!
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=e&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) LIFETIME
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=lifetime&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) PASIONES
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=pasiones&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) SONY
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=sony&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) TBS
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=tbs&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) TLC
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=tlc&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) UNIVERSAL
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=universal&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) WARNER
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=warner&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) AZ CINEMA
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=azcinema&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) CINEMAX
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=cinemax&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) CINE LATINO
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=cinelatino&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) DHE
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=dhe&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) EUROPA
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=europa&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) EURO CHANNEL
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=euroch&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) FXM
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=fxm&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) GOLDEN EDGE
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=edge&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) GOLDEN PLUS
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=goldenplus&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) GOLDEN PREMIER
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=goldenp&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) HBO FAMILY
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=hbofamily&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) HBO MUNDI
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=hbomundi&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) HBO SIGNATURE
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=hbosignature&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) I SAT
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=isat&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) MORBIDO
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=morbido&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) MULTI PREMIER
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=mp&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) PARAMOUNT CHANNEL
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=paramount&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) STAR ACTION
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=staraction&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) STAR CINEMA
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=starcinema&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) STAR CLASSICS
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=starclassics&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) STAR COMEDY
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=starcomedy&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) STAR HITS
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=starhits&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) STAR LIFE
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=starlife&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) STUDIO UNIVERSAL
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=studiou&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) SYFY
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=syfy-1&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) TCM
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=tcm&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) TNT
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=tnt&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) ANIMAL PLANET
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=animalp&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) DISCOVERY CHANNEL
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=discovery&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) DISCOVERY SCIENCE
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=dciencia&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) DISCOVERY CIVILIZATION
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=dcivil&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) DISCOVERY THEATER
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=dtheater&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) DISCOVERY WORLD
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=dworld&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) FOOD NETWORK
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=food&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) HISTORY
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=history&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) H2
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=history2&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) HOLATV
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=holatv&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) NAT GEO WILD
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=natgeowild&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) AZ CLIC
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=azclic&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) EUFORIA
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=euforia&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) MTV HITS
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=mtvhits&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) MTV LIVE
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=mtvlive&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) MTV 80S
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=mtv80s&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) NICK MUSIC
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=nickmusic&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) TELEHIT
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=telehit&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) TELEHIT PLUS
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=telehitplus&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) VH1
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=vh1&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) A+
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=amas&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) AZTECA UNO
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=aztecauno&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) EL DOS
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=eldos&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) CANAL 5
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=elcinco&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) AZTECA 7
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=azteca7&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) NU9VE
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=nueve&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) DISTRITO COMEDIA
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=distrito&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) IMAGEN TV
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=imagentv&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) UNICABLE
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=unicable&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) MULTIMEDIOS
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=multimedios&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) MVS TV
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=mvstv&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) CNN
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=cnnes&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) MILENIO
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=milenio&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) GALAVISION
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=galavision&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) TELEMUNDO
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=telemundo&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) UNIMAS
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=unimas&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) UNIVISION
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=univisionhd&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) CANAL CLARO
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=claro&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) ESPN
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=espn1mx&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) ESPN 2
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=espn2mx&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) ESPN 3
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=espn3mx&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) ESPN EXTRA
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=espnextramx&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) FOX SPORTS
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=foxsport1mx&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) FOX SPORTS 3
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=foxsport3mx&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) TUDN US
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=tudnus&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) TVC DEPORTES
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=tvcdep&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) BOOMERANG
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=boomerang&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) CARTOON NETWORK
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=cartoon&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) DISNEY CHANNEL
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=disneych&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) DISNEY XD
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=disneyxd&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) DISCOVERY KIDS
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=dkids&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) NAT GEO KIDS
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=natgeokids&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) NICK
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=nick&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) TEEN NICK
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=teennick&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) TOONCAST
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=tooncast&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV2", (ONLINE) AZMUNDO
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a01n
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV2", (ONLINE) Canal de las estrellas
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a01g
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV2", (ONLINE) Discovery Channel
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a008
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV2", (ONLINE) Discovery HH
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a002
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV2", (ONLINE) Distrito Comedia
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a01m
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV2", (ONLINE) ESPN 2 HD
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a00c
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV2", (ONLINE) ESPN 3 HD
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a00v
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV2", (ONLINE) ESPN DEPORTES
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a02g
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV2", (ONLINE) ESPN HD eth1
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a00b
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV2", (ONLINE) EWNTV
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a00y
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV2", (ONLINE) FX
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a029
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV2", (ONLINE) FoodNetwork ether1
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a01p
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV2", (ONLINE) Fox MX HD
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a02b
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV2", (ONLINE) Fox Sports 2
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a00h
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV2", (ONLINE) Fox Sports 3
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a00j
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV2", (ONLINE) Glizt
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a011
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV2", (ONLINE) HBO PLUS HD
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a01b
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV2", (ONLINE) HBO Plus
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a02e
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV2", (ONLINE) HTV
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a01j
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV2", (ONLINE) Rai Italia
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a00u
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV2", (ONLINE) TLNOVELAS
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a02h
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV2", (ONLINE) Unicable
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a01h
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV2", (ONLINE) VH1 HD
-http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a02i
-
+#EXTINF:-1,CL| 24 Horas
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16719.m3u8
+#EXTINF:-1,CL| CNN chile
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16589.m3u8
+#EXTINF:-1,CL| 13i HD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16608.m3u8
+#EXTINF:-1,CL| 13C HD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16599.m3u8
+#EXTINF:-1,CL| Mega HD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16096.m3u8
+#EXTINF:-1,CL| Canal 13 HD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16101.m3u8
+#EXTINF:-1,CL| Chilevision HD 2
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16100.m3u8
+#EXTINF:-1,CL| La Red HD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16098.m3u8
+#EXTINF:-1,CL| Rec TV
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16095.m3u8
+#EXTINF:-1,CL| TVN HD 2
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16093.m3u8
+#EXTINF:-1,CL| CDO Premium FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16595.m3u8
+#EXTINF:-1,DE| CDF P FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16090.m3u8
+#EXTINF:-1,CL| CDF Estadio FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16592.m3u8
+#EXTINF:-1,DE| Fox Sports Chile FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16079.m3u8
+#EXTINF:-1,DE| CDF Basico (chi)
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16598.m3u8
+#EXTINF:-1,DE| Movistar Deportes
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16714.m3u8
+#EXTINF:-1,DE| Gol Peru
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16718.m3u8
+#EXTINF:-1,PE| America Television
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16578.m3u8
+#EXTINF:-1,PE| Panamericana
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16716.m3u8
+#EXTINF:-1,PE| Frecuencia Latina
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16108.m3u8
+#EXTINF:-1,PE| ATV HD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16366.m3u8
+#EXTINF:-1,PE| Plus TV
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16104.m3u8
+#EXTINF:-1,PE| Peru Magico
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16105.m3u8
+#EXTINF:-1,PE| Atv Plus
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16109.m3u8
+#EXTINF:-1,PE| Canal N
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16579.m3u8
+#EXTINF:-1,PE| RPP
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16580.m3u8
+#EXTINF:-1,PAN | RPC TV - PA
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16729.m3u8
+#EXTINF:-1,PAN | Telemetro Canal 13
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16728.m3u8
+#EXTINF:-1,PN| COS
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16731.m3u8
+#EXTINF:-1,PN| Cos FC
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16732.m3u8
+#EXTINF:-1,PN| SERTV
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16730.m3u8
+#EXTINF:-1,PN| Canal 2 TVN HD  2
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16727.m3u8
+#EXTINF:-1,DE| VTV (Uruguay)
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16074.m3u8
+#EXTINF:-1,UR| VTV + HD (Uruguay)
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16528.m3u8
+#EXTINF:-1,UR| canal U - uruguay
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16527.m3u8
+#EXTINF:-1,UR| Montecarlo TV
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16530.m3u8
+#EXTINF:-1,UR| Montecarlo televisión canal 4 - UR
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16524.m3u8
+#EXTINF:-1,UR| Teledose canal 4 HD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16531.m3u8
+#EXTINF:-1,UR| Canal 10 HD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16529.m3u8
+#EXTINF:-1,UR| Canal M
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/4307.m3u8
+#EXTINF:-1,ESV| Canal 2
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16541.m3u8
+#EXTINF:-1,ESV| Canal 12
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16542.m3u8
+#EXTINF:-1,ESV| Canal 4
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16604.m3u8
+#EXTINF:-1,ESV| Canal 6
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16605.m3u8
+#EXTINF:-1,DE| Gol TV HD Ecuador
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16201.m3u8
+#EXTINF:-1,DE| CNT Sport HD 2
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16087.m3u8
+#EXTINF:-1,EC| TC HD |SD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/11202.m3u8
+#EXTINF:-1,EC| TC HD | HQ
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/11200.m3u8
+#EXTINF:-1,EC| TC HD | HD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/11199.m3u8
+#EXTINF:-1,EC| UCSG
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13119.m3u8
+#EXTINF:-1,EC| Canela TV Ecuador
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/7809.m3u8
+#EXTINF:-1,EC| RTS HD 2
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16115.m3u8
+#EXTINF:-1,EC| Gama TV HD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16721.m3u8
+#EXTINF:-1,EC| Centro ecuador
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16454.m3u8
+#EXTINF:-1,EC| Teleamazonas
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16363.m3u8
+#EXTINF:-1,EC| Canal Uno HD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16439.m3u8
+#EXTINF:-1,EC| Ecuaviza 2
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16362.m3u8
+#EXTINF:-1,EC| Ecuador tv
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16364.m3u8
+#EXTINF:-1,CU| Animal Planet FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16163.m3u8
+#EXTINF:-1,CU| Discovery Channel FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16162.m3u8
+#EXTINF:-1,CU| Discovery Home & Health  FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16160.m3u8
+#EXTINF:-1,CU| Discovery Theater FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16158.m3u8
+#EXTINF:-1,CU| Discovery Turbo FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16157.m3u8
+#EXTINF:-1,CU| Discovery World FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16156.m3u8
+#EXTINF:-1,CU| H2 FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16155.m3u8
+#EXTINF:-1,CU| History Channe FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16154.m3u8
+#EXTINF:-1,CU| Discovery Investigation FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16153.m3u8
+#EXTINF:-1,CU| Natgeo Wild - FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16152.m3u8
+#EXTINF:-1,CI| Fox Premium Action FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16179.m3u8
+#EXTINF:-1,CI| Fox Premium Classics FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16177.m3u8
+#EXTINF:-1,CI| Fox Premium Comedy FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16176.m3u8
+#EXTINF:-1,CI| Fox Premium Family FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16175.m3u8
+#EXTINF:-1,CI| Fox Premium Movies FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16174.m3u8
+#EXTINF:-1,CI| Fox Premium Series FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16173.m3u8
+#EXTINF:-1,CI| Fox premium FHD - USA
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/15970.m3u8
+#EXTINF:-1,CI| FOX FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16712.m3u8
+#EXTINF:-1,CI| FOX LIFE
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16639.m3u8
+#EXTINF:-1,CI| HBO FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16171.m3u8
+#EXTINF:-1,CI| HBO 2 FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16170.m3u8
+#EXTINF:-1,CI| HBO 2 FHD - USA
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/15971.m3u8
+#EXTINF:-1,CI| HBO Plus FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16168.m3u8
+#EXTINF:-1,CI| HBO Family FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16169.m3u8
+#EXTINF:-1,CI| HBO Signature FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16167.m3u8
+#EXTINF:-1,CI| Space FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16708.m3u8
+#EXTINF:-1,CI| TNT FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16709.m3u8
+#EXTINF:-1,CI| TNT Series FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16710.m3u8
+#EXTINF:-1,CI| Golden Premier FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16736.m3u8
+#EXTINF:-1,CI| Cinecanal FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16733.m3u8
+#EXTINF:-1,CI| Fox cinema FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/15969.m3u8
+#EXTINF:-1,CI| Max Up FHD  2
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16735.m3u8
+#EXTINF:-1,CI| Max Prime FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16166.m3u8
+#EXTINF:-1,CI| CINECANAL
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16630.m3u8
+#EXTINF:-1,CI| USA | AMC FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16702.m3u8
+#EXTINF:-1,CI| Cine Sony FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16707.m3u8
+#EXTINF:-1,CI| USA| American Heroes FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16703.m3u8
+#EXTINF:-1,CI| USA | A&E
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16701.m3u8
+#EXTINF:-1,CI| DISTRITO COMEDIA
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16631.m3u8
+#EXTINF:-1,ci| E ENTERTEIMENT
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16632.m3u8
+#EXTINF:-1,CI|| FILM AND ARTS
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16636.m3u8
+#EXTINF:-1,CI| FOOD NETWORK 
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16637.m3u8
+#EXTINF:-1,CI| A&E FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16184.m3u8
+#EXTINF:-1,CI| AMC FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16183.m3u8
+#EXTINF:-1,CI| AXN FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16182.m3u8
+#EXTINF:-1,CI| Golden premium FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16172.m3u8
+#EXTINF:-1,CI| Universal Channel
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16209.m3u8
+#EXTINF:-1,CI| Warner Channel
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16208.m3u8
+#EXTINF:-1,PR| TCM
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16360.m3u8
+#EXTINF:-1,MX| Milenium TV
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16448.m3u8
+#EXTINF:-1,AR| Canal encuentro
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16470.m3u8
+#EXTINF:-1,ESV| Canal 21
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16543.m3u8
+#EXTINF:-1,DE| Winsports FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16717.m3u8
+#EXTINF:-1,CO| RCN FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16117.m3u8
+#EXTINF:-1,CO| RCN FHD2
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16116.m3u8
+#EXTINF:-1,CO| Caracol FHD -GL
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16140.m3u8
+#EXTINF:-1,CO| CARACOL FHD2
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16119.m3u8
+#EXTINF:-1,CO| CARACOL internacional FHD 
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16118.m3u8
+#EXTINF:-1,CO| Telemedellin
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16361.m3u8
+#EXTINF:-1,CO| Latinos UP tv
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/15961.m3u8
+#EXTINF:-1,CO| Canal Uno FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16125.m3u8
+#EXTINF:-1,CO| Senal Colombia FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16561.m3u8
+#EXTINF:-1,CO| Cablenoticias FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16120.m3u8
+#EXTINF:-1,CO| Trece FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16121.m3u8
+#EXTINF:-1,PG| La Tele
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16572.m3u8
+#EXTINF:-1,PG| Paravision
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16573.m3u8
+#EXTINF:-1,PG| Red Guarani
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16574.m3u8
+#EXTINF:-1,PG| RPC
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16575.m3u8
+#EXTINF:-1,PR| Mega tv pr
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16535.m3u8
+#EXTINF:-1,PR| Telemundo PR 
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16534.m3u8
+#EXTINF:-1,PR| Wapa
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16532.m3u8
+#EXTINF:-1,PR| Wapa 2
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16533.m3u8
+#EXTINF:-1,L&G| Fox Soccer Plus FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16564.m3u8
+#EXTINF:-1,L&G| NBA TV FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16440.m3u8
+#EXTINF:-1,L&G| MLB Network FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16565.m3u8
+#EXTINF:-1,L&G| NFL Network FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16568.m3u8
+#EXTINF:-1,L&G| SBG Stadium FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16570.m3u8
+#EXTINF:-1,L&G| TSN 1 FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16563.m3u8
+#EXTINF:-1,L&G| NESN NNE FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16569.m3u8
+#EXTINF:-1,L&G| NESN Plus FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16567.m3u8
+#EXTINF:-1,L&G| NESN FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16566.m3u8
+#EXTINF:-1,DE| ESPN 1 Sur FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16086.m3u8
+#EXTINF:-1,DE| ESPN 2 Sur FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16085.m3u8
+#EXTINF:-1,DE| ESPN 3 Sur FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16084.m3u8
+#EXTINF:-1,DE| ESPN Plus Sur FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16083.m3u8
+#EXTINF:-1,DE| Espn 2 sur
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16700.m3u8
+#EXTINF:-1,DE| ESPN PLUS
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16633.m3u8
+#EXTINF:-1,DE| ESPN SEC
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16634.m3u8
+#EXTINF:-1,DE| ESPN U
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16635.m3u8
+#EXTINF:-1,DE| FOX SPORTS RACING
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/15975.m3u8
+#EXTINF:-1,DE| Fox Sports Premium FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16078.m3u8
+#EXTINF:-1,DE| Fox Sports 1 Sur FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16082.m3u8
+#EXTINF:-1,DE| Fox Sports 2 Sur FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16081.m3u8
+#EXTINF:-1,DE| Fox Sports 3 Sur  FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16080.m3u8
+#EXTINF:-1,DE| Fox Sports 1 Chile FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16583.m3u8
+#EXTINF:-1,DE| DirecTV Sports
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16737.m3u8
+#EXTINF:-1,DE| DirecTV Sports +
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16557.m3u8
+#EXTINF:-1,DE| DirecTV Sports 02
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16558.m3u8
+#EXTINF:-1,DE| Movistar Liga de Campeones FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16588.m3u8
+#EXTINF:-1,DE| UNIVISION deporte TDN FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16429.m3u8
+#EXTINF:-1,DE| Univisión TDN USA FHD  (Univisión Deportes)
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16562.m3u8
+#EXTINF:-1,DE| TDN FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16554.m3u8
+#EXTINF:-1,DE| IZZI Afizzionados FHD (mexico)
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16434.m3u8
+#EXTINF:-1,DE| LATIN AMERIAN SPORTS
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16546.m3u8
+#EXTINF:-1,DE| TyC Sports HD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16442.m3u8
+#EXTINF:-1,DE| Gol TV españa  FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16591.m3u8
+#EXTINF:-1,DE| UFC PRO
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16447.m3u8
+#EXTINF:-1,DE| WWE FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16593.m3u8
+#EXTINF:-1,DE| Teletrak
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16715.m3u8
+#EXTINF:-1,DE| TELETRAK
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/14973.m3u8
+#EXTINF:-1,DE| CAZA Y PESCA FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16603.m3u8
+#EXTINF:-1,DE| Toros
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16585.m3u8
+#EXTINF:-1,MX| Azteca 7 FHD 2
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16600.m3u8
+#EXTINF:-1,MX| Canal 5 FHD 2
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16601.m3u8
+#EXTINF:-1,MX| El Canal De Las Estrellas - FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16602.m3u8
+#EXTINF:-1,MX| TLNOVELAS
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16679.m3u8
+#EXTINF:-1,MX| AZ CORAZON
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16689.m3u8
+#EXTINF:-1,MX| AZCLIC
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16692.m3u8
+#EXTINF:-1,MX| AZMUNDO
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16693.m3u8
+#EXTINF:-1,MX| APLUS
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16628.m3u8
+#EXTINF:-1,MX| Unimás USA FHD 
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16590.m3u8
+#EXTINF:-1,MX| Universo
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16586.m3u8
+#EXTINF:-1,MX| UNIVICION FHD - USA
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16428.m3u8
+#EXTINF:-1,MX| HMX
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16644.m3u8
+#EXTINF:-1,MX| INGENIO TV
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16645.m3u8
+#EXTINF:-1,MX| MEXIQUENSE
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16648.m3u8
+#EXTINF:-1,MX| MILENIO TV
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16649.m3u8
+#EXTINF:-1,MX| MULTIMEDIOS
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16652.m3u8
+#EXTINF:-1,MX| AYM SPORTS
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16690.m3u8
+#EXTINF:-1,MX| OCHOTV
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16660.m3u8
+#EXTINF:-1,MX| SHE
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16665.m3u8
+#EXTINF:-1,MX| SURESTV
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16668.m3u8
+#EXTINF:-1,MX| FORO TV
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16638.m3u8
+#EXTINF:-1,MX| TELEFORMULA
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16672.m3u8
+#EXTINF:-1,MX| TELEHIT
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16673.m3u8
+#EXTINF:-1,MX| TELERITMO
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16674.m3u8
+#EXTINF:-1,MX| TELEVISA MONTERREY
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16675.m3u8
+#EXTINF:-1,MX| TELEVISA PUEBLA 
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16676.m3u8
+#EXTINF:-1,MX| TIIN
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16677.m3u8
+#EXTINF:-1,MX| TRU TV
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16680.m3u8
+#EXTINF:-1,MX| TV MAS
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16682.m3u8
+#EXTINF:-1,MX| TV4
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16683.m3u8
+#EXTINF:-1,MX| TVC
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16684.m3u8
+#EXTINF:-1,MX| CANAL 50
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16629.m3u8
+#EXTINF:-1,IF| Cartoon Network
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16626.m3u8
+#EXTINF:-1,IF| DISCOVERY KIDS -  FA
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16621.m3u8
+#EXTINF:-1,IF| DISNEY CHANNEL
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16623.m3u8
+#EXTINF:-1,IF| DISNEY JR
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16624.m3u8
+#EXTINF:-1,IF| DISNEY XD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16625.m3u8
+#EXTINF:-1,IF| NAT GEO KIDS
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16653.m3u8
+#EXTINF:-1,IF| NICK
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16654.m3u8
+#EXTINF:-1,IF| NICK2 FA
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16656.m3u8
+#EXTINF:-1,IF| NICKTOONS
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16657.m3u8
+#EXTINF:-1,IF| Nickelodeon 
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16187.m3u8
+#EXTINF:-1,IF|BNICK JR
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16655.m3u8
+#EXTINF:-1,IF Tooncast
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16627.m3u8
+#EXTINF:-1,IF| BOOMERANG
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16695.m3u8
+#EXTINF:-1,CI| GARAGE TV
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16640.m3u8
+#EXTINF:-1,CI| GOLDEN EDGE
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16643.m3u8
+#EXTINF:-1,CI| GOLDEN
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16642.m3u8
+#EXTINF:-1,CI| LIFETIME
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16646.m3u8
+#EXTINF:-1,CI| MAS CHIC
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16647.m3u8
+#EXTINF:-1,CI| PARAMOUNT
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16661.m3u8
+#EXTINF:-1,CI| STUDIO UNIVERSAL
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16666.m3u8
+#EXTINF:-1,CI| UNIVERSAL CHANNEL
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16686.m3u8
+#EXTINF:-1,CI| SUNDANCE
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16667.m3u8
+#EXTINF:-1,CI| TBS
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16670.m3u8
+#EXTINF:-1,CI| SYFY FA
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16669.m3u8
+#EXTINF:-1,CI| TCM
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16671.m3u8
+#EXTINF:-1,CU| TLC
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16678.m3u8
+#EXTINF:-1,DE| PXTV
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16662.m3u8
+#EXTINF:-1,CI| ISAT
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16681.m3u8
+#EXTINF:-1,CI| HOLA TV
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16698.m3u8
+#EXTINF:-1,CI| Europa Europa
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16697.m3u8
+#EXTINF:-1,CU| Discovery Español FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16705.m3u8
+#EXTINF:-1,CU| DISCOVERY SCIENCE
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16622.m3u8
+#EXTINF:-1,CU| DISCOVERY CIVILIZATION
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16696.m3u8
+#EXTINF:-1,CU| Discovery Familia FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16706.m3u8
+#EXTINF:-1,CU| USA | Animal Planet FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16704.m3u8
+#EXTINF:-1,MU| VH1 FA
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16687.m3u8
+#EXTINF:-1,MU| MTV LIVE
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16651.m3u8
+#EXTINF:-1,MU| MTV HITS
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16650.m3u8
+#EXTINF:-1,MU| Canal 8
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16471.m3u8
+#EXTINF:-1,NO| BLOOMBERG
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16694.m3u8
+#EXTINF:-1,NO| EL FINANCIERO
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16699.m3u8
+#EXTINF:-1,CL| CNN (Noticias Chile)
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/7637.m3u8
+#EXTINF:-1,VN| GloboVision
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16538.m3u8
+#EXTINF:-1,VE| Venevision Plus
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16539.m3u8
+#EXTINF:-1,BL| Tigo Sports 1 HD (BOL)
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16544.m3u8
+#EXTINF:-1,BO| Tigo Sports 2 HD (BOL)
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16545.m3u8
+#EXTINF:-1,CT| DISCOVERY CIVILIZATION
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16549.m3u8
+#EXTINF:-1,CN| Europa Europa
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16552.m3u8
+#EXTINF:-1,NO| CNN español
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16560.m3u8
+#EXTINF:-1,NO| CNN - USA
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16559.m3u8
+#EXTINF:-1,FI| Zoomoo FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16571.m3u8
+#EXTINF:-1,24/7- Caillou
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/11889.m3u8
+#EXTINF:-1,CI| Cinemax  FHD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16180.m3u8
+#EXTINF:-1,ME| AZCINEMA
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16691.m3u8
+#EXTINF:-1,MU| RITMOSON
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16663.m3u8
+#EXTINF:-1,MU| VH1 CLASSIC
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16688.m3u8
+#EXTINF:-1,MX| CANAL ONCE HD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/1583.m3u8
+#EXTINF:-1,MX| MULTIMEDIOS .M
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/1586.m3u8
+#EXTINF:-1,Canal 10 Cancun
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13113.m3u8
+#EXTINF:-1,Canal 15 Zacatecas
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13111.m3u8
+#EXTINF:-1,Canal 4 Saltillo
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13114.m3u8
+#EXTINF:-1,Canal Once Mexico City
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13108.m3u8
+#EXTINF:-1,Efekto TV
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13106.m3u8
+#EXTINF:-1,Impactovision TV Matamoros
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13105.m3u8
+#EXTINF:-1,Multimedios Laguna
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13102.m3u8
+#EXTINF:-1,MX| TV Cuatro 4.1 Guanajuato
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13087.m3u8
+#EXTINF:-1,MX| TV Cuatro 4.2 Guanajuato
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13086.m3u8
+#EXTINF:-1,MX| TVP Mazatlan
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13088.m3u8
+#EXTINF:-1,MX| Ultra TV Aguascalientes
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13084.m3u8
+#EXTINF:-1,MX| Ultra TV Puebla
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13085.m3u8
+#EXTINF:-1,Multimedios Monterrey (Opt-1)
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13101.m3u8
+#EXTINF:-1,OchoTV Guadalajara
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13100.m3u8
+#EXTINF:-1,MX| Milenio TV HD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/1588.m3u8
+#EXTINF:-1,CO| CANAL CNC (Pasto Colombia)
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/7562.m3u8
+#EXTINF:-1,CO| CALI TV
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/453.m3u8
+#EXTINF:-1,PE| ANTARES TV (Tarapoto - Perú)
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/7656.m3u8
+#EXTINF:-1,PE| SOL TV  (Trujillo - Perú)
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/7655.m3u8
+#EXTINF:-1,PE| VIA TELEVISIÓN (Tarapoto - Perú)
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/7657.m3u8
+#EXTINF:-1,PE| TV PERU HD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12015.m3u8
+#EXTINF:-1,PE| Monterrico TV
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/64.m3u8
+#EXTINF:-1,BL| RED ADVENIR Bolivia
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/7793.m3u8
+#EXTINF:-1,BL| BOLIVIA TV
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13040.m3u8
+#EXTINF:-1,BR| ALPHA CHANNEL
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12919.m3u8
+#EXTINF:-1,BR| AMAZON SAT
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12910.m3u8
+#EXTINF:-1,BR| CANAL ESCOLA
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12914.m3u8
+#EXTINF:-1,BR| CANAL DO BO
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12911.m3u8
+#EXTINF:-1,BR| SESC TV
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12917.m3u8
+#EXTINF:-1,BR| TV INES
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12915.m3u8
+#EXTINF:-1,BR| TV MEIO NORTE
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12916.m3u8
+#EXTINF:-1,Rede Meio Norte
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13210.m3u8
+#EXTINF:-1,Rede Minas
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13209.m3u8
+#EXTINF:-1,Rede TV
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13208.m3u8
+#EXTINF:-1,SBT Piaui
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13207.m3u8
+#EXTINF:-1,TV Antares BRA
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13202.m3u8
+#EXTINF:-1,TV Assembleia SP
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13201.m3u8
+#EXTINF:-1,TV Brasil
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13200.m3u8
+#EXTINF:-1,TV Diario
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13198.m3u8
+#EXTINF:-1,TV Diario do Sertao
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13197.m3u8
+#EXTINF:-1,TV Faap
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13196.m3u8
+#EXTINF:-1,TV MCJ
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13194.m3u8
+#EXTINF:-1,TV O Povo
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13193.m3u8
+#EXTINF:-1,TV Pocos
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13192.m3u8
+#EXTINF:-1,TV Rio Preto
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13191.m3u8
+#EXTINF:-1,BR | TV UNIÃO
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12921.m3u8
+#EXTINF:-1,TV Tuba
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13188.m3u8
+#EXTINF:-1,TVE Bahia
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13206.m3u8
+#EXTINF:-1,TVE Rio Grande do Sul (Opt-1)
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13205.m3u8
+#EXTINF:-1,TVN BRA1
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13204.m3u8
+#EXTINF:-1,Web TV Minas
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13187.m3u8
+#EXTINF:-1,BR| TVE
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12918.m3u8
+#EXTINF:-1,Music Choice | HD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/15713.m3u8
+#EXTINF:-1,MU| Yearmix2009
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/6625.m3u8
+#EXTINF:-1,MU| Yearmix2010
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/6624.m3u8
+#EXTINF:-1,MU| Yearmix2012
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/6622.m3u8
+#EXTINF:-1,MU| Yearmix2013
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/6621.m3u8
+#EXTINF:-1,MU| Yearmix2014
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/6620.m3u8
+#EXTINF:-1,MU| Yearmix2015
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/6619.m3u8
+#EXTINF:-1,MU| SheepMix
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/6626.m3u8
+#EXTINF:-1,MU| The 80s Videomix Volume 1
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/6628.m3u8
+#EXTINF:-1,MU| The 90s EurodanceVideomix
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/6627.m3u8
+#EXTINF:-1,360 North
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13013.m3u8
+#EXTINF:-1,ABC (EST)
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13012.m3u8
+#EXTINF:-1,ABC News
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13011.m3u8
+#EXTINF:-1,Atlanta Channel
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13010.m3u8
+#EXTINF:-1,Beach TV - 30A
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13007.m3u8
+#EXTINF:-1,Beach TV - Panama City
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13006.m3u8
+#EXTINF:-1,Beach TV - Pawleys Island
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13005.m3u8
+#EXTINF:-1,Bowie TV
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13004.m3u8
+#EXTINF:-1,Buffalo TV
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13003.m3u8
+#EXTINF:-1,BYUtv
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13002.m3u8
+#EXTINF:-1,Capital City Connection
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13001.m3u8
+#EXTINF:-1,USA| CBS 4 News (Indianapolis)
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12938.m3u8
+#EXTINF:-1,CBS News
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13000.m3u8
+#EXTINF:-1,Comet TV (Geo)
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12998.m3u8
+#EXTINF:-1,District of Columbia Network
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12995.m3u8
+#EXTINF:-1,Free Speech TV
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12991.m3u8
+#EXTINF:-1,Garland TV
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12990.m3u8
+#EXTINF:-1,Greenbelt TV
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12989.m3u8
+#EXTINF:-1,InfoWars
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12987.m3u8
+#EXTINF:-1,KBVR TV
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12985.m3u8
+#EXTINF:-1,Key TV
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12984.m3u8
+#EXTINF:-1,USA| King5 News (Seattle)
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12934.m3u8
+#EXTINF:-1,Kool TV
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12983.m3u8
+#EXTINF:-1,USA| NBC 11 News (Bay Area)
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12946.m3u8
+#EXTINF:-1,USA| NBC 5 News (Chicago)
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12942.m3u8
+#EXTINF:-1,USA| New Orleans TV
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12977.m3u8
+#EXTINF:-1,USA| News 12 (Brooklyn)
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12943.m3u8
+#EXTINF:-1,USA| News 12 (Hudson Valley)
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12939.m3u8
+#EXTINF:-1,USA| News 12 (Long Island)
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12937.m3u8
+#EXTINF:-1,USA| News 12 (The Bronx)
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12944.m3u8
+#EXTINF:-1,USA| Orange TV
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12974.m3u8
+#EXTINF:-1,USA| QVC
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12966.m3u8
+#EXTINF:-1,USA| Runway TV
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12963.m3u8
+#EXTINF:-1,USA| RyeTV
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12962.m3u8
+#EXTINF:-1,USA| Seminole TV
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12959.m3u8
+#EXTINF:-1,USA| Southeastern Channel
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12958.m3u8
+#EXTINF:-1,USA| Temple TV
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12957.m3u8
+#EXTINF:-1,USA| The Country Network
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12956.m3u8
+#EXTINF:-1,USA| TSTV
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12954.m3u8
+#EXTINF:-1,USA| TVW
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12952.m3u8
+#EXTINF:-1,USA| TVW-2
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12951.m3u8
+#EXTINF:-1,USA| Voice of America
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12950.m3u8
+#EXTINF:-1,USA| Weather Channel
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12949.m3u8
+#EXTINF:-1,USA| WGN 9 News (Chicago)
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12941.m3u8
+#EXTINF:-1,USA| WHOH TV
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12948.m3u8
+#EXTINF:-1,USA| WVIT 30 News (Hartford)
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12940.m3u8
+#EXTINF:-1,AG| AMERICA TV - UR
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16522.m3u8
+#EXTINF:-1,AR| Telefe HD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16739.m3u8
+#EXTINF:-1,AG| Tv pública argentina - UR
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16472.m3u8
+#EXTINF:-1,ESV| VTV Canal 35
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/16606.m3u8
+#EXTINF:-1,AR| CANAL 26 Argentina
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/7790.m3u8
+#EXTINF:-1,AR| CANAL 4 JUJUY Argentina
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/7780.m3u8
+#EXTINF:-1,AR| CANAL PROVINCIAL San Miguel Argentina
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/7774.m3u8
+#EXTINF:-1,MU| MUSICTOP Argentina
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/7787.m3u8
+#EXTINF:-1,AR| TELPIN TV CANAL 2 Argentina
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/7786.m3u8
+#EXTINF:-1,AR| TLX TELEMAX Argentina
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/7788.m3u8
+#EXTINF:-1,13 Max
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13186.m3u8
+#EXTINF:-1,5TV Corrientes
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13185.m3u8
+#EXTINF:-1,Canal 10 Rio Negro
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13179.m3u8
+#EXTINF:-1,Canal 4 Posadas
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13184.m3u8
+#EXTINF:-1,Canal 5 Telesol
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13182.m3u8
+#EXTINF:-1,Canal 9 Comodoro Rivadavia
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13181.m3u8
+#EXTINF:-1,canal 9 MULTIVICIÓN
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13180.m3u8
+#EXTINF:-1,Medios Rioja
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13176.m3u8
+#EXTINF:-1,Music Top
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13175.m3u8
+#EXTINF:-1,Net TV
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13174.m3u8
+#EXTINF:-1,Power HD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13173.m3u8
+#EXTINF:-1,Radio TV Neuquen
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13172.m3u8
+#EXTINF:-1,Soy Rock
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/13171.m3u8
+#EXTINF:-1,Aire de Santa Fe
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/6573.m3u8
+#EXTINF:-1,AR| Canal 26 Buenos Aires (Opt-1)
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/6557.m3u8
+#EXTINF:-1,AR| Canal 4 Jujuy
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/6568.m3u8
+#EXTINF:-1,AR| Canal 5 Concepcion Tucuman
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/6565.m3u8
+#EXTINF:-1,AR| Canal 3 Pinamar
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/6571.m3u8
+#EXTINF:-1,AR| Canal Local Olavarria
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/6552.m3u8
+#EXTINF:-1,24/7- AVENTURAS EN PIJAMAS
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/11185.m3u8
+#EXTINF:-1,24/7- EL PAJARO LOCO
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/11183.m3u8
+#EXTINF:-1,24/7- MINIMALITOS
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/11186.m3u8
+#EXTINF:-1,24/7- PEQUEÑO REINO DE BEN Y HOLLY
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/11187.m3u8
+#EXTINF:-1,24/7- Popeye el marino 24/7
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/11890.m3u8
+#EXTINF:-1,24/7- PELICULAS
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/11194.m3u8
+#EXTINF:-1,24/7- SUPERMAN
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/12923.m3u8
+#EXTINF:-1,24/7- KIDS BEBES
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/10267.m3u8
+#EXTINF:-1,24/7- MR BEAN ANIMADO
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/10271.m3u8
+#EXTINF:-1,24/7- Coraje el perro cobarde
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/10321.m3u8
+#EXTINF:-1,24/7- El Chapulín Colorado
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/10320.m3u8
+#EXTINF:-1,24/7-  MR BEAN
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/10309.m3u8
+#EXTINF:-1,AR| Canal Provincial San Miguel
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/6550.m3u8
+#EXTINF:-1,AR| El 1 Web TV La Matanza
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/6543.m3u8
+#EXTINF:-1,AR| Garage TV
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/6539.m3u8
+#EXTINF:-1,CL| Pinguino TV
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/6594.m3u8
+#EXTINF:-1,MU| Portal Foxmix
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/6592.m3u8
+#EXTINF:-1,AR| Telemax
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/6525.m3u8
+#EXTINF:-1,AR| Telpin Teve Pinamar
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/6524.m3u8
+#EXTINF:-1,CL| VTV (Valle del Aconcagua Chile)
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/6578.m3u8
+#EXTINF:-1,MU| Heart TV
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/6699.m3u8
+#EXTINF:-1,MU| Music Choice Play HD
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/6694.m3u8
+#EXTINF:-1,MU| NRJ HITS TV Live
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/6689.m3u8
+#EXTINF:-1,MU| Retro Tv
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/6697.m3u8
+#EXTINF:-1,MU| U TV Live
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/6687.m3u8
+#EXTINF:-1,MU| Virgin Radio
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/6696.m3u8
+#EXTINF:-1,MU| Virgin TV Live
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/6686.m3u8
+#EXTINF:-1,MX| CANAL ONCE
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/7707.m3u8
+#EXTINF:-1,PE| CAPITAL TV
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/7666.m3u8
+#EXTINF:-1,MX| EFECTO TV
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/7712.m3u8
+#EXTINF:-1,MX| Milenio TV
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/7699.m3u8
+#EXTINF:-1,MX| OCHO TV
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/7718.m3u8
+#EXTINF:-1,PE| RBC
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/7662.m3u8
+#EXTINF:-1,MX| TV MÁS México
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/7687.m3u8
+#EXTINF:-1,ES| DW Español Alemania
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/7765.m3u8
+#EXTINF:-1,ES| EXTREMADURA TV España
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/7751.m3u8
+#EXTINF:-1,MX| NAVARRA TELEVISIÓN España
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/7727.m3u8
+#EXTINF:-1,ES| RTV CE CEUTA España
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/7734.m3u8
+#EXTINF:-1,ON SI! TV Honduras
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/7861.m3u8
+#EXTINF:-1,CR| TELE UNO TV Costa Rica
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/7830.m3u8
+#EXTINF:-1,ESV| WOW! TV El Salvador
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/7852.m3u8
+#EXTINF:-1,Antofagasta 89.7)
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/8069.m3u8
+#EXTINF:-1,Arcoiris (99.3 FM Coyhaique)
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/8054.m3u8
+#EXTINF:-1,Bio Bio Radio Los Angeles (96.7 FM Los Angeles)
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/8072.m3u8
+#EXTINF:-1,Digital FM (99.1 FM Punta Arenas)
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/8057.m3u8
+#EXTINF:-1,Dixi (106.9 FM)
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/8015.m3u8
+#EXTINF:-1,El Bosque (107.9 FM)
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/8009.m3u8
+#EXTINF:-1,FM Dos (98.5 FM)
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/8060.m3u8
+#EXTINF:-1,Futura FM (100.7 Talca)
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/8044.m3u8
+#EXTINF:-1,I Love Radio Bass | Online
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/7973.m3u8
+#EXTINF:-1,I Love Radio Battle | Online
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/7976.m3u8
+#EXTINF:-1,I Love Radio Charts | Online
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/7975.m3u8
+#EXTINF:-1,I Love Radio Dance | Online
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/7977.m3u8
+#EXTINF:-1,I Love Radio Mashup | Online
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/7974.m3u8
+#EXTINF:-1,I Love Radio Pop | Online
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/7972.m3u8
+#EXTINF:-1,I Love Radio | Online
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/7978.m3u8
+#EXTINF:-1,Kool London Radio
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/7970.m3u8
+#EXTINF:-1,Loactual (96.7 FM Calama)
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/8073.m3u8
+#EXTINF:-1,Los 40 Principales (101.7 FM)
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/8038.m3u8
+#EXTINF:-1,NIU 80s
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/8003.m3u8
+#EXTINF:-1,NIU 90s
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/8002.m3u8
+#EXTINF:-1,NIU CL
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/8004.m3u8
+#EXTINF:-1,NIU Indie
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/8006.m3u8
+#EXTINF:-1,Niu LIVE
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/8001.m3u8
+#EXTINF:-1,NIU POP
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/8007.m3u8
+#EXTINF:-1,NIU Radio
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/8008.m3u8
+#EXTINF:-1,NIU Rock
+http://kimbogrupol.com:25461/live/Kimbo/Kimbo/8005.m3u8
