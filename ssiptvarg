@@ -852,12 +852,6 @@ https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 
 
 
-
-
-
-#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
-https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", (ONLINE) EIN SPORTS
 http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=winhd&f=.m3u8
 
