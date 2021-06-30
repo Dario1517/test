@@ -1,5 +1,27 @@
 
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1267455772323086338/ilCsV2Ms_200x200.png" group-title="INTERES GENERAL" twitter="AmericaTV",1
+https://ed5ov.live.opencaster.com/ArEetgEqqozh/index.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1267455772323086338/ilCsV2Ms_200x200.png" group-title="INTERES GENERAL" twitter="AmericaTV",2
+https://ed5ov.live.opencaster.com/dEyDznfdsBxp/index.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1267455772323086338/ilCsV2Ms_200x200.png" group-title="INTERES GENERAL" twitter="AmericaTV",3
+https://ed5ov.live.opencaster.com/hudxpzriGFDa/index.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1267455772323086338/ilCsV2Ms_200x200.png" group-title="INTERES GENERAL" twitter="AmericaTV",4
+https://ed5ov.live.opencaster.com/ptuEirhmoBhE/index.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1267455772323086338/ilCsV2Ms_200x200.png" group-title="INTERES GENERAL" twitter="AmericaTV",5
+https://ed5ov.live.opencaster.com/xBwCmtEjAibA/index.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1267455772323086338/ilCsV2Ms_200x200.png" group-title="INTERES GENERAL" twitter="AmericaTV",6
+https://ed5ov.live.opencaster.com/zBrCcqEzCkzi/index.m3u8?WebM3UCL
+
+
+
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/876963356405575681/OC2NzZip_200x200.jpg" twitter="somoslaplata" group-title="INTERES GENERAL",Somos Pergamino
 https://59c5c86e10038.streamlock.net/8178/8178/chunklis.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1017835856411971584/Q2dVZVUA_200x200.jpg" group-title="INTERES GENERAL",Tele Red Provincial
