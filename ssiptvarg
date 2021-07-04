@@ -1,25 +1,52 @@
 
 #EXTM3U
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="DEPORTES 2",  EVENTOS TIGO BOLIVIA 1
-https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/index_6.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="DEPORTES 2",  EVENTOS TIGO BOLIVIA 2
-https://d108h32trr4h8c.cloudfront.net/out/v1/d543fa4ff337450db0e38fcc19705c21/index_6.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="DEPORTES 2",  EVENTOS TIGO BOLIVIA 3
-https://d1pox267xtn5kq.cloudfront.net/out/v1/4270f13bab1547b39f44e52e867abcfa/index_6.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="DEPORTES 2",  EVENTOS TIGO SALVADOR 1
-https://d107hql7o7vd84.cloudfront.net/out/v1/ce38156ea93a47709cec829647e9b0ce/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="DEPORTES 2",  EVENTOS TIGO HONDURAS 1
-https://d20tezjrkz1zmc.cloudfront.net/out/v1/70c5e7b2534245f69d923065ffefd6d2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="DEPORTES 2",  EVENTOS TIGO GUATEMALA 1
-https://d1t6zcudgmh6wd.cloudfront.net/out/v1/88e67fc9be954233a769f97bada38a56/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Classic Project", Classic Project 1 (70, 80, 90s Reloaded 2008)
+https://ia601503.us.archive.org/24/items/TheClassicProject1/The%20Classic%20Project%201.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Classic Project", Classic Project 2 (Pop eurodance 90s)
+https://ia601500.us.archive.org/26/items/TheClassicProject2/The%20Classic%20Project%202.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Classic Project", Classic Project 3 (Pop 2000-2004)
+https://ia601508.us.archive.org/32/items/TheClassicProject3/The%20Classic%20Project%203.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Classic Project", Classic Project 4 (70, 80, 90s)
+https://ia601500.us.archive.org/25/items/TheClassicProject4/The%20Classic%20Project%204.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Classic Project", Classic Project 5 (Rock Pop 90s)
+https://ia801503.us.archive.org/20/items/TheClassicProject5/The%20Classic%20Project%205.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Classic Project", Classic Project 6 (Pop 2004-2006)
+https://ia601509.us.archive.org/8/items/TheClassicProject6/The%20Classic%20Project%206.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Classic Project", Classic Project 7 (Pop 2004-2006)
+https://ia601509.us.archive.org/27/items/TheClassicProject7/The%20Classic%20Project%207.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Classic Project", Classic Project 8 (Español)
+https://ia601500.us.archive.org/11/items/TheClassicProject8/The%20Classic%20Project%208.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Classic Project", Classic Project 9 (70, 80, 90s)
+https://ia601503.us.archive.org/0/items/TheClassicProject9/The%20Classic%20Project%209.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Classic Project", Classic Project 10 (Soundtrack)
+https://ia601506.us.archive.org/14/items/TheClassicProject10/The%20Classic%20Project%2010.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Classic Project", Classic Project 11 (Rock latino)
+https://ia601508.us.archive.org/21/items/TheClassicProject11/The%20Classic%20Project%2011.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Classic Project", Classic Project 12 (Onda disco)
+https://ia601507.us.archive.org/11/items/TheClassicProject12/The%20Classic%20Project%2012.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Classic Project", Classic Project 13 (Exitos en español)
+https://ia601503.us.archive.org/14/items/TheClassicProject13/The%20Classic%20Project%2013.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Classic Project", Classic Project 14-1 (Rock edition CD 1)
+https://ia601509.us.archive.org/16/items/TheClassicProject14.1/The%20Classic%20Project%2014.1.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Classic Project", Classic Project 14-2 (Rock edition CD 2)
+https://archive.org/download/TheClassicProject14.2/The%20Classic%20Project%2014.2.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Classic Project", Bonus Project 3 (Old skool)
+https://ia801507.us.archive.org/7/items/BonusProject3/Bonus%20Project%203.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Classic Project", Bonus Project 5 (Tropical mix)
+https://ia601504.us.archive.org/18/items/BonusProject5/Bonus%20Project%205.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Classic Project", Bonus Project 6 (Tropical mix 2)
+https://ia601500.us.archive.org/1/items/BonusProject6/Bonus%20Project%206.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Classic Project", Bonus Project 7 (Tropical mix 3)
+https://ia601500.us.archive.org/5/items/BonusProject7/Bonus%20Project%207.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Classic Project", Bonus Project 8 (Dance remixes 2)
+https://ia601506.us.archive.org/1/items/BonusProject8/Bonus%20Project%208.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Classic Project", Bonus Project 9 (Pop)
+https://ia601500.us.archive.org/28/items/BonusProject09/Bonus%20Project%2009.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Classic Project", Bonus Project 11 (Dance remixes 3)
+https://ia601506.us.archive.org/5/items/BonusProject11/Bonus%20Project%2011.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Classic Project", Bonus Project 14 (Salsa Mix)
+https://ia601508.us.archive.org/26/items/BonusProject14/Bonus%20Project%2014.mp4
 
 
 
