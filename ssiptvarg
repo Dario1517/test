@@ -215,24 +215,21 @@ https://iptvtucuman.com/70/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", TCL
 https://iptvtucuman.com/72/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", 73
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", TELENOVELAS
 https://iptvtucuman.com/73/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", 74 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", TNT
 https://iptvtucuman.com/74/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", 75
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", TNT SERIES
 https://iptvtucuman.com/75/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", 76 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", TOONCAST 
 https://iptvtucuman.com/76/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", 77 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", TRU TV
 https://iptvtucuman.com/77/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", 78
-https://iptvtucuman.com/78/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", 79
 https://iptvtucuman.com/79/index.m3u8
