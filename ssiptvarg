@@ -23,7 +23,6 @@ https://iptvtucuman.com/9/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", CINEMAX
 https://iptvtucuman.com/10/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", COMEDY CENTRAL 
 https://iptvtucuman.com/11/index.m3u8
 
@@ -32,7 +31,6 @@ https://iptvtucuman.com/12/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", DISCOVERY
 https://iptvtucuman.com/13/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", HGTV 
 https://iptvtucuman.com/14/index.m3u8
@@ -55,16 +53,11 @@ https://iptvtucuman.com/19/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", DISNEY CHANNEL
 https://iptvtucuman.com/20/index.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", DISNEY JUNIOR
 https://iptvtucuman.com/21/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", DISNEY XD
 https://iptvtucuman.com/22/index.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", E! 
 https://iptvtucuman.com/24/index.m3u8
@@ -81,11 +74,8 @@ https://iptvtucuman.com/27/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", ESPN 2
 https://iptvtucuman.com/28/index.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", STAR CHANNEL
 https://iptvtucuman.com/30/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", STAR SERIES
 https://iptvtucuman.com/31/index.m3u8
@@ -95,7 +85,6 @@ https://iptvtucuman.com/32/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", STAR CINEMA
 https://iptvtucuman.com/33/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", STAR CLASSICS
 https://iptvtucuman.com/34/index.m3u8
@@ -118,7 +107,6 @@ https://iptvtucuman.com/39/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", GLITZ
 https://iptvtucuman.com/40/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", GOLDEN
 https://iptvtucuman.com/41/index.m3u8
 
@@ -127,7 +115,6 @@ https://iptvtucuman.com/42/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", HBO
 https://iptvtucuman.com/43/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", HBO 2
 https://iptvtucuman.com/44/index.m3u8
@@ -147,12 +134,8 @@ https://iptvtucuman.com/48/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", H&H
 https://iptvtucuman.com/49/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", C
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", ISAT
 https://iptvtucuman.com/50/index.m3u8
-
-
-
-
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", DISCOVERY ID 
 https://iptvtucuman.com/51/index.m3u8
@@ -163,11 +146,8 @@ https://iptvtucuman.com/52/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", LIFETIME
 https://iptvtucuman.com/53/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", HBO POP
 https://iptvtucuman.com/54/index.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", MTV HITS
 https://iptvtucuman.com/56/index.m3u8
@@ -184,15 +164,11 @@ https://iptvtucuman.com/59/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", NICK JR.
 https://iptvtucuman.com/60/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", NICK 
 https://iptvtucuman.com/61/index.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", SONY
 https://iptvtucuman.com/63/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", SPACE
 https://iptvtucuman.com/64/index.m3u8
@@ -218,7 +194,6 @@ https://iptvtucuman.com/72/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", TELENOVELAS
 https://iptvtucuman.com/73/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", TNT
 https://iptvtucuman.com/74/index.m3u8
 
@@ -234,12 +209,8 @@ https://iptvtucuman.com/77/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", UNIVERSAL TV
 https://iptvtucuman.com/79/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", VH1
 https://iptvtucuman.com/82/index.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", WARNER
 https://iptvtucuman.com/84/index.m3u8
@@ -250,62 +221,26 @@ https://iptvtucuman.com/85/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", ANTENA 3
 https://iptvtucuman.com/86/index.m3u8
 
-
-
-
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", HBO MUNDI
 https://iptvtucuman.com/89/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", AXN 
 https://iptvtucuman.com/96/index.m3u8
 
-
-
-
-
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", CALLE 13
 https://iptvtucuman.com/101/index.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", MOVISTAR SERIESMANIA
 https://iptvtucuman.com/109/index.m3u8
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", MOVISTAR CINEDOC&ROLL
 https://iptvtucuman.com/111/index.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", CUATRO HD
 https://iptvtucuman.com/114/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", DMAX
 https://iptvtucuman.com/115/index.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", FOX LIFE 
 https://iptvtucuman.com/117/index.m3u8
@@ -316,24 +251,8 @@ https://iptvtucuman.com/118/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", HISTORIA
 https://iptvtucuman.com/119/index.m3u8
 
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", 6 HD
 https://iptvtucuman.com/121/index.m3u8
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", NAT GEO WILD
 https://iptvtucuman.com/127/index.m3u8
@@ -347,95 +266,38 @@ https://iptvtucuman.com/129/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", SYFY
 https://iptvtucuman.com/130/index.m3u8
 
-
-
-
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", 5 HD 
 https://iptvtucuman.com/131/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", TNT
 https://iptvtucuman.com/132/index.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", WWE
 https://iptvtucuman.com/172/index.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", FOX SPORT 
 https://iptvtucuman.com/174/index.m3u8
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", RCN
 https://iptvtucuman.com/180/index.m3u8
 
-
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", 182
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", ECUAVISA
 https://iptvtucuman.com/182/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", 183
+
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", LOS SIMPSONS
 https://iptvtucuman.com/183/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", 184 
-https://iptvtucuman.com/184/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", 185
-https://iptvtucuman.com/185/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", 186 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", DINOSAURIOS 
 https://iptvtucuman.com/186/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", 187 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", EL CHAVO
 https://iptvtucuman.com/187/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", 188
-https://iptvtucuman.com/188/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", 189
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", 
 https://iptvtucuman.com/189/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", 190
