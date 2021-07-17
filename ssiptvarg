@@ -1,7 +1,10 @@
 
 #EXTM3U
 
+#EXTINF:-1 tvg-id="GOL.TV" tvg-logo="https://graph.facebook.com/goltv.es/picture?width=200&height=200" group-title="Deportivos" tvg-name="GOL",GOL
+https://api.goltelevision.com/api/v1/stream/live/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png" group-title="DEPORTE", DIS
-https://edge5-sl.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc_2A/DisneyChannelHD.mpd
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/udlaspalmasoficial/picture?width=200&height=200" group-title="Deportivos" tvg-name="UD Las Palmas TV",UD Las Palmas TV
+https://cdn041.fractalmedia.es/stream/live/udtv/index.m3u8
 
