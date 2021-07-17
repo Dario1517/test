@@ -5,4 +5,8 @@
 https://latam2-lh.akamaihd.net/i/SPA_SUR@445604/index_240_av-p.m3u8?sd=10&rebase=on&id=AgC1LIFHtSxKrosq82BiWB91hFwjSjzXkNFMNoLsRagaPwrW+gZPtKN%2febFgr1Tylyu1X2CQM4wqMw%3d%3d&hdntl=exp=1626570475~acl=%2f*~data=hdntl~hmac=71fc7d12d43829446643db585d6ff48b8681072a78363baedd0967b472ca0a4b
 
 
+#EXTINF:-1 tvg-id="GOL.TV" tvg-logo="https://graph.facebook.com/goltv.es/picture?width=200&height=200" group-title="Deportivos" tvg-name="GOL", TNT
+https://latam1-lh.akamaihd.net/i/TNT_ARG@445527/index_480_av-p.m3u8?sd=10&rebase=on&id=AgC1LIFHtSxJjukq82BsW+rnwraG3mcaC6%2fMzqt2qrkfpTXi6Yi3fFPpPCx5+wcfhk74iSb0wdX4Tg%3d%3d&hdntl=exp=1626635369~acl=%2f*~data=hdntl~hmac=350ad8f27edfb15c3fd4954e226e7ba15480993907f96e948caed62232e14b5e
 
+#EXTINF:-1 tvg-id="GOL.TV" tvg-logo="https://graph.facebook.com/goltv.es/picture?width=200&height=200" group-title="Deportivos" tvg-name="GOL", TNT SERIES
+https://latam3-lh.akamaihd.net/i/TNS_PNR2@445602/index_480_av-p.m3u8?sd=10&rebase=on&id=AgC1LIFHtSxJpkMr82CvaUb+xXglhIXuiCM8MUwj%2f5ym3aHqVPj1jXxRdyRTlUrNqJr+RfIp+IwjRA%3d%3d&hdntl=exp=1626635459~acl=%2f*~data=hdntl~hmac=6f299374bf3729d854775eca1402d40f79d8d409926cb56a3cc5986ac2163d70
