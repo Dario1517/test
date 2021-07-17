@@ -1,7 +1,8 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="GOL.TV" tvg-logo="https://graph.facebook.com/goltv.es/picture?width=200&height=200" group-title="Deportivos" tvg-name="GOL", VIDEO
-https://sv.traceln.xyz/cv/embed/?get=Ly9lZGdlNS1zbC5jdmF0dHYuY29tLmFyL2xpdmUvYzJsaXZlL1F1aWVyb19IRC9TQV9MaXZlX2Rhc2hfZW5jXzJBL1F1aWVyb19IRC5tcGQ=
+#EXTINF:-1 tvg-id="GOL.TV" tvg-logo="https://graph.facebook.com/goltv.es/picture?width=200&height=200" group-title="Deportivos" tvg-name="GOL", SPA
+https://latam2-lh.akamaihd.net/i/SPA_SUR@445604/index_240_av-p.m3u8?sd=10&rebase=on&id=AgC1LIFHtSxKrosq82BiWB91hFwjSjzXkNFMNoLsRagaPwrW+gZPtKN%2febFgr1Tylyu1X2CQM4wqMw%3d%3d&hdntl=exp=1626570475~acl=%2f*~data=hdntl~hmac=71fc7d12d43829446643db585d6ff48b8681072a78363baedd0967b472ca0a4b
+
 
 
