@@ -1,1 +1,34 @@
 
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png" group-title="DEPORTE", ESPN
+http://rv.imax.re:80/307210510160/307210510160/86939
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png" group-title="DEPORTE", ESPN 2
+http://rv.imax.re:80/307210510160/307210510160/86938
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png" group-title="DEPORTE", ESPN 3
+http://rv.imax.re:80/307210510160/307210510160/86937
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTE", FOX SPORT
+http://rv.imax.re:80/307210510160/307210510160/86936
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTE", FOX SPORT 2
+http://rv.imax.re:80/307210510160/307210510160/86935
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Univisi%C3%B3n_Deportes_logo_2019.png/774px-Univisi%C3%B3n_Deportes_logo_2019.png" group-title="DEPORTE", UNIVISION DEPORTES
+http://rv.imax.re:80/307210510160/307210510160/86934
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/150px-Claro_Sports_logo.svg.png" group-title="DEPORTE", CLARO SPORT 2
+http://rv.imax.re:80/307210510160/307210510160/86933
+
+
+
