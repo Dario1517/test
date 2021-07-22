@@ -1,1807 +1,304 @@
-
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GhhN8mW.png" group-title="English",ESPN (360p) 1
-http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GhhN8mW.png" group-title="English",ESPN (720p) 2
-http://stream2.grandma.fit/fs2.m3u8
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CTgGetu.png" group-title="English",ESPN 2 (720p) 3
-http://164.68.124.111/espn2.m3u8
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CTgGetu.png" group-title="English",ESPN 2 (360p) 4
-http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LiveSport 2
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/107
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Arena Sport 1 HD (HR)
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", A&E
+https://iptvtucuman.com/901/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Arena Sport 2 HD (HR)
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", AMC
+https://iptvtucuman.com/902/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Arena Sport 3 HD (HR)
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/3
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", ANIMAL PLANET
+https://iptvtucuman.com/903/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Arena Sport 4 HD (HR)
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", BOOMERANG 
+https://iptvtucuman.com/904/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Arena Sport 5 HD (HR)
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/20
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", CARTOON NETWORK
+https://iptvtucuman.com/905/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Arena Sport 1 HD (SR)
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/22
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", BABYFIRST
+https://iptvtucuman.com/906/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Arena Sport 2 HD (SR)
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/23
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", CINEMAX
+https://iptvtucuman.com/907/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Arena Sport 3 HD (SR)
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/24
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", COMEDY CENTRAL 
+https://iptvtucuman.com/908/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Arena Sport 4 HD (SR)
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/78
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", DE PELICULA
+https://iptvtucuman.com/909/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Arena Sport 5 HD (SR)
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/79
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", DISCOVERY
+https://iptvtucuman.com/910/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sport Klub HD
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/46
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", HGTV 
+https://iptvtucuman.com/911/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sport Klub 1 HD
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", DISCOVERY KIDS
+https://iptvtucuman.com/912/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sport Klub 2 HD
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/159
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", DISCOVERY SCIENCE 
+https://iptvtucuman.com/913/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sport Klub 3 HD
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/6
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", DISCOVERY THEATER
+https://iptvtucuman.com/914/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sport Klub 4
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/9
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", DISCOVERY TURBO
+https://iptvtucuman.com/915/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sport Klub 5
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/10
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", DISCOVERY WORLD
+https://iptvtucuman.com/916/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sport Klub Start (HR)
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/108
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", DISNEY CHANNEL
+https://iptvtucuman.com/917/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Digi Sport 1 HD (RO)
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/12
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", DISNEY JUNIOR
+https://iptvtucuman.com/918/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Digi Sport 2 HD (RO)
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/18
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", DISNEY XD
+https://iptvtucuman.com/919/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Digi Sport 3 HD (RO)
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/19
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", E! 
+https://iptvtucuman.com/920/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Digi Sport 4 HD (RO)
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/21
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", GOURMET TV
+https://iptvtucuman.com/921/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HRT 2 HD (HR)
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/30
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", BANDAMAX
+https://iptvtucuman.com/922/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RTL (HR)
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/35
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", ESPN 
+https://iptvtucuman.com/923/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NOVA HD (HR)
-http://84.22.107.232:8081/Cor-Net/Nova-HR-HD/mpeg.2ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", ESPN 2
+https://iptvtucuman.com/924/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sportska TV (HR)
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/72
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", STAR CHANNEL
+https://iptvtucuman.com/925/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HNTV (HR)
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/17
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", STAR SERIES
+https://iptvtucuman.com/926/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fight Channel (HR)
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/47
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", STAR ACTION
+https://iptvtucuman.com/927/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BHT 1 (BiH)
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/65
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", STAR CINEMA
+https://iptvtucuman.com/928/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NOVA Sport (BiH)
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/83
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", STAR CLASSICS
+https://iptvtucuman.com/929/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RTS 1 (SR)
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/40
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", STAR LIFE
+https://iptvtucuman.com/930/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RTS 2 (SR)
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/41
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", STAR HITS
+https://iptvtucuman.com/931/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Sport News HD (DE)
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/132
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", FOX SPORT 1
+https://iptvtucuman.com/932/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DAZN 1 Bar HD (DE)
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/76
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", FOX SPORT 2
+https://iptvtucuman.com/933/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DAZN 2 Bar HD (DE)
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/77
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", FX
+https://iptvtucuman.com/934/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Sport Austria HD (DE)
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/131
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", GLITZ
+https://iptvtucuman.com/935/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Sport Austria 1 HD (DE)
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/349
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", GOLDEN
+https://iptvtucuman.com/936/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Sport Austria 2 HD (DE)
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/350
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", GOLDEN
+https://iptvtucuman.com/937/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Sport Austria 3 HD (DE)
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/351
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", HBO
+https://iptvtucuman.com/938/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Sport Austria 4 HD (DE)
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/352
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", HBO 2
+https://iptvtucuman.com/939/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Sport 2 HD (DE) • ONLY ON WEEKENDS •
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/134
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", HBO FAMILY
+https://iptvtucuman.com/940/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Sport 3 HD (DE) • ONLY ON WEEKENDS •
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/135
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", HBO + 
+https://iptvtucuman.com/941/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Sport 4 HD (DE) • ONLY ON WEEKENDS •
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/136
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", HBO SIGNATURE 
+https://iptvtucuman.com/942/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Sport 7 HD (DE) • ONLY ON WEEKENDS •
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/139
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", HISTORY
+https://iptvtucuman.com/943/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Sport 8 HD (DE) • ONLY ON WEEKENDS •
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/140
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", H&H
+https://iptvtucuman.com/944/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Sport 2 Bundesliga HD (DE) • ONLY ON WEEKENDS •
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/142
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", ISAT
+https://iptvtucuman.com/945/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Sport 3 Bundesliga HD (DE) • ONLY ON WEEKENDS •
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/143
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", DISCOVERY ID 
+https://iptvtucuman.com/946/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Sport 4 Bundesliga HD (DE) • ONLY ON WEEKENDS •
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/144
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", LAS ESTRELLAS
+https://iptvtucuman.com/947/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Sport 5 Bundesliga HD (DE) • ONLY ON WEEKENDS •
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/145
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", LIFETIME
+https://iptvtucuman.com/948/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Sport 9 Bundesliga HD (DE) • ONLY ON WEEKENDS •
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/149
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", HBO POP
+https://iptvtucuman.com/949/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Sport X Bundesliga HD (DE) • ONLY ON WEEKENDS •
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/150
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", MTV HITS
+https://iptvtucuman.com/950/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TRT SPOR FHD (TR)
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/112
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", NAT GEO 
+https://iptvtucuman.com/951/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Tivibu Spor 1 FHD (TR)
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/109
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", NAT GEO WILD
+https://iptvtucuman.com/952/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Tivibu Spor 2 FHD (TR)
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/110
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", TEENNICK
+https://iptvtucuman.com/953/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sport 2 (TR)
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/64
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", NICK JR.
+https://iptvtucuman.com/954/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sports 1 HD (AR)
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/94
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", NICK 
+https://iptvtucuman.com/955/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sports 2 HD (AR)
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/95
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", SONY
+https://iptvtucuman.com/956/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sports 4 HD (AR)
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/97
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", SPACE
+https://iptvtucuman.com/957/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sports 6 HD (AR)
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/99
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", STUDIO UNIVERSAL
+https://iptvtucuman.com/958/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sports 7 HD (AR)
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/100
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", SYFY 
+https://iptvtucuman.com/959/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORT| SUPERSPORT  1 HD
-http://rv.flysat.live:80/307210013157/307210013157/86795
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", TBS 
+https://iptvtucuman.com/960/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORT| SUPERSPORT  2 HD
-http://rv.flysat.live:80/307210013157/307210013157/86794
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", TCM
+https://iptvtucuman.com/961/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORT| SUPERSPORT  3 HD
-http://rv.flysat.live:80/307210013157/307210013157/86793
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", FXM
+https://iptvtucuman.com/962/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORT| SUPERSPORT  4 HD
-http://rv.flysat.live:80/307210013157/307210013157/86792
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", TCL
+https://iptvtucuman.com/963/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORT| SUPERSPORT  5 HD
-http://rv.flysat.live:80/307210013157/307210013157/86791
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", TELENOVELAS
+https://iptvtucuman.com/964/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORT| SUPERSPORT  7 HD
-http://rv.flysat.live:80/307210013157/307210013157/86789
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", TNT
+https://iptvtucuman.com/965/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORT| SUPERSPORT  8 HD
-http://rv.flysat.live:80/307210013157/307210013157/86788
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", TNT SERIES
+https://iptvtucuman.com/966/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORT| SUPERSPORT  10 HD
-http://rv.flysat.live:80/307210013157/307210013157/86787
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", TOONCAST 
+https://iptvtucuman.com/967/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORT| SUPERSPORT  11 HD
-http://rv.flysat.live:80/307210013157/307210013157/86786
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", TRU TV
+https://iptvtucuman.com/968/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORT| SUPERSPORT  12 HD
-http://rv.flysat.live:80/307210013157/307210013157/86785
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", UNIVERSAL TV
+https://iptvtucuman.com/969/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORT| SUPERSPORT  13 HD
-http://rv.flysat.live:80/307210013157/307210013157/86784
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", VH1
+https://iptvtucuman.com/970/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORT| SUPERSPORT  15 HD
-http://rv.flysat.live:80/307210013157/307210013157/86783
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", WARNER
+https://iptvtucuman.com/971/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORT| SUPERSPORT  EVENTS HD
-http://rv.flysat.live:80/307210013157/307210013157/86782
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", AXN
+https://iptvtucuman.com/972/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORT| SUPERSPORT  BLITZ HD
-http://rv.flysat.live:80/307210013157/307210013157/86781
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", ANTENA 3
+https://iptvtucuman.com/973/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORT| SUPERSPORT  MAXIMO 1
-http://rv.flysat.live:80/307210013157/307210013157/86780
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", HBO MUNDI
+https://iptvtucuman.com/974/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORT| SUPERSPORT 1 HD
-http://rv.flysat.live:80/307210013157/307210013157/85169
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", AXN 
+https://iptvtucuman.com/975/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORT| SUPERSPORT 2 HD
-http://rv.flysat.live:80/307210013157/307210013157/85168
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", CALLE 13
+https://iptvtucuman.com/976/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORT| SUPERSPORT 3 HD
-http://rv.flysat.live:80/307210013157/307210013157/85167
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", MOVISTAR SERIESMANIA
+https://iptvtucuman.com/977/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORT| SUPERSPORT 4 HD
-http://rv.flysat.live:80/307210013157/307210013157/85166
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", MOVISTAR CINEDOC&ROLL
+https://iptvtucuman.com/978/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORT| SUPERSPORT 5 HD
-http://rv.flysat.live:80/307210013157/307210013157/85165
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", CUATRO HD
+https://iptvtucuman.com/979/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORT| SUPERSPORT 7 HD
-http://rv.flysat.live:80/307210013157/307210013157/85163
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", DMAX
+https://iptvtucuman.com/980/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORT| SUPERSPORT 8 HD
-http://rv.flysat.live:80/307210013157/307210013157/85162
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", FOX LIFE 
+https://iptvtucuman.com/981/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORT| SUPERSPORT 11 HD
-http://rv.flysat.live:80/307210013157/307210013157/85160
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", FOX
+https://iptvtucuman.com/982/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORT| SUPERSPORT 12 HD
-http://rv.flysat.live:80/307210013157/307210013157/85159
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", HISTORIA
+https://iptvtucuman.com/983/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORT| SUPERSPORT 13 HD
-http://rv.flysat.live:80/307210013157/307210013157/85158
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", 6 HD
+https://iptvtucuman.com/984/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORT| SUPERSPORT 15 HD
-http://rv.flysat.live:80/307210013157/307210013157/85157
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", NAT GEO WILD
+https://iptvtucuman.com/985/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORT| SUPERSPORT MAXIMO 1
-http://rv.flysat.live:80/307210013157/307210013157/85154
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", NATIONAL GEOGRAFIC
+https://iptvtucuman.com/986/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", B S MAX 1 HD
-http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289046
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", NOVA
+https://iptvtucuman.com/987/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", B S MAX 6 4K
-http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289057
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", SYFY
+https://iptvtucuman.com/988/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", B S MAX 1 4K
-http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289625
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", 5 HD 
+https://iptvtucuman.com/989/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", B S MAX 2 4K
-http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289626
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", TNT
+https://iptvtucuman.com/990/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", B S MAX 3 4K
-http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289627
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", WWE
+https://iptvtucuman.com/991/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", B S MAX 4 4K
-http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289628
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", FOX SPORT 
+https://iptvtucuman.com/992/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", B S MAX 5 4K
-http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289629
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", RCN
+https://iptvtucuman.com/993/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", B S MAX 6 4K
-http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289630
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", ECUAVISA
+https://iptvtucuman.com/994/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", B S MAX  1F
-http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289636
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", LOS SIMPSONS
+https://iptvtucuman.com/995/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BS 1 HD fr
-http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289637
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", DINOSAURIOS 
+https://iptvtucuman.com/996/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BS 2 HD fr
-http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289638
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", EL CHAVO
+https://iptvtucuman.com/997/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BS 3 HD fr
-http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289639
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", UNIVISION
+https://iptvtucuman.com/998/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BS 1F fr
-http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289640
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", ESPN EXTRA
+https://iptvtucuman.com/999/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BS 2F fr
-http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289641
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BS 3F fr
-http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289642
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORT KLUB 1 (HR)
-http://krajnatv.com:8000/apo7776/skypeuser/60
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORT KLUB 1 (SR)
-http://krajnatv.com:8000/apo7776/skypeuser/121
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORT KLUB 2 (HR)
-http://krajnatv.com:8000/apo7776/skypeuser/61
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORT KLUB 2 (SR)
-http://krajnatv.com:8000/apo7776/skypeuser/122
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORT KLUB 3 (HR)
-http://krajnatv.com:8000/apo7776/skypeuser/62
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORT KLUB 3 (SR)
-http://krajnatv.com:8000/apo7776/skypeuser/123
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORT KLUB 4 (HR)
-http://krajnatv.com:8000/apo7776/skypeuser/204
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORT KLUB 4 (SR)
-http://krajnatv.com:8000/apo7776/skypeuser/124
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORT KLUB 5 (HR)
-http://krajnatv.com:8000/apo7776/skypeuser/205
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORT KLUB 6 (HR)
-http://krajnatv.com:8000/apo7776/skypeuser/103
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORT KLUB 6 (SR)
-http://krajnatv.com:8000/apo7776/skypeuser/125
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ARENA SPORT 1 HD (HR)
-http://krajnatv.com:8000/apo7776/skypeuser/37
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ARENA SPORT 2 HD (HR)
-http://krajnatv.com:8000/apo7776/skypeuser/38
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ARENA SPORT 2 (SR)
-http://krajnatv.com:8000/apo7776/skypeuser/128
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ARENA SPORT 3 HD (HR)
-http://krajnatv.com:8000/apo7776/skypeuser/39
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ARENA SPORT 3 (SR)
-http://krajnatv.com:8000/apo7776/skypeuser/129
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ARENA SPORT 4 HD (HR)
-http://krajnatv.com:8000/apo7776/skypeuser/40
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ARENA SPORT 5 HD (HR)
-http://krajnatv.com:8000/apo7776/skypeuser/104
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ARENA SPORT 5 (SR)
-http://krajnatv.com:8000/apo7776/skypeuser/131
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ARENA SPORT 6 HD (SR)
-http://krajnatv.com:8000/apo7776/skypeuser/206
-
-
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (OFFLINE) ------| ARGENTINA |------
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/116446
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARGENT (HD) -  DeporTV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73229
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARGENT (HD) -  ESPN ARG HD-
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73225
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARGENT (HD) -  TV PUBLICA
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73223
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (OFFLINE) |ARG|  13 Max
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73161
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG|  5TV Corrientes
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73160
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG|  A24 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73190
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG|  CRONICA
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73178
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG|  ESPN ARGENTINA
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73233
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG|  GARAGE.
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73176
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG|  PAKAPAKA
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73244
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG|  RURAL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73172
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG|  TLX TELEMAX
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73168
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| 13 MAX
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/40952
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (OFFLINE) |ARG| A24
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/40963
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| AMERICA 24
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73181
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| AMERICA TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73226
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| AMERICA TV HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73207
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| ARGENTINA MAGAZINE
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73243
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| Argentinisima
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73157
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| ARGENTINISIMA
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/40950
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (OFFLINE) |ARG| AV+
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/40985
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| C5N
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73180
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (OFFLINE) |ARG| C5N HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/40961
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (OFFLINE) |ARG| CANAL 10
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/40981
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| Canal 10 de mdp
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73162
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (OFFLINE) |ARG| CANAL 26
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/40962
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| Canal 3 Rosario
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73154
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| CANAL 4
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/40958
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| Canal 4 Jujuy
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73153
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| Canal 7 Catamarca
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73152
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (OFFLINE) |ARG| CANAL 9 SALTA
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/40953
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (OFFLINE) |ARG| CANAL DE LA CIUDAD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/40951
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| CHARRUA TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/40986
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| Cine AR
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73184
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| CINE AR
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/40955
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| CN23.
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73179
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| Cronica
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73187
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (OFFLINE) |ARG| CRONICA
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/40957
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (OFFLINE) |ARG| DEPORTV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/40967
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| DIRECT TV SPORTS
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/40973
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| DIRECT TV SPORTS 2
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/40974
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| DIRECT TV SPORTS PLUS
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/40975
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| EL NUEVE
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73231
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| EL TRECE
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73230
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| ENCUENTRO
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73242
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| ENCUENTRO
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/40946
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| ENCUENTRO
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73232
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| ESPN
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/40976
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (OFFLINE) |ARG| ESPN 2
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/40977
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| ESPN 3
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/40978
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| ESPN+
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/40979
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| FOX SPORT
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/40968
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| FOX SPORT  2
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73227
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (OFFLINE) |ARG| FOX SPORT 2
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/40969
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (OFFLINE) |ARG| FOX SPORT 3
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/40970
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| FOX SPORTS 1 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73234
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| FOX SPORTS 1 HD (opc2)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73188
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| FOX SPORTS 2 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73235
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| FOX SPORTS PREMIUM
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/40971
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| FOX SPORTS PREMIUM HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73206
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| GLITZ
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73175
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| La Nacion
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73185
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| LN
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73174
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (OFFLINE) |ARG| LN+
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/40948
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (OFFLINE) |ARG| MONTECARLO TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/40983
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| MULTIVISION CANAL 9 SALTA
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73211
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| MUSIC TOP
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/40965
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (OFFLINE) |ARG| NET TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/40956
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| Net TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73183
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| PAKAPAKA
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/40966
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| QUIERO MUSICA.
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73173
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| TELE 12
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/40982
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| TELEFE
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73200
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| TELEFE HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73236
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (OFFLINE) |ARG| TELERED
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/40954
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| TELESUR  :)
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73169
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (OFFLINE) |ARG| TELPIN
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/40947
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| tln Network
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73191
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| TN
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73237
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| TNT SPORT
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/40972
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| TNT SPORTS
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73205
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (OFFLINE) |ARG| TNU
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/40984
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (OFFLINE) |ARG| TV CIUDAD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/40949
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (OFFLINE) |ARG| TV PUBLICA
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/40941
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| TYC Sports
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73240
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (ONLINE) |ARG| TyC Sports FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29460
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (OFFLINE) |ARG| VTV HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/40987
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Argentina", (OFFLINE) |ARG| VTV+
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/40988
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) ESPN 1
-http://gratuita.mrzutv.net:8080/ratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlrata/ratasnosacarlaurlratasnosaASDFVASDcarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarl/41468
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) ESPN 2
-http://gratuita.mrzutv.net:8080/ratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlrata/ratasnosacarlaurlratasnosaASDFVASDcarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarl/41470
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="latinos", (OFFLINE) ESPN DEPORTES
-http://gratuita.mrzutv.net:8080/ratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlrata/ratasnosacarlaurlratasnosaASDFVASDcarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarl/41023
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) ESPN EXTRA
-http://gratuita.mrzutv.net:8080/ratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlrata/ratasnosacarlaurlratasnosaASDFVASDcarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarl/41469
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) FORMULA 1
-http://gratuita.mrzutv.net:8080/ratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlrata/ratasnosacarlaurlratasnosaASDFVASDcarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarl/41056
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) fox sport 1
-http://gratuita.mrzutv.net:8080/ratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlrata/ratasnosacarlaurlratasnosaASDFVASDcarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarl/41461
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) FOX SPORT 3
-http://gratuita.mrzutv.net:8080/ratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlrata/ratasnosacarlaurlratasnosaASDFVASDcarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarl/41467
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) FoxSport1 SD
-http://gratuita.mrzutv.net:8080/ratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlrata/ratasnosacarlaurlratasnosaASDFVASDcarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarl/40978
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) FoxSports3 SD APOYANOS MRZUTV.NET BAJA NUESTRA APP
-http://gratuita.mrzutv.net:8080/ratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlrata/ratasnosacarlaurlratasnosaASDFVASDcarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarl/40976
-
-#EXTINF:-1 tvg-logo="https://p7.hiclipart.com/preview/900/439/724/television-channel-gol-tv-cnt-sports-zee-tv-logo.jpg" group-title="latinos", (ONLINE) GOL TV (ecuador)
-http://tv.iptv5latino.cl:8080/NikolasIgnacio/6rQo6gx8Ii/54995
-
-#EXTINF:-1 tvg-logo="https://p7.hiclipart.com/preview/900/439/724/television-channel-gol-tv-cnt-sports-zee-tv-logo.jpg" group-title="latinos", (ONLINE) GOL TV ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8080/NikolasIgnacio/6rQo6gx8Ii/54996
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) HBO SD
-http://planettvweb.com:8091/German/German/11650
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) MLB
-http://gratuita.mrzutv.net:8080/ratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlrata/ratasnosacarlaurlratasnosaASDFVASDcarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarl/41463
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) NBA
-http://gratuita.mrzutv.net:8080/ratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlrata/ratasnosacarlaurlratasnosaASDFVASDcarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarl/41464
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) REALMADRID
-http://gratuita.mrzutv.net:8080/ratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlrata/ratasnosacarlaurlratasnosaASDFVASDcarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarl/41466
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) SD Fox Sports 2
-http://gratuita.mrzutv.net:8080/ratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlrata/ratasnosacarlaurlratasnosaASDFVASDcarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarl/41007
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/2041px-Claro_Sports_logo.svg.png" group-title="latinos", (OFFLINE) SD: CLARO SPORT
-http://gratuita.mrzutv.net:8080/ratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlrata/ratasnosacarlaurlratasnosaASDFVASDcarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarl/41011
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="latinos", (OFFLINE) SD: ESPN
-http://gratuita.mrzutv.net:8080/ratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlrata/ratasnosacarlaurlratasnosaASDFVASDcarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarl/41010
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="latinos", (OFFLINE) SD: ESPN 2
-http://gratuita.mrzutv.net:8080/ratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlrata/ratasnosacarlaurlratasnosaASDFVASDcarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarl/41009
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="latinos", (OFFLINE) SD: ESPN 3
-http://gratuita.mrzutv.net:8080/ratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlrata/ratasnosacarlaurlratasnosaASDFVASDcarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarl/41008
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/NBC_Sports_Network_logo.svg/250px-NBC_Sports_Network_logo.svg.png" group-title="latinos", (OFFLINE) SD: NBC SPORT
-http://gratuita.mrzutv.net:8080/ratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlrata/ratasnosacarlaurlratasnosaASDFVASDcarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarl/41021
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) SD: TUDN
-http://gratuita.mrzutv.net:8080/ratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlrata/ratasnosacarlaurlratasnosaASDFVASDcarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarl/41024
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) Sky Sport Bundesliga 1 HD
-http://gratuita.mrzutv.net:8080/ratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlrata/ratasnosacarlaurlratasnosaASDFVASDcarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarlaurlratasnosacarl/41055
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| AMC
-http://185.71.64.167:80/8005402280/1903686316/87003
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| AXN
-http://185.71.64.167:80/8005402280/1903686316/87002
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| AXN HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141939
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| BOOMERANG
-http://185.71.64.167:80/8005402280/1903686316/86961
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Boomerang HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141936
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| CARTOON NETWORK
-http://185.71.64.167:80/8005402280/1903686316/86957
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Cartoon Network FHD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141927
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Cartoon Network HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141928
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| CINE CANAL
-http://185.71.64.167:80/8005402280/1903686316/86993
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Cine Canal HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141915
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| CINE LATINO
-http://185.71.64.167:80/8005402280/1903686316/87042
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Cine Latino CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141914
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Cine Latino HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141913
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| CINE MAX
-http://185.71.64.167:80/8005402280/1903686316/86956
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Cinecanal FHD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141912
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Cinecanal Sur HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141911
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Cinema Dinamita HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141910
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Cinemax HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141909
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Ciudad Magazine HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141908
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| CLARO CINEMA
-http://185.71.64.167:80/8005402280/1903686316/86989
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| COMEDY CENTRAL
-http://185.71.64.167:80/8005402280/1903686316/86962
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Comedy Central FHD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141903
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Comedy Central HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141904
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Cronica TV HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141902
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| DHE
-http://185.71.64.167:80/8005402280/1903686316/86991
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| DIRECTV Sports + HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141898
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| DIRECTV SPORTS 1 CO
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141672
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Directv Sports 1 EC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141708
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| DIRECTV SPORTS 2 CO
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141671
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Directv Sports 2 EC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141707
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| DIRECTV Sports 2 HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141897
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| DIRECTV Sports Argentina FHD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141899
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| DIRECTV Sports CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141900
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| DIRECTV SPORTS PLUS CO
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141670
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Directv Sports Plus EC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141706
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Disney Chanel FHD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141889
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Disney Channel Sur HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141888
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| DISNEY CHANNEL.
-http://185.71.64.167:80/8005402280/1903686316/86968
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| DISNEY JR
-http://185.71.64.167:80/8005402280/1903686316/86967
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Disney Junior CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141887
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Disney Junior HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141886
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| DISNEY XD
-http://185.71.64.167:80/8005402280/1903686316/86964
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| Disney XD FHD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141884
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Disney XD HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141885
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| El Gourmet HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141881
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Espn 3 PER
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141721
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| ESPN Extra HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141874
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| ESPN HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141876
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| ESPN3 Sur HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141873
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| ETC TV CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141872
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| Europa Europa FHD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141870
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Europa Europa HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141871
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Film & Arts HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141869
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Food Network HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141868
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| FOX
-http://185.71.64.167:80/8005402280/1903686316/87009
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| FOX ACTION
-http://185.71.64.167:80/8005402280/1903686316/87008
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| Fox Channel FHD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141866
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| FOX CINEMA
-http://185.71.64.167:80/8005402280/1903686316/87007
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| FOX CLASSIC
-http://185.71.64.167:80/8005402280/1903686316/87006
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| Fox Deportes HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141865
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| FOX LIFE
-http://185.71.64.167:80/8005402280/1903686316/87005
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| Fox Life HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141864
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| FOX MOVIES
-http://185.71.64.167:80/8005402280/1903686316/87004
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| FOX PREMIUM ACTION
-http://185.71.64.167:80/8005402280/1903686316/87021
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Fox Premium Action FHD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141863
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Fox Premium Action FHD CHL [Multi-Audio]
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141862
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| FOX PREMIUM CINEMA
-http://185.71.64.167:80/8005402280/1903686316/87022
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| Fox Premium Cinema HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141861
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| Fox Premium Classics CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141860
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| FOX PREMIUM COMEDY
-http://185.71.64.167:80/8005402280/1903686316/87020
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| Fox Premium Comedy HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141859
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| FOX PREMIUM FAMILY
-http://185.71.64.167:80/8005402280/1903686316/87019
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| Fox Premium Family HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141858
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| FOX PREMIUM MOVIES
-http://185.71.64.167:80/8005402280/1903686316/87023
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| Fox Premium Movies FHD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141857
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| FOX PREMIUM SERIES
-http://185.71.64.167:80/8005402280/1903686316/87018
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| Fox Premium Series FHD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141856
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Fox Sports 1 HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141855
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| Fox Sports 2 Argentina HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141854
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| Fox Sports 2 FHD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141853
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| Fox Sports 3 HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141852
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| Fox Sports America Argentina HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141851
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| Fox Sports Premium HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141850
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| FX
-http://185.71.64.167:80/8005402280/1903686316/87010
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| FX CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141849
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| FX HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141848
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| FX Movies HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141847
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| GOLDEN
-http://185.71.64.167:80/8005402280/1903686316/86979
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| GOLDEN EDGE
-http://185.71.64.167:80/8005402280/1903686316/86980
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| Golden HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141845
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| GOLDEN PREMIER
-http://185.71.64.167:80/8005402280/1903686316/86988
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| Golden Premier HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141844
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Golf Channel HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141843
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| GOURMET
-http://185.71.64.167:80/8005402280/1903686316/86970
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| HBO
-http://185.71.64.167:80/8005402280/1903686316/87029
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| HBO 2
-http://185.71.64.167:80/8005402280/1903686316/87028
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| HBO 2 HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141838
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| HBO ESTE
-http://185.71.64.167:80/8005402280/1903686316/87024
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| HBO FAMILY
-http://185.71.64.167:80/8005402280/1903686316/87026
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| HBO Family HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141837
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| HBO FHD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141839
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| HBO HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141840
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| HBO PLUS
-http://185.71.64.167:80/8005402280/1903686316/87027
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| HBO Plus HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141836
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| HBO SIGNATURE
-http://185.71.64.167:80/8005402280/1903686316/87025
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| HBO Signature HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141835
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| HBO Subtitulado HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141834
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| HBO Xtreme FHD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141833
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| I-SAT HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141828
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Indieplex FHD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141827
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| ISAT
-http://185.71.64.167:80/8005402280/1903686316/87032
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Max HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141820
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Max Prime FHD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141819
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| MAX UP
-http://185.71.64.167:80/8005402280/1903686316/86978
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Max Up HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141818
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Mega + CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141817
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Mega FHD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141814
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Mega HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141815
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Moremax FHD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141813
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Moviemax FHD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141812
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Movieplex FHD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141811
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| MULTIPREMIER
-http://185.71.64.167:80/8005402280/1903686316/86992
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| NICK 2
-http://185.71.64.167:80/8005402280/1903686316/86965
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| NICK JR
-http://185.71.64.167:80/8005402280/1903686316/86966
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| Nick Jr HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141799
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| NICKELODEON
-http://185.71.64.167:80/8005402280/1903686316/86963
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Nickelodeon FHD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141797
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Nickelodeon HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141798
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| PARAMOUNT
-http://185.71.64.167:80/8005402280/1903686316/86987
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Paramount Channel CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141792
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Paramount Channel HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141793
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| SONY
-http://185.71.64.167:80/8005402280/1903686316/86986
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Sony FHD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141781
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Sony HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141782
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| SPACE
-http://185.71.64.167:80/8005402280/1903686316/86985
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Space CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141780
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Space HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141779
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Star Action HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141778
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Star Channel (South) HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141777
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Star Cinema HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141776
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Star Classics HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141775
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Star Comedy HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141774
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Star Fun HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141773
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Star Hits HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141772
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| Star Life HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141771
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Star Series HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141770
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| STUDIO UNIVERSAL
-http://185.71.64.167:80/8005402280/1903686316/86984
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Studio Universal FHD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141768
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Studio Universal HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141769
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| SYFY
-http://185.71.64.167:80/8005402280/1903686316/87011
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| SyFy HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141767
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| TBS HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141764
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| TCM
-http://185.71.64.167:80/8005402280/1903686316/86983
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| TCM CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141762
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| TCM HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141763
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Telefe FHD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141761
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| TLC
-http://185.71.64.167:80/8005402280/1903686316/87012
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| TNT
-http://185.71.64.167:80/8005402280/1903686316/86981
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| TNT FHD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141753
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| TNT HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141754
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| TNT SERIES
-http://185.71.64.167:80/8005402280/1903686316/86982
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| TNT Series CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141752
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| TNT Series HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141751
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| TNT Sports HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141750
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| TyC Sports CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141739
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| TyC Sports HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141738
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| UNIVERSAL CHANNEL
-http://185.71.64.167:80/8005402280/1903686316/87000
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Universal Chile HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141735
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (OFFLINE) |LATIN| WARNER CHANNEL
-http://185.71.64.167:80/8005402280/1903686316/86990
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Warner Channel FHD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141729
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latinos", (ONLINE) |LATIN| Warner Channel HD CHL
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/141730
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM|  AMC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6576
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM|  AMERICA TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6575
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| AE
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6577
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| AMC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6572
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| America TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6564
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| AXN
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6565
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| AXN FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6571
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Aym Sports
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6563
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Az Corazon
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6570
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Azteca 7
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6569
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Azteca UNO
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6568
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Baby TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6567
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| beIN Sports N
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29470
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Bloomberg
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6566
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (OFFLINE) |LAM| Boomerang
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6560
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (OFFLINE) |LAM| Boomerang FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6561
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Canal De Las Estrellas
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6555
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Caracol FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6553
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Cartoon Network FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6552
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Cinecanal
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6550
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Cinecanal FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6551
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Cinemax
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6548
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Cinemax FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6549
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| CNN Espanol
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6558
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| CNN Internacional
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6557
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Comedy Central
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6546
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Comedy Central FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6547
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| De Pelicula
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6541
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (OFFLINE) |LAM| De Pelicula Classico
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6543
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| De Pelicula FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6542
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (OFFLINE) |LAM| De Pelicula Plus
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6539
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| De Pelicula Plus FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6540
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Digital Quince
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6538
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Direct 13
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6537
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (OFFLINE) |LAM| DirectTV Sport 1 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6536
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| DirectTV Sport 2 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6535
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| DirectTV Sport FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6534
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| DirectTV Sports 1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6533
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| DirectTV Sports 2
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6532
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Discovery Channel
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6531
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (OFFLINE) |LAM| Discovery Home Health
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6528
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Discovery Kids
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6526
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Discovery Science
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6525
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Discovery Turbo
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6521
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (OFFLINE) |LAM| Disney Channel
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6517
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Disney Channel FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6518
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (OFFLINE) |LAM| Disney Junior
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6515
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Disney Junior FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6516
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (OFFLINE) |LAM| Disney XD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6513
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (OFFLINE) |LAM| Disney XD FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6514
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Distrito Comedia
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6512
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| E Entertainment
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6510
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (OFFLINE) |LAM| E Entertainment FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6511
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| El Gourmet
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6497
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| El Gourmet FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6504
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (OFFLINE) |LAM| ESPN
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6499
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| ESPN 2
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6508
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (OFFLINE) |LAM| ESPN 2
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6498
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (OFFLINE) |LAM| ESPN 2 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6509
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (OFFLINE) |LAM| ESPN 3
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6502
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| ESPN 3 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6503
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (OFFLINE) |LAM| ESPN Deportes FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6501
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (OFFLINE) |LAM| ESPN FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6500
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| ESPN Plus
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6507
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| ESPN U
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6505
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| ESPN U FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6506
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (OFFLINE) |LAM| Fox
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29310
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Fox Action
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6488
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Fox Action FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6489
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Fox Cinema
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6487
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (OFFLINE) |LAM| Fox Classics
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6485
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (OFFLINE) |LAM| Fox Classics FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6486
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (OFFLINE) |LAM| Fox Comedy
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6483
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (OFFLINE) |LAM| Fox Comedy FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6484
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Fox Deportes FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6482
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Fox Family
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29309
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (OFFLINE) |LAM| Fox Family FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6480
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Fox FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6481
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Fox Life
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29312
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Fox Life FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29311
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Fox Movies
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29314
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Fox Movies FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29313
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Fox Series
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29316
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Fox Series FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29315
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Fox Sports 1
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29318
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Fox Sports 1 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29317
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Fox Sports 2
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29319
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| FOX SPORTS 2 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6496
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Fox Sports 3
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29321
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Fox Sports 3 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29320
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Fox Sports Premium
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29322
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| FX
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6494
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| FX FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6495
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| FX M
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6492
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| FXM FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/6493
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Galavision FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29324
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (OFFLINE) |LAM| Garage TV FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29325
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Glitz
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29326
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| GOL TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29323
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Golden
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29328
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Golden Edge
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29327
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Golden Plus
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29330
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Golden Plus FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29329
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (OFFLINE) |LAM| Guatevision
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29331
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| H2
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29333
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| H2 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29332
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| HBO
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29339
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| HBO 2
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29335
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (OFFLINE) |LAM| HBO 2 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29334
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| HBO Family
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29338
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| HBO Family FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29337
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| HBO FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29336
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| HBO Plus
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29341
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| HBO Plus FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29340
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| HBO Signature
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29343
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| HBO Signature FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29342
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| History 2 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29344
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| History FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29345
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Hola TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29347
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (OFFLINE) |LAM| Indieplex FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29348
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (OFFLINE) |LAM| Investigation Discovery
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29350
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (OFFLINE) |LAM| Lifetime
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29352
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Max
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29357
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Max Prime
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29358
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Max Up FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29359
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Milenio TV FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29360
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (OFFLINE) |LAM| Moremax FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29361
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (OFFLINE) |LAM| Moviemax FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29362
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Movieplex FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29363
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Multimedios
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29365
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Multimedios FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29364
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Multimedios Plus
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29367
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Multimedios Plus FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29366
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Nat Geo
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29372
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Nat Geo Kids
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29371
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Nat Geo Kids FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29370
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Nbc Universo FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29376
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Next TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29377
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Nick 2
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29378
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Nick Jr
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29379
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Nick Toons
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29380
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Nickelodeon FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29381
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| NTN 24 FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29368
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Outermax FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29383
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Paramount Channel
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29385
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Paramount Channel FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29384
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Pasiones FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29386
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Retroplex FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29389
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Showtime Beyond FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29392
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Showtime East FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29393
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Showtime FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29394
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Showtime West FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29395
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Sony Channel
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29396
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Space
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29398
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Space FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29397
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (OFFLINE) |LAM| Starz Black FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29399
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Starz Cinema FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29400
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Starz Comedy FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29401
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Starz East FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29402
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Starz Edge FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29403
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Starz Encore Action
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29404
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Starz Encore Black FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29405
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Starz Encore Classic FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29406
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Starz Encore Family FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29408
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Starz Encore FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29407
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Starz Encore Suspense FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29409
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Starz Encore Western FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29410
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (OFFLINE) |LAM| Starz Family FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29412
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Starz FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29411
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Starz Kids  Family FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29413
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Starz West FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29414
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Studio Universal FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29415
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Sundance TV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29417
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Sundance TV FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29416
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| SYFY FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29391
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| TBS
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29418
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| TCM
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29419
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Telenovelas
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29451
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Telesur
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29454
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| TLC
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29421
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| TLC FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29420
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (OFFLINE) |LAM| TNT
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29423
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (OFFLINE) |LAM| TNT FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29422
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (OFFLINE) |LAM| TNT Series
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29425
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (OFFLINE) |LAM| TNT Series FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29424
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| TNT Sports FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29426
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Tooncast
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29456
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Tru TV FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29458
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| TVE
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29427
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Universal Channel
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29472
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Warner
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29492
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="latino América", (ONLINE) |LAM| Warner FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/29491
-
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", FOX SPORT 3
+https://iptvtucuman.com/1000/index.m3u8
 
