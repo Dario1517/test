@@ -1,13 +1,417 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", LiveSport 2
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/107
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Arena Sport 1 HD (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/1
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Arena Sport 2 HD (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/2
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Arena Sport 3 HD (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/3
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Arena Sport 4 HD (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/8
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Arena Sport 5 HD (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/20
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Arena Sport 1 HD (SR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/22
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Arena Sport 2 HD (SR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/23
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Arena Sport 3 HD (SR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/24
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Arena Sport 4 HD (SR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/78
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Arena Sport 5 HD (SR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/79
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Sport Klub HD
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/46
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Sport Klub 1 HD
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/4
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Sport Klub 2 HD
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/159
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Sport Klub 3 HD
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/6
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Sport Klub 4
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/9
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Sport Klub 5
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/10
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Sport Klub 7
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/101
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Sport Klub Start (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/108
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Digi Sport 1 HD (RO)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/12
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Digi Sport 2 HD (RO)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/18
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Digi Sport 3 HD (RO)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/19
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Digi Sport 4 HD (RO)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/21
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", HRT 2 HD (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/30
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", RTL (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/35
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", NOVA HD (HR)
+http://84.22.107.232:8081/Cor-Net/Nova-HR-HD/mpeg.2ts
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", HNTV (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/17
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Fight Channel (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/47
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", BHT 1 (BiH)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/65
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", NOVA Sport (BiH)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/83
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", RTS 1 (SR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/40
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", RTS 2 (SR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/41
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Sky Sport News HD (DE)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/132
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", DAZN 1 Bar HD (DE)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/76
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", DAZN 2 Bar HD (DE)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/77
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Sky Sport Austria HD (DE)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/131
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Sky Sport Austria 1 HD (DE)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/349
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Sky Sport Austria 2 HD (DE)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/350
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Sky Sport Austria 3 HD (DE)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/351
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Sky Sport Austria 4 HD (DE)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/352
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Sky Sport 1 HD (DE)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/133
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Sky Sport 2 HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/134
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Sky Sport 3 HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/135
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Sky Sport 4 HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/136
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Sky Sport 7 HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/139
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Sky Sport 8 HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/140
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Sky Sport 2 Bundesliga HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/142
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Sky Sport 3 Bundesliga HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/143
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Sky Sport 9 Bundesliga HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/149
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Sky Sport X Bundesliga HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/150
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", TRT 1 FHD (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/353
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", TRT SPOR FHD (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/112
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Tivibu Spor 1 FHD (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/109
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Tivibu Spor 2 FHD (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/110
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Tivibu Spor 3 (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/111
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Sport 2 (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/64
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Sports 1 HD (AR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/94
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Sports 2 HD (AR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/95
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Sports 3 HD (AR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/96
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Sports 4 HD (AR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/97
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Sports 6 HD (AR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/99
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", Sports 7 HD (AR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/100
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", SPORT| SUPERSPORT  1 HD
+http://rv.flysat.live:80/307210013157/307210013157/86795
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", SPORT| SUPERSPORT  2 HD
+http://rv.flysat.live:80/307210013157/307210013157/86794
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", SPORT| SUPERSPORT  3 HD
+http://rv.flysat.live:80/307210013157/307210013157/86793
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", SPORT| SUPERSPORT  4 HD
+http://rv.flysat.live:80/307210013157/307210013157/86792
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", SPORT| SUPERSPORT  6 HD
+http://rv.flysat.live:80/307210013157/307210013157/86790
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", SPORT| SUPERSPORT  7 HD
+http://rv.flysat.live:80/307210013157/307210013157/86789
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", SPORT| SUPERSPORT  8 HD
+http://rv.flysat.live:80/307210013157/307210013157/86788
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", SPORT| SUPERSPORT  10 HD
+http://rv.flysat.live:80/307210013157/307210013157/86787
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", SPORT| SUPERSPORT  11 HD
+http://rv.flysat.live:80/307210013157/307210013157/86786
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", SPORT| SUPERSPORT  12 HD
+http://rv.flysat.live:80/307210013157/307210013157/86785
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", SPORT| SUPERSPORT  13 HD
+http://rv.flysat.live:80/307210013157/307210013157/86784
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", SPORT| SUPERSPORT  15 HD
+http://rv.flysat.live:80/307210013157/307210013157/86783
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", SPORT| SUPERSPORT  EVENTS HD
+http://rv.flysat.live:80/307210013157/307210013157/86782
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", SPORT| SUPERSPORT  BLITZ HD
+http://rv.flysat.live:80/307210013157/307210013157/86781
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", SPORT| SUPERSPORT  MAXIMO 1
+http://rv.flysat.live:80/307210013157/307210013157/86780
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", SPORT| SUPERSPORT  PLAY HD
+http://rv.flysat.live:80/307210013157/307210013157/86779
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", SPORT| SUPERSPORT 1 HD
+http://rv.flysat.live:80/307210013157/307210013157/85169
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", SPORT| SUPERSPORT 2 HD
+http://rv.flysat.live:80/307210013157/307210013157/85168
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", SPORT| SUPERSPORT 3 HD
+http://rv.flysat.live:80/307210013157/307210013157/85167
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", SPORT| SUPERSPORT 4 HD
+http://rv.flysat.live:80/307210013157/307210013157/85166
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", SPORT| SUPERSPORT 6 HD
+http://rv.flysat.live:80/307210013157/307210013157/85164
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", SPORT| SUPERSPORT 7 HD
+http://rv.flysat.live:80/307210013157/307210013157/85163
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", SPORT| SUPERSPORT 8 HD
+http://rv.flysat.live:80/307210013157/307210013157/85162
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", SPORT| SUPERSPORT 11 HD
+http://rv.flysat.live:80/307210013157/307210013157/85160
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", SPORT| SUPERSPORT 12 HD
+http://rv.flysat.live:80/307210013157/307210013157/85159
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", SPORT| SUPERSPORT 13 HD
+http://rv.flysat.live:80/307210013157/307210013157/85158
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", SPORT| SUPERSPORT 15 HD
+http://rv.flysat.live:80/307210013157/307210013157/85157
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", SPORT| SUPERSPORT MAXIMO 1
+http://rv.flysat.live:80/307210013157/307210013157/85154
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", SPORT| SUPERSPORT PLAY HD
+http://rv.flysat.live:80/307210013157/307210013157/85153
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", B S MAX 1 HD
+http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289046
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", B S MAX 1 SD
+http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289047
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", B S MAX 2 HD
+http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289048
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", B S MAX 2 SD
+http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289049
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", B S MAX 3 HD
+http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289050
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", B S MAX 3 SD
+http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289051
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", B S MAX 4 HD
+http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289052
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", B S MAX 4 SD
+http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289053
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", B S MAX 5 HD
+http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289054
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", B S MAX 6 HD
+http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289056
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", B S MAX 6 4K
+http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289057
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", B S MAX 1 4K
+http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289625
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", B S MAX 2 4K
+http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289626
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", B S MAX 3 4K
+http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289627
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", B S MAX 4 4K
+http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289628
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", B S MAX 5 4K
+http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289629
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", B S MAX 6 4K
+http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289630
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", B S MAX  1F
+http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289636
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", BS 1 HD fr
+http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289637
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", BS 2 HD fr
+http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289638
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", BS 3 HD fr
+http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289639
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", BS 1F fr
+http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289640
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", BS 2F fr
+http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289641
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", BS 3F fr
+http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289642
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", SPORT KLUB 1 (HR)
+http://krajnatv.com:8000/apo7776/skypeuser/60
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", SPORT KLUB 1 (SR)
+http://krajnatv.com:8000/apo7776/skypeuser/121
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", SPORT KLUB 2 (HR)
+http://krajnatv.com:8000/apo7776/skypeuser/61
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", SPORT KLUB 2 (SR)
+http://krajnatv.com:8000/apo7776/skypeuser/122
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", SPORT KLUB 3 (HR)
+http://krajnatv.com:8000/apo7776/skypeuser/62
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", SPORT KLUB 3 (SR)
+http://krajnatv.com:8000/apo7776/skypeuser/123
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", SPORT KLUB 4 (HR)
+http://krajnatv.com:8000/apo7776/skypeuser/204
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", SPORT KLUB 4 (SR)
+http://krajnatv.com:8000/apo7776/skypeuser/124
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", SPORT KLUB 5 (HR)
+http://krajnatv.com:8000/apo7776/skypeuser/205
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", SPORT KLUB 6 (HR)
+http://krajnatv.com:8000/apo7776/skypeuser/103
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", SPORT KLUB 6 (SR)
+http://krajnatv.com:8000/apo7776/skypeuser/125
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", ARENA SPORT 1 HD (HR)
+http://krajnatv.com:8000/apo7776/skypeuser/37
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", ARENA SPORT 1 (SR)
+http://krajnatv.com:8000/apo7776/skypeuser/127
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", ARENA SPORT 2 HD (HR)
+http://krajnatv.com:8000/apo7776/skypeuser/38
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", ARENA SPORT 2 (SR)
+http://krajnatv.com:8000/apo7776/skypeuser/128
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", ARENA SPORT 3 HD (HR)
+http://krajnatv.com:8000/apo7776/skypeuser/39
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", ARENA SPORT 3 (SR)
+http://krajnatv.com:8000/apo7776/skypeuser/129
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", ARENA SPORT 4 HD (HR)
+http://krajnatv.com:8000/apo7776/skypeuser/40
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", ARENA SPORT 4 (SR)
+http://krajnatv.com:8000/apo7776/skypeuser/130
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", ARENA SPORT 5 HD (HR)
+http://krajnatv.com:8000/apo7776/skypeuser/104
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", ARENA SPORT 5 (SR)
+http://krajnatv.com:8000/apo7776/skypeuser/131
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/lumut/lumut1604/lumut160400077/55662034-gente-de-la-diversi%C3%B3n-vida-saludable-plantilla-icono-lo" group-title="DEPORTE 3", ARENA SPORT 6 HD (SR)
+http://krajnatv.com:8000/apo7776/skypeuser/206
 
 
-#EXTINF:-1 tvg-logo="https://radio3cadenapatagonia.com.ar/wp-content/uploads/2019/01/logo-radio-3-nuevo-1.png" group-title="RADIOS", europa
-https://qlobbidev.s.llnwi.net/bpk-tv/EUROPA/hls/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://radio3cadenapatagonia.com.ar/wp-content/uploads/2019/01/logo-radio-3-nuevo-1.png" group-title="RADIOS", dhe
-https://qlobbidev.s.llnwi.net/bpk-tv/DHE/hls/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://radio3cadenapatagonia.com.ar/wp-content/uploads/2019/01/logo-radio-3-nuevo-1.png" group-title="RADIOS", paramount
-
-http://flus1.sanpedrowifi.com/live/paramount.sd.ird/index.m3u8
