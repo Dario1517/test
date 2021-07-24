@@ -5,3 +5,9 @@
 #EXTINF:-1 tvg-logo="https://radio3cadenapatagonia.com.ar/wp-content/uploads/2019/01/logo-radio-3-nuevo-1.png" group-title="RADIOS", europa
 https://qlobbidev.s.llnwi.net/bpk-tv/EUROPA/hls/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://radio3cadenapatagonia.com.ar/wp-content/uploads/2019/01/logo-radio-3-nuevo-1.png" group-title="RADIOS", dhe
+https://qlobbidev.s.llnwi.net/bpk-tv/DHE/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://radio3cadenapatagonia.com.ar/wp-content/uploads/2019/01/logo-radio-3-nuevo-1.png" group-title="RADIOS", paramount
+
+http://flus1.sanpedrowifi.com/live/paramount.sd.ird/index.m3u8
