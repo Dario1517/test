@@ -16,6 +16,59 @@ https://iptvtucuman.com/375/index.m3u8
 https://iptvtucuman.com/376/index.m3u8
 
 
+ #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/eiwu7ivfrsu4mg5/RETRO.jpeg", Retro TV [SD]
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://retroplustv.com/wp-content/uploads/2020/01/Retro-plus-Modificada.png", Retro TV Plus [SD]
+https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/2019/11/rock-1080-1024x614.png",HQM ROCK
+https://livelist01.yowi.tv/lista/f9735e2c9fe77b7592cc2a6479338a224ac7941e/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/2019/11/blues-1080-1024x614.png",HQM BLUES
+https://livelist01.yowi.tv/lista/91611a4b284b04945cc2a5f5898d811cfad1f406/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/2019/11/pop-1080-1024x614.png",HQM POP
+https://livelist01.yowi.tv/lista/e254a962539d318dca0a948fdb484e90eb649b4e/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/2019/11/remember-1080-1024x614.png",HQM REMEMBER
+https://livelist01.yowi.tv/lista/42dd35e3e0aa76fa003b8ffdc9812c93c7343484/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/2019/11/relax-1080-1024x614.png",HQM RELAX
+https://livelist01.yowi.tv/lista/76ee3b055f97e601e15b91eff14e17e14f42a1eb/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/2019/11/kids-1080-1024x614.png",HQM KIDS
+https://livelist01.yowi.tv/lista/596029a2a8e3f15124b8e0b37e54b89b57ce48b6/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/2019/11/jazz-1080-1024x614.png",HQM JAZZ
+https://livelist01.yowi.tv/lista/b6098c074080d6f7cdbb8d4e3d47f906885b6353/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/2019/11/folk-1080-1024x614.png",HQM FOLK
+https://livelist01.yowi.tv/lista/b067b8b058dbef62dfe541456c5d24115756b566/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/2019/11/classic-1080-1024x614.png",HQM CLASSIC
+https://livelist01.yowi.tv/lista/b7d42e539b27fac6c3b480c1b7345a7772ad9cb2/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/2019/11/chill-out-1080-1024x614.png",HQM CHILL OUT
+https://livelist01.yowi.tv/lista/07eac97dabcbaea6def32e3ec508f434d75dfcab/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/2019/11/dance-1080-1024x614.png",HQM DANCE
+https://livelist01.yowi.tv/lista/a636df582c762a380b1eb1673f79e50489365e28/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/2019/11/baladas-1080-1024x614.png",HQM BALADAS
+https://livelist01.yowi.tv/lista/631591f6a8bc774f7321a0df12fc1f8305fae40a/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/2019/11/hiphop-1080-1024x614.png",HQM HIP-HOP
+https://livelist01.yowi.tv/lista/385bdb9ae50740e41f3b370220c6b02e821f0131/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/2019/11/latin-1080-1024x614.png",HQM LATIN
+https://livelist01.yowi.tv/lista/632d67e159011448932e2db27a317ad48200b8f4/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.latinhits.tv/wp-content/uploads/2018/12/logo-header-latin-hits-tv.png",LATIN HITS
+https://cdn01.yowi.tv/RABDUNMFW5/live-1000.m3u8
+
+
+
 
 
 
