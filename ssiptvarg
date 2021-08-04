@@ -18,7 +18,7 @@ https://iptvtucuman.com/376/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="",Arica TV
-https://5d1ca66d2d698.streamlock.net:1936/8002/8002/chunklist_w2045598283.m3u8
+https://5d1ca66d2d698.streamlock.net:1936/8002/8002/playlist.m3u8
 	 
 #EXTINF:-1 tvg-logo="",STGOTV
 https://stv.janus.cl/playlist/stream.m3u8?
@@ -27,17 +27,17 @@ https://stv.janus.cl/playlist/stream.m3u8?
 http://tv.ulagos.cl/web/live.m3u8
 
 #EXTINF:-1 tvg-logo="",Top Latino*
-http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="",EXTREMA*
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8﻿
 #EXTINF:-1 tvg-logo="",CANAL 10  CHETUMAL *
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 tvg-logo="",WOW*
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="",MULTIMEDIOS  LAGUNA *
 http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
 #EXTINF:-1 tvg-logo="",Tansmedia Tv Morelia *
-http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8
+http://streamingcws20.com:1935/tmtv/videotmtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="",NAT GEO WILD *
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:-1 tvg-logo="",Radio Capital*
@@ -45,7 +45,7 @@ http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&r
 #EXTINF:-1 tvg-logo="",Acento*
 http://acentotv01.streamprolive.com/hls/live.m3u8
 #EXTINF:-1 tvg-logo="",Canal 9 Multivision *
-http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 #EXTINF:-1 tvg-logo="",UFC Network *
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
 #EXTINF:-1 tvg-logo="",Telemax Hermosillo *
@@ -53,15 +53,15 @@ http://s5.mexside.net:1935/telemax/telemax/.m3u8
 #EXTINF:-1 tvg-logo="",TELEMAR CAMPECHE *
 http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u
 #EXTINF:-1 tvg-logo="",Tansmedia Tv Morelia *
-http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8
+http://streamingcws20.com:1935/tmtv/videotmtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="",ATB *
 http://186.121.206.197/live/daniel/index.m3u8
 #EXTINF:-1 tvg-logo="",ORBIT DOMINICANA *
-http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
+http://ss6.domint.net:2082/202_str/orbittv/playlist.m3u8
 #EXTINF:-1 tvg-logo="",FUEGO TV DOMINICANA *
 http://184.173.181.2:1935/8020/8020/playlist.m3u8
 #EXTINF:-1 tvg-logo="",SUPER TV DOMINICANA *
-http://ss8.domint.net:2128/stv_str/tv55/chunklist_w19976954.m3u8
+http://ss8.domint.net:2128/stv_str/tv55/playlist.m3u8
 #EXTINF:-1 tvg-logo="",TV DEL ESTE DOMINICANA *
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="",LA CUATRO HD *
@@ -111,9 +111,9 @@ http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 #EXTINF:-1 tvg-logo="",CN 24/7 *
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 #EXTINF:-1 tvg-logo="",MEDIOS RIOJA *
-http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w635100631.m3u8
+http://streamyes.alsolnet.com/mediosrioja/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="",RTN NEUQUEN *
-http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
+http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 #EXTINF:-1 tvg-logo="",MULTIVISION SALTA *
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 #EXTINF:-1 tvg-logo="",13 MAX TELEFE *
@@ -125,7 +125,7 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1 tvg-logo="",IPE *
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-logo="",COSMOS *
-http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/chunklist_w911600877.m3u8
+http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/playlist.m3u8
 #EXTINF:-1 tvg-logo="",TV PERU *
 http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-logo="",PANAMERICANA *
@@ -133,7 +133,7 @@ https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-logo="",ANTARES*
 http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-logo="",CULTURA 24 *
-http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 #EXTINF:-1 tvg-logo="",BHTV PERU *
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8
 #EXTINF:-1 tvg-logo="",CENTRAL TV PERU *
@@ -207,13 +207,13 @@ http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w1
 #EXTINF:-1 tvg-logo="",TELEMAX *
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 #EXTINF:-1 tvg-logo="",NEX*
-http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+http://198.1.117.5:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="",MARTI *
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8
 #EXTINF:-1 tvg-logo="",DW *
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="",LA VOZ DE MARIA *
-http://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/chunklist_w477912263.m3u8
+http://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="",CBN *
 http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8?tecnotv.info?iptv.m3u8
 #EXTINF:-1 tvg-logo="",RAI 4 *
@@ -255,9 +255,9 @@ http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
 #EXTINF:-1 tvg-logo="",TV DEL ESTE DOMINICANA *
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="",TELESISTEMA DOMINICANA *
-http://ss3.domint.net:2114/t11_str/telesistema/chunklist_w44342477.m3u8?fluxustv.m3u8
+http://ss3.domint.net:2114/t11_str/telesistema/playlist.m3u8
 #EXTINF:-1 tvg-logo="",SUPER TV DOMINICANA *
-http://ss8.domint.net:2128/stv_str/tv55/chunklist_w19976954.m3u8
+http://ss8.domint.net:2128/stv_str/tv55/playlist.m3u8
 #EXTINF:-1 tvg-logo="",ACENTO TV DOMINICANA *
 http://acentotv01.streamprolive.com/hls/live.m3u8
 #EXTINF:-1 tvg-logo="",LUNA TV DOMINICANA *
@@ -267,7 +267,7 @@ http://184.173.181.2:1935/8020/8020/playlist.m3u8
 #EXTINF:-1 tvg-logo="",FARO VISION DOMINICANA *
 http://184.173.181.2:1935/8060/8060/playlist.m3u8
 #EXTINF:-1 tvg-logo="",VALLEVISION DOMINICANA *
-http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
+http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="",COLOSAL TV COSTA RICA *
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 tvg-logo="",TELESUR COSTA RICA *
@@ -275,17 +275,17 @@ http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 #EXTINF:-1 tvg-logo="",TV SUR COSTA RICA *
 http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
 #EXTINF:-1 tvg-logo="",MULTIMEDIOS COSTA RICA *
-http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-logo="",TICAVISION COSTA RICA *
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="",EXTREMA COSTA RICA *
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="",TV PLATA GUATEMALA *
-http://ss6.domint.net:2104/tvp_str/tvplata/chunklist_w780794720.m3u8
+http://ss6.domint.net:2104/tvp_str/tvplata/playlist.m3u8
 #EXTINF:-1 tvg-logo="",BONAO*
-http://ss1.domint.net:2226/btv_str/bonao/chunklist_w1629112127.m3u8
+http://ss1.domint.net:2226/btv_str/bonao/playlist.m3u8
 #EXTINF:-1 tvg-logo="",RETRO*
-http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-logo="",RETRO HD *
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-logo="",RETRO PLUS *
@@ -309,12 +309,12 @@ http://45.55.127.106/live/unicanal_src.m3u8
 #EXTINF:-1 tvg-logo="",TELECANAL *
 http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="",PANAVISION PANAMA *
-http://vcp1.myplaytv.com:1935/panavision/panavision/chunklist_w2101755274.m3u8
+http://vcp1.myplaytv.com:1935/panavision/panavision/playlist.m3u8
 #EXTINF:-1 tvg-logo="",CBS News achoAPPS.com *
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1 tvg-logo="",NAT GEO WILD *
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:-1 ,#EXTINF:-1 tvg-logo="http://esceptipedia.com/w/images/c/c4/History.jpg" - History Channel Cuando el Pasado Vuelve *
+#EXTINF:-1 tvg-logo="http://esceptipedia.com/w/images/c/c4/History.jpg" - History Channel Cuando el Pasado Vuelve *
 http://184.173.181.2:1935/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-logo="",Top Latino*
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
@@ -323,17 +323,17 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="",CANAL 10  CHETUMAL *
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 tvg-logo="",WOW*
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="",MULTIMEDIOS  LAGUNA *
 http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
 #EXTINF:-1 tvg-logo="",Tansmedia Tv Morelia *
-http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8
+http://streamingcws20.com:1935/tmtv/videotmtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="",Radio Capital*
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&rebase=on?e74
 #EXTINF:-1 tvg-logo="",Acento*
 http://acentotv01.streamprolive.com/hls/live.m3u8
 #EXTINF:-1 tvg-logo="",Canal 9 Multivision *
-http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 #EXTINF:-1 tvg-logo="",UFC Network *
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
 #EXTINF:-1 tvg-logo="",Telemax Hermosillo *
@@ -341,17 +341,17 @@ http://s5.mexside.net:1935/telemax/telemax/.m3u8
 #EXTINF:-1 tvg-logo="",TELEMAR CAMPECHE *
 http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u
 #EXTINF:-1 tvg-logo="",Tansmedia Tv Morelia *
-http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8
+http://streamingcws20.com:1935/tmtv/videotmtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="",ATB *
 http://186.121.206.197/live/daniel/index.m3u8
 #EXTINF:-1 tvg-logo="",ORBIT DOMINICANA *
-http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
+http://ss6.domint.net:2082/202_str/orbittv/playlist.m3u8
 #EXTINF:-1 tvg-logo="",FUEGO TV DOMINICANA *
 http://184.173.181.2:1935/8020/8020/playlist.m3u8
 #EXTINF:-1 tvg-logo="",SUPER TV DOMINICANA *
-http://ss8.domint.net:2128/stv_str/tv55/chunklist_w19976954.m3u8
+http://ss8.domint.net:2128/stv_str/tv55/playlist.m3u8
 #EXTINF:-1 tvg-logo="",TV DEL ESTE DOMINICANA *
-http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="",LA CUATRO HD *
 http://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="",TELECINCO ESPAÑA *
@@ -399,9 +399,9 @@ http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 #EXTINF:-1 tvg-logo="",CN 24/7 *
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 #EXTINF:-1 tvg-logo="",MEDIOS RIOJA *
-http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w635100631.m3u8
+http://streamyes.alsolnet.com/mediosrioja/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="",RTN NEUQUEN *
-http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
+http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 #EXTINF:-1 tvg-logo="",MULTIVISION SALTA *
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 #EXTINF:-1 tvg-logo="",13 MAX TELEFE *
@@ -413,7 +413,7 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1 tvg-logo="",IPE *
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-logo="",COSMOS *
-http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/chunklist_w911600877.m3u8
+http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/playlist.m3u8
 #EXTINF:-1 tvg-logo="",TV PERU *
 http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-logo="",PANAMERICANA *
@@ -539,13 +539,13 @@ http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 #EXTINF:-1 tvg-logo="",OLIMPIC CANAL *
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 #EXTINF:-1 tvg-logo="",ORBIT DOMINICANA *
-http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
+http://ss6.domint.net:2082/202_str/playlist.m3u8
 #EXTINF:-1 tvg-logo="",TV DEL ESTE DOMINICANA *
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="",TELESISTEMA DOMINICANA *
 http://ss3.domint.net:2114/t11_str/telesistema/chunklist_w44342477.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="",SUPER TV DOMINICANA *
-http://ss8.domint.net:2128/stv_str/tv55/chunklist_w19976954.m3u8
+http://ss8.domint.net:2128/stv_str/tv55/playlist.m3u8
 #EXTINF:-1 tvg-logo="",ACENTO TV DOMINICANA *
 http://acentotv01.streamprolive.com/hls/live.m3u8
 #EXTINF:-1 tvg-logo="",LUNA TV DOMINICANA *
@@ -555,7 +555,7 @@ http://184.173.181.2:1935/8020/8020/playlist.m3u8
 #EXTINF:-1 tvg-logo="",FARO VISION DOMINICANA *
 http://184.173.181.2:1935/8060/8060/playlist.m3u8
 #EXTINF:-1 tvg-logo="",VALLEVISION DOMINICANA *
-http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
+http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="",COLOSAL TV COSTA RICA *
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 tvg-logo="",TELESUR COSTA RICA *
