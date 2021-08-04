@@ -26,12 +26,8 @@ https://stv.janus.cl/playlist/stream.m3u8?
 #EXTINF:-1 tvg-logo="",ULagos TV
 http://tv.ulagos.cl/web/live.m3u8
 
-#EXTINF:-1 tvg-logo="",Top Latino*
-http://online.radiodifusion.net:1935/livetv/latinoSD.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",EXTREMA*
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8﻿
-#EXTINF:-1 tvg-logo="",CANAL 10  CHETUMAL *
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="",WOW*
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="",MULTIMEDIOS  LAGUNA *
@@ -580,24 +576,8 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-logo="",FRECUENCIA MUSICAL *
 http://streaminglivehd.com:1935/8056/8056/playlist.m3u8
-#EXTINF:-1 tvg-logo="",MUNDO MAS COLOMBIA *
-http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
-#EXTINF:-1 tvg-logo="",SBT HD *
-http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="",FIGTH TIME *
-http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
-#EXTINF:-1 tvg-logo="",KARAOKE HD *
-http://www.djing.com/tv/karaoke.m3u8
-#EXTINF:-1 tvg-logo="",CANAL 1 PELICULAS *
-http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="",PANICO *
-http://170.178.189.66:1935/live/Stream1/.m3u8
-#EXTINF:-1 tvg-logo="",UNICANAL *
-http://45.55.127.106/live/unicanal_src.m3u8
-#EXTINF:-1 tvg-logo="",TELECANAL *
-http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",PANAVISION PANAMA *
-http://vcp1.myplaytv.com:1935/panavision/panavision/chunklist_w2101755274.m3u8
+
+
 #EXTINF:-1 tvg-logo="",CBS News *
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1,iptvtools_4
