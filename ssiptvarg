@@ -1,281 +1,841 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/PBS/epg.xml.gz"
-#EXTINF:-1 tvg-id="KEET" tvg-logo="https://image.pbs.org/stations/keet-color-single-brand-logo-ga7RElo.png",KEET
-https://keetdt.lls.cdn.pbs.org/keetdt/1b41a3da-967a-40fa-8243-87740f94dbd5/primary.m3u8
-#EXTINF:-1 tvg-id="KIXE" tvg-logo="https://image.pbs.org/stations/kixe-color-cobranded-logo-X7SCkrz.png",KIXE/Channel 9
-https://kixedt.lls.cdn.pbs.org/kixedt/327603f6-bcbd-4894-b499-9d02bc13c953/primary.m3u8
-#EXTINF:-1 tvg-id="KOCE" tvg-logo="https://image.pbs.org/stations/koce-color-cobranded-logo-1glLU5w.png",PBS SoCal | KCET
-https://kocedt.lls.cdn.pbs.org/kocedt/057f6e22-7d9c-4fd6-b968-bc17102698de/primary.m3u8
-#EXTINF:-1 tvg-id="KPBS" tvg-logo="https://image.pbs.org/stations/kpbs-color-single-brand-logo-hGVAGnN.png",KPBS San Diego
-https://kpbsdt.lls.cdn.pbs.org/kpbsdt/78ac901f-6484-42ba-a986-71ef34d2cabf/primary.m3u8
-#EXTINF:-1 tvg-id="KQED" tvg-logo="https://image.pbs.org/stations/kqed-color-single-brand-logo-xuD52le.png",KQED
-https://kqeddt.lls.cdn.pbs.org/kqeddt/1978f5fc-903b-44c5-8db4-76335078ea74/primary.m3u8
-#EXTINF:-1 tvg-id="KVIE" tvg-logo="https://image.pbs.org/stations/kvie-color-cobranded-logo-8vr1GYl.png",PBS KVIE
-https://kviedt.lls.cdn.pbs.org/kviedt/4d8fea94-86b8-4663-9c69-4c4cb62257e4/primary.m3u8
-#EXTINF:-1 tvg-id="KLCS" tvg-logo="https://image.pbs.org/stations/klcs-color-cobranded-logo-3qJ91yi.png",KLCS
-https://klcsdt.lls.cdn.pbs.org/klcsdt/c39fde04-f0c0-4f41-b797-a2c14938238b/primary.m3u8
-#EXTINF:-1 tvg-id="KRCB" tvg-logo="https://image.pbs.org/stations/krcb-color-single-brand-logo-4eMIGN0.png",Northern California Public Media
-https://krcbdt.lls.cdn.pbs.org/krcbdt/08e0ed35-f9dc-4758-9d6d-82c81adcacda/primary.m3u8
-#EXTINF:-1 tvg-id="KVCR" tvg-logo="https://image.pbs.org/stations/kvcr-color-single-brand-logo-2qVvwTp.png",KVCR
-https://kvcrdt.lls.cdn.pbs.org/kvcrdt/d5fc9451-1456-4ea1-9476-4db346756a96/primary.m3u8
-#EXTINF:-1 tvg-id="KLVX" tvg-logo="https://image.pbs.org/stations/klvx-color-cobranded-logo-xVjR7SI.png",Vegas PBS
-https://klvxdt.lls.cdn.pbs.org/klvxdt/ca45083b-e314-4063-bd2e-0d614f01ea43/primary.m3u8
-#EXTINF:-1 tvg-id="KNPB" tvg-logo="https://image.pbs.org/stations/knpb-color-cobranded-logo-NTKQ6Vi.png",PBS Reno
-https://knpbdt.lls.cdn.pbs.org/knpbdt/6a6a875e-4af4-4e1e-8502-422071b9cdac/primary.m3u8
-#EXTINF:-1 tvg-id="KSYS" tvg-logo="https://image.pbs.org/stations/ksys-color-cobranded-logo-sJv2qEz.png",Southern Oregon PBS
-https://ksysdt.lls.cdn.pbs.org/ksysdt/0ab83f3a-3210-4904-ac59-c3fc08fa24a9/primary.m3u8
-#EXTINF:-1 tvg-id="WHYY" tvg-logo="https://image.pbs.org/stations/whyy-color-cobranded-logo-0kQDUFJ.png",WHYY
-https://whyydt.lls.cdn.pbs.org/whyydt/6e441aa1-51ab-4ecd-a1dc-bc99da43c3ed/primary.m3u8
-#EXTINF:-1 tvg-id="WMPB" tvg-logo="https://image.pbs.org/stations/wmpb-color-single-brand-logo-3WqIZmJ.png",MPT/Maryland Public Television
-https://wmpbdt.lls.cdn.pbs.org/wmpbdt/fdb26654-eed0-4858-aa50-a84b538f4747/primary.m3u8
-#EXTINF:-1 tvg-id="WLVT" tvg-logo="https://image.pbs.org/stations/wlvt-color-single-brand-logo-yxa3feS.png",PBS39
-https://wlvtdt.lls.cdn.pbs.org/wlvtdt/43e7850f-48a2-4e3e-b045-c880ea935fbd/primary.m3u8
-#EXTINF:-1 tvg-id="WNJT" tvg-logo="https://image.pbs.org/stations/wnjt-color-cobranded-logo-3RDiOdA.png",NJ PBS
-https://wnjtdt.lls.cdn.pbs.org/wnjtdt/63b643e1-1a13-4dd9-9bab-ff6f7527715f/primary.m3u8
-#EXTINF:-1 tvg-id="WGTV" tvg-logo="https://image.pbs.org/stations/wgtv-color-single-brand-logo-IeTkPR9.png",Georgia Public Broadcasting
-https://wgtvdt.lls.cdn.pbs.org/wgtvdt/a4907776-c769-452f-ab2f-74bb1f86676f/primary.m3u8
-#EXTINF:-1 tvg-id="WBIQ" tvg-logo="https://image.pbs.org/stations/wbiq-color-cobranded-logo-oPQMK4T.png",APT PBS
-https://wbiqdt.lls.cdn.pbs.org/wbiqdt/fa2db1d4-85a0-4a75-aa3d-1f5028578d52/primary.m3u8
-#EXTINF:-1 tvg-id="WFSU" tvg-logo="https://image.pbs.org/stations/wfsu-color-cobranded-logo-ok3uUgp.png",WFSU
-https://wfsuhd.lls.cdn.pbs.org/wfsuhd/da7db8ae-5c3b-450e-9a25-76aa661eac79/primary.m3u8
-#EXTINF:-1 tvg-id="WJCT" tvg-logo="https://image.pbs.org/stations/wjct-color-cobranded-logo-HY1ohKx.png",Jax PBS
-https://wjctdt.lls.cdn.pbs.org/wjctdt/5eee712c-8713-4283-8af1-c0ba9d25d6fd/primary.m3u8
-#EXTINF:-1 tvg-id="WRLK" tvg-logo="https://image.pbs.org/stations/wrlk-color-single-brand-logo-AJhI6Sj.png",SCETV
-https://wrlkdt.lls.cdn.pbs.org/wrlkdt/50ac3de0-09e0-43db-8bb6-d83826fd637c/primary.m3u8
-#EXTINF:-1 tvg-id="WTCI" tvg-logo="https://image.pbs.org/stations/wtci-color-cobranded-logo-JoMIHXF.png",WTCI
-https://wtcidt.lls.cdn.pbs.org/wtcidt/50833393-c4b6-4c79-9d6d-24a7e30dc19e/primary.m3u8
-#EXTINF:-1 tvg-id="WUFT" tvg-logo="https://image.pbs.org/stations/wuft-color-cobranded-logo-4U85J4Z.png",Florida's 5 WUFT-TV
-https://pbs.lls.cdn.pbs.org/est/index.m3u8
-#EXTINF:-1 tvg-id="WUNC" tvg-logo="https://image.pbs.org/stations/wunc-color-cobranded-logo-rDOxVbV.png",PBS North Carolina
-https://wuncdt.lls.cdn.pbs.org/wuncdt/fa2384b8-9593-4d58-a129-4deb3a1f764a/primary.m3u8
-#EXTINF:-1 tvg-id="KAID" tvg-logo="https://image.pbs.org/stations/kaid-color-cobranded-logo-uWaE8UA.png",Idaho Public Television
-https://kaiddt.lls.cdn.pbs.org/kaiddt/8a949120-ff4f-4d71-9c96-ca4978e3b39a/primary.m3u8
-#EXTINF:-1 tvg-id="KOPB" tvg-logo="https://image.pbs.org/stations/kopb-color-single-brand-logo-xPrb6oK.png",OPB
-https://kopbdt.lls.cdn.pbs.org/kopbdt/908d1940-5074-4a1e-b111-169206513fef/primary.m3u8
-#EXTINF:-1 tvg-id="KSPS" tvg-logo="https://image.pbs.org/stations/ksps-color-cobranded-logo-dHfDNhc.png",KSPS Public Television
-https://kspsdt.lls.cdn.pbs.org/kspsdt/3c8c7461-f130-483a-9b6c-84dbae163c07/primary.m3u8
-#EXTINF:-1 tvg-id="KUED" tvg-logo="https://image.pbs.org/stations/kued-color-cobranded-logo-lQKDiK1.png",PBS Utah
-https://kueddt.lls.cdn.pbs.org/kueddt/b0784447-7908-43f6-b188-9d6a30102ea3/primary.m3u8
-#EXTINF:-1 tvg-id="KWSU" tvg-logo="https://image.pbs.org/stations/kwsu-color-single-brand-logo-BYTCXGb.png",Northwest Public Broadcasting
-https://pbs.lls.cdn.pbs.org/pst/index.m3u8
-#EXTINF:-1 tvg-id="KHET" tvg-logo="https://image.pbs.org/stations/khet-color-single-brand-logo-TPvEfAd.png",PBS Hawaiʻi
-https://khetdt.lls.cdn.pbs.org/out/v1/3094c1cbb29b4bdfbd8ec42184ebd7ea/index.m3u8
-#EXTINF:-1 tvg-id="KAET" tvg-logo="https://image.pbs.org/stations/kaet-color-single-brand-logo-Bz3Oe7u.png",Arizona PBS
-https://kaetdt.lls.cdn.pbs.org/kaetdt/6d08b852-2c19-4eb7-9348-a5e15b685357/primary.m3u8
-#EXTINF:-1 tvg-id="KUAT" tvg-logo="https://image.pbs.org/stations/kuat-color-single-brand-logo-7uIx0AN.png",Arizona Public Media
-https://kuatdt.lls.cdn.pbs.org/kuatdt/3ac0f71f-c3c4-4e14-92ef-ccd30b4daca6/primary.m3u8
-#EXTINF:-1 tvg-id="KNME" tvg-logo="https://image.pbs.org/stations/knme-color-cobranded-logo-6ajvWyC.png",New Mexico PBS, KNME-TV
-https://knmedt.lls.cdn.pbs.org/knmedt/97ba98c8-6deb-47b8-9809-2d1f3cc299bf/primary.m3u8
-#EXTINF:-1 tvg-id="WILL" tvg-logo="https://image.pbs.org/stations/will-color-cobranded-logo-q3ksuHa.png",WILL-TV
-https://willdt.lls.cdn.pbs.org/willdt/11bd36cd-46d5-4c3a-bdc8-ae497a23c712/primary.m3u8
-#EXTINF:-1 tvg-id="WSIU" tvg-logo="https://image.pbs.org/stations/wsiu-color-cobranded-logo-sCsTHls.png",WSIU Carbondale
-https://pbs.lls.cdn.pbs.org/est/index.m3u8
-#EXTINF:-1 tvg-id="WTTW" tvg-logo="https://image.pbs.org/stations/wttw-color-single-brand-logo-ar3XdJg.png",WTTW
-https://wttwdt.lls.cdn.pbs.org/wttwdt/8030a253-4b34-463e-82e2-ec0726e24e58/primary.m3u8
-#EXTINF:-1 tvg-id="WTVP" tvg-logo="https://image.pbs.org/stations/wtvp-color-cobranded-logo-977FFXE.png",WTVP, Public Media for Central Illinois
-https://wtvpdt.lls.cdn.pbs.org/wtvpdt/41427091-bd65-483d-bdb5-9a4159a5d93e/primary.m3u8
-#EXTINF:-1 tvg-id="WEIU" tvg-logo="https://image.pbs.org/stations/weiu-color-cobranded-logo-JkTzcMN.png",WEIU/Channel 51
-https://weiudt.lls.cdn.pbs.org/weiudt/85af7dd6-89ae-4fde-9826-79b04c30aaa4/primary.m3u8
-#EXTINF:-1 tvg-id="WQPT" tvg-logo="https://image.pbs.org/stations/wqpt-color-cobranded-logo-kwZNIhd.png",WQPT PBS
-https://wqptdt.lls.cdn.pbs.org/wqptdt/d431813a-086d-4a12-917a-d160f6b5c4c7/primary.m3u8
-#EXTINF:-1 tvg-id="WYIN" tvg-logo="https://image.pbs.org/stations/wyin-color-cobranded-logo-TbS5wUb.png",Lakeshore PBS
-https://wyindt.lls.cdn.pbs.org/wyindt/473411db-09f0-4b27-99a9-c15e827ba9c3/primary.m3u8
-#EXTINF:-1 tvg-id="KDIN" tvg-logo="https://image.pbs.org/stations/kdin-color-cobranded-logo-EZAa8DQ.png",Iowa PBS
-https://kdindt.lls.cdn.pbs.org/kdindt/4b65e70a-e262-4290-ae67-45bd0814cafd/primary.m3u8
-#EXTINF:-1 tvg-id="KETC" tvg-logo="https://image.pbs.org/stations/ketc-color-cobranded-logo-mDXc46t.png",Nine PBS
-https://ketcdt.lls.cdn.pbs.org/ketcdt/0436e066-85c7-408b-a4fd-5b492ccb5fd8/primary.m3u8
-#EXTINF:-1 tvg-id="WKLE" tvg-logo="https://image.pbs.org/stations/wkle-color-single-brand-logo-yJUbW1W.png",KET - Kentucky Educational Television
-https://wkledt.lls.cdn.pbs.org/wkledt/61059d95-3011-4270-b9d1-17b88ca25b13/primary.m3u8
-#EXTINF:-1 tvg-id="WMVS" tvg-logo="https://image.pbs.org/stations/wmvs-color-cobranded-logo-f5TXVFT.png",Milwaukee PBS
-https://wmvsdt.lls.cdn.pbs.org/wmvsdt/27146fbb-5f51-4924-9e00-bb46e89e18a8/primary.m3u8
-#EXTINF:-1 tvg-id="WNIN" tvg-logo="https://image.pbs.org/stations/wnin-color-cobranded-logo-ohCzizo.png",WNIN
-https://wnindt.lls.cdn.pbs.org/wnindt/b7b39443-4f87-4569-85f9-ad0594029964/primary.m3u8
-#EXTINF:-1 tvg-id="WPNE" tvg-logo="https://image.pbs.org/stations/wpne-color-cobranded-logo-J5MrZBr.png",PBS Wisconsin
-https://wpnedt.lls.cdn.pbs.org/wpnedt/a3a25e36-3ba3-40b4-990f-7460511f0127/primary.m3u8
-#EXTINF:-1 tvg-id="WVUT" tvg-logo="https://image.pbs.org/stations/wvut-color-cobranded-logo-YXSJnLG.png",Vincennes PBS
-https://wvutdt.lls.cdn.pbs.org/wvutdt/d6e2cccf-df68-47ab-8d8f-2d28ee301ff1/primary.m3u8
-#EXTINF:-1 tvg-id="KUON" tvg-logo="https://image.pbs.org/stations/kuon-color-single-brand-logo-XlBmNqx.png",Nebraska Public Media
-https://kuondt.lls.cdn.pbs.org/kuondt/b107784d-680c-48d5-8d48-ccb870cbb9dc/primary.m3u8
-#EXTINF:-1 tvg-id="KUSD" tvg-logo="https://image.pbs.org/stations/kusd-color-single-brand-logo-K9cBQP3.png",South Dakota Public Broadcasting
-https://kusddt.lls.cdn.pbs.org/kusddt/1a8001d3-46cc-420b-8161-fd19578f8675/primary.m3u8
-#EXTINF:-1 tvg-id="KWCM" tvg-logo="https://image.pbs.org/stations/kwcm-color-cobranded-logo-Hv1VDNL.png",Pioneer PBS
-https://kwcmdt.lls.cdn.pbs.org/kwcmdt/3c88d7e0-5940-41e0-b7b7-30f728b3ea46/primary.m3u8
-#EXTINF:-1 tvg-id="KOOD" tvg-logo="https://image.pbs.org/stations/kood-color-cobranded-logo-9M3XBLL.png",Smoky Hills PBS
-https://kooddt.lls.cdn.pbs.org/kooddt/42bf8024-6bd7-4a3f-b945-00a9ae88e8f1/primary.m3u8
-#EXTINF:-1 tvg-id="KPTS" tvg-logo="https://image.pbs.org/stations/kpts-color-cobranded-logo-THeGpUD.png",PBS Kansas Public Television
-https://kptsdt.lls.cdn.pbs.org/kptsdt/f8cd0e67-9e8d-464d-aaf1-f7874f5f6ae6/primary.m3u8
-#EXTINF:-1 tvg-id="KTWU" tvg-logo="https://image.pbs.org/stations/ktwu-color-single-brand-logo-aW2G3PU.png",KTWU/Channel 11
-https://ktwudt.lls.cdn.pbs.org/ktwudt/164fbea8-3e32-44f3-a701-20ad6de50b72/primary.m3u8
-#EXTINF:-1 tvg-id="KCPT" tvg-logo="https://image.pbs.org/stations/kcpt-color-cobranded-logo-gWmfwnu.png",Kansas City PBS
-https://kcptdt.lls.cdn.pbs.org/kcptdt/b053c129-9506-40e4-810a-7b610b62e58d/primary.m3u8
-#EXTINF:-1 tvg-id="KETA" tvg-logo="https://image.pbs.org/stations/keta-color-single-brand-logo-jXYvEuY.png",Oklahoma Educational Television Authority
-https://ketadt.lls.cdn.pbs.org/ketadt/edf8065c-f56a-42f7-a7aa-f5267eb9ffc9/primary.m3u8
-#EXTINF:-1 tvg-id="KOZK" tvg-logo="https://image.pbs.org/stations/kozk-color-single-brand-logo-4J6w0Sm.png",Ozarks Public Television
-https://pbs.lls.cdn.pbs.org/est/index.m3u8
-#EXTINF:-1 tvg-id="KETS" tvg-logo="https://image.pbs.org/stations/kets-color-cobranded-logo-IIG0VMs.png",Arkansas PBS
-https://ketsdt.lls.cdn.pbs.org/ketsdt/b5545820-5d66-4396-9f94-b5bd58aa34d9/primary.m3u8
-#EXTINF:-1 tvg-id="WKNO" tvg-logo="https://image.pbs.org/stations/wkno-color-single-brand-logo-oORgOjQ.png",WKNO/Channel 10
-https://wknodt.lls.cdn.pbs.org/wknodt/6b3ba9b1-843d-4c44-a8e3-fada6005f081/primary.m3u8
-#EXTINF:-1 tvg-id="WLPB" tvg-logo="https://image.pbs.org/stations/wlpb-color-single-brand-logo-YwxZbmQ.png",LPB/LOUISIANA PUBLIC BROADCASTING
-https://wlpbdt.lls.cdn.pbs.org/wlpbdt/3b9285dd-13b3-4fec-a9b0-02b57dd8c7ba/primary.m3u8
-#EXTINF:-1 tvg-id="WMPN" tvg-logo="https://image.pbs.org/stations/wmpn-color-single-brand-logo-8jNtBYx.png",Mississippi Public Broadcasting
-https://wmpndt.lls.cdn.pbs.org/wmpndt/5598653f-dc4d-4911-9d99-260b3453f6a1/primary.m3u8
-#EXTINF:-1 tvg-id="WBGU" tvg-logo="https://image.pbs.org/stations/wbgu-color-cobranded-logo-2cXHrgS.png",WBGU-TV
-https://wbgudt.lls.cdn.pbs.org/wbgudt/95a51146-e569-4607-b48c-6eec67749c2e/primary.m3u8
-#EXTINF:-1 tvg-id="WFWA" tvg-logo="https://image.pbs.org/stations/wfwa-color-cobranded-logo-Eh9AO96.png",PBS Fort Wayne
-https://wfwadt.lls.cdn.pbs.org/wfwadt/3f02e9df-66c8-4f3d-8f51-a76c7255a45d/primary.m3u8
-#EXTINF:-1 tvg-id="WFYI" tvg-logo="https://image.pbs.org/stations/wfyi-color-single-brand-logo-aHBSRNU.png",WFYI Indianapolis
-https://wfyidt.lls.cdn.pbs.org/wfyidt/046a9b3c-01b4-42b1-b789-83555437476d/primary.m3u8
-#EXTINF:-1 tvg-id="WIPB" tvg-logo="https://image.pbs.org/stations/wipb-color-cobranded-logo-oqovSvs.png",Ball State PBS
-https://wipbdt.lls.cdn.pbs.org/wipbdt/ab7e7061-dee0-4905-bf2c-5acd1888ace0/primary.m3u8
-#EXTINF:-1 tvg-id="WNIT" tvg-logo="https://image.pbs.org/stations/wnit-color-cobranded-logo-ZYlvuGx.png",PBS Michiana
-https://wnitdt.lls.cdn.pbs.org/wnitdt/4e7fdf7b-c8dc-4376-8de4-b78ef29edf73/primary.m3u8
-#EXTINF:-1 tvg-id="WTIU" tvg-logo="https://image.pbs.org/stations/wtiu-color-single-brand-logo-lHtuFCz.png",WTIU Public Television
-https://wtiudt.lls.cdn.pbs.org/wtiudt/4e2e0d20-9a95-4d3d-81a7-25e391d9883e/primary.m3u8
-#EXTINF:-1 tvg-id="WCET" tvg-logo="https://image.pbs.org/stations/wcet-color-single-brand-logo-Aig81MP.png",CET
-https://wcetdt.lls.cdn.pbs.org/wcetdt/c9f75fe6-8da0-4bcb-a085-531edb49ca89/primary.m3u8
-#EXTINF:-1 tvg-id="WGVU" tvg-logo="https://image.pbs.org/stations/wgvu-color-cobranded-logo-mbLXXeg.png",WGVU TV
-https://wgvudt.lls.cdn.pbs.org/wgvudt/2a6939f7-894c-456c-9c1c-56185bd0a3c4/primary.m3u8
-#EXTINF:-1 tvg-id="WPTD" tvg-logo="https://image.pbs.org/stations/wptd-color-single-brand-logo-ftrrT6e.png",ThinkTVNetwork
-https://wptddt.lls.cdn.pbs.org/wptddt/7bad8720-1c01-4189-ad48-4b203e571b94/primary.m3u8
-#EXTINF:-1 tvg-id="WYES" tvg-logo="https://image.pbs.org/stations/wyes-color-cobranded-logo-ZGeL8mv.png",WYES-TV/New Orleans
-https://wyesdt.lls.cdn.pbs.org/wyesdt/6c0e9c73-3ad2-45c6-9741-1aa36878006a/primary.m3u8
-#EXTINF:-1 tvg-id="WCBB" tvg-logo="https://image.pbs.org/stations/wcbb-color-single-brand-logo-Bvv2GbM.png",Maine Public
-https://wcbbdt.lls.cdn.pbs.org/wcbbdt/48bc2487-14e0-4875-a893-58a0b06ec29e/primary.m3u8
-#EXTINF:-1 tvg-id="WENH" tvg-logo="https://image.pbs.org/stations/wenh-color-cobranded-logo-I1seXpP.png",New Hampshire PBS
-https://wenhdt.lls.cdn.pbs.org/wenhdt/5be2a7e3-fc57-471e-80ff-c5ea79229078/primary.m3u8
-#EXTINF:-1 tvg-id="WETK" tvg-logo="https://image.pbs.org/stations/wetk-color-single-brand-logo-5jjlEqp.png",Vermont PBS
-https://wetkdt.lls.cdn.pbs.org/wetkdt/3bef3c0b-a9c5-4585-ab56-29b462da5c7c/primary.m3u8
-#EXTINF:-1 tvg-id="WGBH" tvg-logo="https://image.pbs.org/stations/wgbh-color-single-brand-logo-bm3AAGH.png",GBH
-https://wgbhdt.lls.cdn.pbs.org/wgbhdt/7387eb2c-e0ce-4069-82d9-08865df87edf/primary.m3u8
-#EXTINF:-1 tvg-id="WCVE" tvg-logo="https://image.pbs.org/stations/wcve-color-cobranded-logo-jEoG9w5.png",VPM
-https://wcvedt.lls.cdn.pbs.org/wcvedt/86532025-6a98-4ed7-87ef-cce5615bfcf0/primary.m3u8
-#EXTINF:-1 tvg-id="WETA" tvg-logo="https://image.pbs.org/stations/weta-color-single-brand-logo-ZeUHAPm.png",WETA
-https://wetadt5.lls.cdn.pbs.org/wetadt5/92d89794-5ff0-4fe6-a443-cc888104e021/primary.m3u8
-#EXTINF:-1 tvg-id="WITF" tvg-logo="https://image.pbs.org/stations/witf-color-single-brand-logo-aqqLQqo.png",WITF
-https://witfdt.lls.cdn.pbs.org/witfdt/6b45b1e5-671e-439a-8673-ad21a5e56f32/primary.m3u8
-#EXTINF:-1 tvg-id="WQED" tvg-logo="https://image.pbs.org/stations/wqed-color-single-brand-logo-HMlWgm8.png",WQED Multimedia
-https://wqeddt.lls.cdn.pbs.org/wqeddt/9f860866-5985-487e-8191-0a2c49d5d6bb/primary.m3u8
-#EXTINF:-1 tvg-id="WVPB" tvg-logo="https://image.pbs.org/stations/wvpb-color-single-brand-logo-IGwVvz9.png",West Virginia Public Broadcasting
-https://pbs.lls.cdn.pbs.org/est/index.m3u8
-#EXTINF:-1 tvg-id="WHUT" tvg-logo="https://image.pbs.org/stations/whut-color-single-brand-logo-K8B1xbK.png",WHUT - Howard University Television
-https://whutdt.lls.cdn.pbs.org/whutdt/722b847a-5e2a-4d14-9429-2d430b10b1ee/primary.m3u8
-#EXTINF:-1 tvg-id="WGBY" tvg-logo="https://image.pbs.org/stations/wgby-color-single-brand-logo-8lItZjH.png",New England Public Media
-https://wgbydt.lls.cdn.pbs.org/wgbydt/b62fa183-78dc-41d7-bd8a-12602304b118/primary.m3u8
-#EXTINF:-1 tvg-id="WEDH" tvg-logo="https://image.pbs.org/stations/wedh-color-single-brand-logo-76l7HY6.png",Connecticut Public
-https://wedhdt.lls.cdn.pbs.org/wedhdt/d7096786-0d6d-4b42-b1b6-df7934b92fcb/primary.m3u8
-#EXTINF:-1 tvg-id="WMHT" tvg-logo="https://image.pbs.org/stations/wmht-color-single-brand-logo-bnC6jYD.png",WMHT
-https://wmhtdt.lls.cdn.pbs.org/wmhtdt/0777611a-56f1-4668-8094-932ae7498998/primary.m3u8
-#EXTINF:-1 tvg-id="WSBE" tvg-logo="https://image.pbs.org/stations/wsbe-color-single-brand-logo-oTm7xGd.png",Rhode Island PBS
-https://hls-wsbedt.lls.cdn.pbs.org/bpk-tv/pbs/default/index.m3u8
-#EXTINF:-1 tvg-id="KAWE" tvg-logo="https://image.pbs.org/stations/kawe-color-single-brand-logo-V9OaDhE.png",Lakeland PBS
-https://kawedt.lls.cdn.pbs.org/kawedt/bb77b7f7-78ec-4134-aa62-3902aeca6169/primary.m3u8
-#EXTINF:-1 tvg-id="KTCA" tvg-logo="https://image.pbs.org/stations/ktca-color-single-brand-logo-NK3MAIo.png",Twin Cities PBS
-https://ktcadt.lls.cdn.pbs.org/ktcadt/3742dff1-85cd-42d1-ab39-7ffa8ef10211/primary.m3u8
-#EXTINF:-1 tvg-id="WDSE" tvg-logo="https://image.pbs.org/stations/wdse-color-cobranded-logo-MlnMuAZ.png",WDSE - WRPT
-https://wdsedt.lls.cdn.pbs.org/wdsedt/38c2df8a-4e7e-4193-8cc6-8704059cbb1a/primary.m3u8
-#EXTINF:-1 tvg-id="KFME" tvg-logo="https://image.pbs.org/stations/kfme-color-single-brand-logo-squYAFY.png",Prairie Public
-https://kfmedt.lls.cdn.pbs.org/kfmedt/59cb0666-d4b9-49a8-9738-e84f5e9392f7/primary.m3u8
-#EXTINF:-1 tvg-id="WCMU" tvg-logo="https://image.pbs.org/stations/wcmu-color-cobranded-logo-317rRVH.png",WCMU Public Television
-https://wcmudt.lls.cdn.pbs.org/wcmudt/e435c068-30ee-4296-a9f0-58a561ea9487/primary.m3u8
-#EXTINF:-1 tvg-id="WDCQ" tvg-logo="https://image.pbs.org/stations/wdcq-color-cobranded-logo-NzJPicn.png",Delta College Public Media
-https://wdcqdt.lls.cdn.pbs.org/wdcqdt/d94cacc2-0123-4850-a15c-d5c4e78310f0/primary.m3u8
-#EXTINF:-1 tvg-id="WKAR" tvg-logo="https://image.pbs.org/stations/wkar-color-cobranded-logo-VMMyDkc.png",WKAR-TV
-https://wkardt.lls.cdn.pbs.org/wkardt/357a5517-94ea-409b-8985-f9dc57c82b5f/primary.m3u8
-#EXTINF:-1 tvg-id="WNMU" tvg-logo="https://image.pbs.org/stations/wnmu-color-cobranded-logo-7MChUjy.png",WNMU Public TV 13
-https://wnmudt.lls.cdn.pbs.org/wnmudt/a3abb950-c4d6-43b8-9299-94556c0ad751/primary.m3u8
-#EXTINF:-1 tvg-id="WTVS" tvg-logo="https://image.pbs.org/stations/wtvs-color-cobranded-logo-H3oqRll.png",Detroit Public TV
-https://wtvsdt.lls.cdn.pbs.org/wtvsdt/7f382f2c-72eb-4e19-ba1b-1d6d143ae841/primary.m3u8
-#EXTINF:-1 tvg-id="WGTE" tvg-logo="https://image.pbs.org/stations/wgte-color-single-brand-logo-Q1Fhg2x.png",WGTE Public Media
-https://pbs.lls.cdn.pbs.org/est/index.m3u8
-#EXTINF:-1 tvg-id="WCTE" tvg-logo="https://image.pbs.org/stations/wcte-color-single-brand-logo-p0cCp28.png",WCTE Central Tennessee PBS
-https://wctedt.lls.cdn.pbs.org/wctedt/f551ddb2-28d0-45ba-a5e6-33daa55990f6/primary.m3u8
-#EXTINF:-1 tvg-id="WETP" tvg-logo="https://image.pbs.org/stations/wetp-color-cobranded-logo-JMeYFqi.png",East Tennessee PBS
-https://wetpdt.lls.cdn.pbs.org/wetpdt/c65964f8-23e4-4080-9bd0-7d8e66af698d/primary.m3u8
-#EXTINF:-1 tvg-id="WNPT" tvg-logo="https://image.pbs.org/stations/wnpt-color-single-brand-logo-fW1prKB.png",Nashville Public Television
-https://wnptdt.lls.cdn.pbs.org/wnptdt/42559186-b19b-45b5-9861-078ec38bb981/primary.m3u8
-#EXTINF:-1 tvg-id="WLJT" tvg-logo="https://image.pbs.org/stations/wljt-color-cobranded-logo-5llShX7.png",West TN PBS
-https://wljtdt.lls.cdn.pbs.org/wljtdt/0afd0cce-f52c-4e96-baac-f05ffdf9560c/primary.m3u8
-#EXTINF:-1 tvg-id="WSRE" tvg-logo="https://image.pbs.org/stations/wsre-color-cobranded-logo-C8DUfBI.png",WSRE PBS
-https://wsredt.lls.cdn.pbs.org/wsredt/fc47f495-57b9-4aea-bb6b-d2ce52b74ea1/primary.m3u8
-#EXTINF:-1 tvg-id="KMOS" tvg-logo="https://image.pbs.org/stations/kmos-color-cobranded-logo-D8VJeg5.png",KMOS-TV
-https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
-#EXTINF:-1 tvg-id="KUSM" tvg-logo="https://image.pbs.org/stations/kusm-color-cobranded-logo-39WLnn8.png",Montana PBS
-https://kusmdt.lls.cdn.pbs.org/kusmdt/e588e03b-d9c4-4988-aba1-94a3b98e88c2/primary.m3u8
-#EXTINF:-1 tvg-id="KCWC" tvg-logo="https://image.pbs.org/stations/kcwc-color-single-brand-logo-oEglpI3.png",Wyoming PBS
-https://kcwcdt.lls.cdn.pbs.org/kcwcdt/84b31db3-3cd6-442f-b87b-1ec11d54259d/primary.m3u8
-#EXTINF:-1 tvg-id="WNET" tvg-logo="https://image.pbs.org/stations/wnet-color-single-brand-logo-9Yostcp.png",THIRTEEN/WNET New York
-https://wnetdt.lls.cdn.pbs.org/wnetdt/80f93f7f-9742-47b8-aa58-0c0ceb866d9f/primary.m3u8
-#EXTINF:-1 tvg-id="WVIA" tvg-logo="https://image.pbs.org/stations/wvia-color-cobranded-logo-rrFa2LP.png",WVIA Public Media
-https://wviadt.lls.cdn.pbs.org/wviadt/951e97d7-7c2c-45c0-abff-261c852fcb7d/primary.m3u8
-#EXTINF:-1 tvg-id="KENW" tvg-logo="https://image.pbs.org/stations/kenw-color-cobranded-logo-xMkCftu.png",KENW-TV3
-https://kenwdt.lls.cdn.pbs.org/kenwdt/90a9e431-b5ac-4de4-868f-1f9dbfe8b101/primary.m3u8
-#EXTINF:-1 tvg-id="KRWG" tvg-logo="https://image.pbs.org/stations/krwg-color-single-brand-logo-HfC4Ycm.png",KRWG Public Media
-https://krwgdt.lls.cdn.pbs.org/krwgdt/fe731d89-e3b5-4a29-b4cc-6118c163a83d/primary.m3u8
-#EXTINF:-1 tvg-id="KPBT" tvg-logo="https://image.pbs.org/stations/kpbt-color-cobranded-logo-5U7PbCB.png",Basin PBS
-https://kpbtdt.lls.cdn.pbs.org/kpbtdt/d6f648b1-b823-43e5-9389-70e51e30cbf3/primary.m3u8
-#EXTINF:-1 tvg-id="KRMA" tvg-logo="https://image.pbs.org/stations/krma-color-cobranded-logo-5wuRPLn.png",Rocky Mountain PBS
-https://krmadt.lls.cdn.pbs.org/krmadt/1cebd1cc-9ca8-49e4-8dfc-40aa63a08c6c/primary.m3u8
-#EXTINF:-1 tvg-id="WCFE" tvg-logo="https://image.pbs.org/stations/wcfe-color-cobranded-logo-q9QJoDW.png",Mountain Lake PBS
-https://wcfedt.lls.cdn.pbs.org/wcfedt/bf21732a-f52f-46ca-bbb6-4ae9663a94bf/primary-1080p.m3u8
-#EXTINF:-1 tvg-id="WNED" tvg-logo="https://image.pbs.org/stations/wned-color-cobranded-logo-WFm3CWZ.png",WNED PBS
-https://wneddt.lls.cdn.pbs.org/wneddt/7e1c137a-9e83-4416-8b5a-b81042382e91/primary.m3u8
-#EXTINF:-1 tvg-id="WPBS" tvg-logo="https://image.pbs.org/stations/wpbs-color-cobranded-logo-zDCkBAn.png",WPBS
-https://wpbsdt.lls.cdn.pbs.org/wpbsdt/c17cb584-9efe-46fc-ac91-3fb453714069/primary.m3u8
-#EXTINF:-1 tvg-id="WSKG" tvg-logo="https://image.pbs.org/stations/wskg-color-cobranded-logo-fnDQwYg.png",WSKG Public Media
-https://wskgdt.lls.cdn.pbs.org/wskgdt/2d4742f8-8053-4ea5-8aab-1494fd1822c5/primary.m3u8
-#EXTINF:-1 tvg-id="WXXI" tvg-logo="https://image.pbs.org/stations/wxxi-color-single-brand-logo-kLYPr3a.png",WXXI Public Broadcasting
-https://wxxidt.lls.cdn.pbs.org/wxxidt/d518ca7e-a094-4362-832b-ae1d426d3729/primary.m3u8
-#EXTINF:-1 tvg-id="WLIW" tvg-logo="https://image.pbs.org/stations/wliw-color-single-brand-logo-zhgp6xa.png",WLIW21
-https://wliwdt.lls.cdn.pbs.org/wliwdt/a58c2765-7e77-4114-9668-75920022c6bc/primary.m3u8
-#EXTINF:-1 tvg-id="WPSU" tvg-logo="https://image.pbs.org/stations/wpsu-color-cobranded-logo-htGvj41.png",WPSU
-https://wpsudt.lls.cdn.pbs.org/wpsudt/dfef8386-9db4-41b2-97ab-82cdce4a19be/primary.m3u8
-#EXTINF:-1 tvg-id="WQLN" tvg-logo="https://image.pbs.org/stations/wqln-color-single-brand-logo-riys76F.png",WQLN
-https://pbs.lls.cdn.pbs.org/est/index.m3u8
-#EXTINF:-1 tvg-id="KERA" tvg-logo="https://image.pbs.org/stations/kera-color-single-brand-logo-qhClBLO.png",KERA
-https://keradt.lls.cdn.pbs.org/keradt/b3291387-78a4-41e1-beb0-da2f61a96a3e/primary.m3u8
-#EXTINF:-1 tvg-id="WNEO" tvg-logo="https://image.pbs.org/stations/wneo-color-cobranded-logo-4vaSBCx.png",PBS Western Reserve
-https://wneodt.lls.cdn.pbs.org/wneodt/dee8be27-fb3f-4369-a20d-6b36755b71ac/primary.m3u8
-#EXTINF:-1 tvg-id="WOSU" tvg-logo="https://image.pbs.org/stations/wosu-color-cobranded-logo-Mwaqe5i.png",WOSU TV
-https://wosudt.lls.cdn.pbs.org/wosudt/ba216f45-d78e-41cf-a23e-2026f3c99a5a/primary.m3u8
-#EXTINF:-1 tvg-id="WOUB" tvg-logo="https://image.pbs.org/stations/woub-color-cobranded-logo-dAsNoih.png",WOUB/WOUC
-https://woubdt.lls.cdn.pbs.org/woubdt/4dc91f2b-0076-46d9-ba82-0c9130cde12c/primary.m3u8
-#EXTINF:-1 tvg-id="WVIZ" tvg-logo="https://image.pbs.org/stations/wviz-color-cobranded-logo-Di0tIvT.png",Ideastream
-https://wvizdt.lls.cdn.pbs.org/wvizdt/58a3da14-85c6-4760-807e-9ec6807d89c4/primary.m3u8
-#EXTINF:-1 tvg-id="KBTC" tvg-logo="https://image.pbs.org/stations/kbtc-color-single-brand-logo-TqWaIef.png",KBTC Public Television
-https://kbtcdt.lls.cdn.pbs.org/kbtcdt/79a490c8-0603-4aa5-9126-81a947c47db0/primary.m3u8
-#EXTINF:-1 tvg-id="WTVI" tvg-logo="https://image.pbs.org/stations/wtvi-color-cobranded-logo-K8AIvnk.png",PBS Charlotte
-https://wtvidt.lls.cdn.pbs.org/wtvidt/b44fd824-0168-46e3-bcb8-6322cf4c1e11/primary.m3u8
-#EXTINF:-1 tvg-id="WBRA" tvg-logo="https://image.pbs.org/stations/wbra-color-cobranded-logo-qA7qTwW.png",Blue Ridge PBS
-https://wbradt.lls.cdn.pbs.org/wbradt/8995ff93-ac9d-4ece-8fe3-ae355d05f380/primary.m3u8
-#EXTINF:-1 tvg-id="WHRO" tvg-logo="https://image.pbs.org/stations/whro-color-single-brand-logo-cjvMiRb.png",WHRO
-https://whrodt.lls.cdn.pbs.org/whrodt/47568125-b3c7-4f5f-8c35-d27027113102/primary.m3u8
-#EXTINF:-1 tvg-id="KAMU" tvg-logo="https://image.pbs.org/stations/kamu-color-cobranded-logo-HdqHnfu.png",KAMU-TV/FM
-https://kamudt.lls.cdn.pbs.org/kamudt/ef3867c9-4da7-4704-9855-10308b3afe4c/primary.m3u8
-#EXTINF:-1 tvg-id="KEDT" tvg-logo="https://image.pbs.org/stations/kedt-color-single-brand-logo-N1NeaSt.png",KEDT/Channel 16
-https://kedtdt.lls.cdn.pbs.org/kedtdt/0388c35d-d833-4259-9cfb-6af2d269a470/primary.m3u8
-#EXTINF:-1 tvg-id="KLRN" tvg-logo="https://image.pbs.org/stations/klrn-color-single-brand-logo-9XKiQz6.png",KLRN
-https://klrndt.lls.cdn.pbs.org/klrndt/ee754c65-49eb-4f8b-a9be-6061442b0f49/primary.m3u8
-#EXTINF:-1 tvg-id="KLRU" tvg-logo="https://image.pbs.org/stations/klru-color-cobranded-logo-BWySPnV.png",Austin PBS, KLRU-TV
-https://klrudt.lls.cdn.pbs.org/klrudt/4afb5e16-16d0-4803-bc68-70b7816d6c7c/primary.m3u8
-#EXTINF:-1 tvg-id="KUHT" tvg-logo="https://image.pbs.org/stations/kuht-color-cobranded-logo-14uuVsD.png",Houston Public Media TV 8
-https://kuhtdt.lls.cdn.pbs.org/kuhtdt/a0c19534-b8cd-4d9f-8856-442a473c4aff/primary.m3u8
-#EXTINF:-1 tvg-id="KCTS" tvg-logo="https://image.pbs.org/stations/kcts-color-single-brand-logo-37DjOPt.png",KCTS 9
-https://rtmp-kctsdt.lls.cdn.pbs.org/rtmp-kctsdt/271a9ab7-e9ed-4fec-9fe9-e46c97a3f8f0/primary.m3u8
-#EXTINF:-1 tvg-id="WEDU" tvg-logo="https://image.pbs.org/stations/wedu-color-cobranded-logo-87oN0he.png",WEDU PBS
-https://wedudt.lls.cdn.pbs.org/wedudt/c4ab80c1-ca8c-4a6e-a8b5-c5995919792b/primary.m3u8
-#EXTINF:-1 tvg-id="WGCU" tvg-logo="https://image.pbs.org/stations/wgcu-color-cobranded-logo-4WExUqg.png",WGCU Public Media
-https://wgcudt.lls.cdn.pbs.org/wgcudt/19aacc3d-896b-4426-b319-ea0082ef6369/primary.m3u8
-#EXTINF:-1 tvg-id="WPBT" tvg-logo="https://image.pbs.org/stations/wpbt-color-cobranded-logo-QKMOlbI.png",WPBT South Florida PBS
-https://wpbtdt.lls.cdn.pbs.org/wpbtdt/b2c0d4c6-4544-4bb3-8d2d-bc803c5d7381/primary.m3u8
-#EXTINF:-1 tvg-id="WUCF" tvg-logo="https://image.pbs.org/stations/wucf-color-cobranded-logo-hvhJPM0.png",WUCF
-https://wucfdt.lls.cdn.pbs.org/wucfdt/70dc9cfa-54dd-47f1-8039-e518544fd496/primary.m3u8
-#EXTINF:-1 tvg-id="WXEL" tvg-logo="https://image.pbs.org/stations/wxel-color-cobranded-logo-q5DODDu.png",WXEL South Florida PBS
-https://wxeldt.lls.cdn.pbs.org/wxeldt/6f553836-7e24-445a-8c3c-cc418aaba9dc/primary.m3u8
-#EXTINF:-1 tvg-id="WLRN" tvg-logo="https://image.pbs.org/stations/wlrn-color-single-brand-logo-jyMYfk8.png",WLRN Public Media
-https://wlrndt.lls.cdn.pbs.org/wlrndt/8f70a678-a636-4dfa-873e-699f0212f78b/primary.m3u8
-#EXTINF:-1 tvg-id="KAKM" tvg-logo="https://image.pbs.org/stations/kakm-color-single-brand-logo-CKvfnQs.png",Alaska Public Media
-https://kakmdt.lls.cdn.pbs.org/kakmdt/241f6bfb-7b98-4cbd-af3a-3bf219bdb80f/primary.m3u8
-#EXTINF:-1 tvg-id="KUAC" tvg-logo="https://image.pbs.org/stations/kuac-color-single-brand-logo-PWUHIg2.png",KUAC
-https://pbs.lls.cdn.pbs.org/pst/index.m3u8
-#EXTINF:-1 tvg-id="KBDI" tvg-logo="https://image.pbs.org/stations/kbdi-color-cobranded-logo-9ntGj1S.png",PBS12
-https://kbdidt.lls.cdn.pbs.org/kbdidt/b4721bf0-b2c5-4568-ba88-69954956292f/primary.m3u8
+#EXTM3U x-tvg-url="https://i.mjh.nz/nzau/epg.xml.gz"
+
+#EXTINF:-1 tvg-id="radio.ih.7317" tvg-logo="https://i.mjh.nz/.images/radio.ih.7317.png" radio="true",1 Double X
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.7317 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7317 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8536" tvg-logo="https://i.mjh.nz/.images/radio.ih.8536.png" radio="true",100.3FM
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.8536 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8536 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.9049" tvg-logo="https://i.mjh.nz/.images/radio.ih.9049.png" radio="true",531pi
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.9049.aac -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.9049 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6693" tvg-logo="https://i.mjh.nz/.images/radio.ih.6693.png" radio="true",Alternative Commentary Collective
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.6693 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6693 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8747" tvg-logo="https://i.mjh.nz/.images/radio.ih.8747.png" radio="true",Anthemz
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.8747 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8747 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8387" tvg-logo="https://i.mjh.nz/.images/radio.ih.8387.png" radio="true",Atiawa Toa FM
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.8387 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8387 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8839" tvg-logo="https://i.mjh.nz/.images/radio.ih.8839.png" radio="true",Awa FM
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.8839 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8839 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.or.10" tvg-logo="https://i.mjh.nz/.images/radio.or.10.png" radio="true",BASE FM
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.or.10 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.or.10 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7944" tvg-logo="https://i.mjh.nz/.images/radio.ih.7944.png" radio="true",BAYROCK
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.7944 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7944 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8511" tvg-logo="https://i.mjh.nz/.images/radio.ih.8511.png" radio="true",Big Rig Country Hits
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.8511 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8511 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.or.17" tvg-logo="https://i.mjh.nz/.images/radio.or.17.png" radio="true",Brian FM Ashburton
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.or.17.aac -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.or.17 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7391" tvg-logo="https://i.mjh.nz/.images/radio.ih.7391.png" radio="true",Central FM
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.7391 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7391 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.or.29" tvg-logo="https://i.mjh.nz/.images/radio.or.29.png" radio="true",Channel Z
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.or.29 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.or.29 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7073" tvg-logo="https://i.mjh.nz/.images/radio.ih.7073.png" radio="true",Chinese Radio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.7073 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7073 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7072" tvg-logo="https://i.mjh.nz/.images/radio.ih.7072.png" radio="true",Chinese Voice
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.7072 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7072 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6193" tvg-logo="https://i.mjh.nz/.images/radio.ih.6193.png" radio="true",Coast
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.6193 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6193 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8870" tvg-logo="https://i.mjh.nz/.images/radio.ih.8870.png" radio="true",Coast 80s
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.8870 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8870 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8823" tvg-logo="https://i.mjh.nz/.images/radio.ih.8823.png" radio="true",Coast Auckland
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.8823 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8823 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8702" tvg-logo="https://i.mjh.nz/.images/radio.ih.8702.png" radio="true",Coast Canterbury
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.8702 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8702 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6720" tvg-logo="https://i.mjh.nz/.images/radio.ih.6720.png" radio="true",Coast Christmas
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.6720 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6720 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7756" tvg-logo="https://i.mjh.nz/.images/radio.ih.7756.png" radio="true",Coast Tauranga/Coromandel
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.7756 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7756 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6465" tvg-logo="https://i.mjh.nz/.images/radio.ih.6465.png" radio="true",Country Nation
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.6465 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6465 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8307" tvg-logo="https://i.mjh.nz/.images/radio.ih.8307.png" radio="true",Crescendo
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.8307 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8307 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8907" tvg-logo="https://i.mjh.nz/.images/radio.ih.8907.png" radio="true",East FM
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.8907 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8907 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7894" tvg-logo="https://i.mjh.nz/.images/radio.ih.7894.png" radio="true",Fever FM
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.7894 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7894 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8814" tvg-logo="https://i.mjh.nz/.images/radio.ih.8814.png" radio="true",Flava Fresh
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.8814 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8814 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6159" tvg-logo="https://i.mjh.nz/.images/radio.ih.6159.png" radio="true",Flava Old School
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.6159 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6159 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.or.6" tvg-logo="https://i.mjh.nz/.images/radio.or.6.png" radio="true",George FM
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.or.6.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.or.6 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.or.25" tvg-logo="https://i.mjh.nz/.images/radio.or.25.png" radio="true",George FM Manawatu
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.or.25.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.or.25 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8668" tvg-logo="https://i.mjh.nz/.images/radio.ih.8668.png" radio="true",Gold
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.8668 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8668 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8824" tvg-logo="https://i.mjh.nz/.images/radio.ih.8824.png" radio="true",Gold 105.4 Auckland
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.8824 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8824 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8669" tvg-logo="https://i.mjh.nz/.images/radio.ih.8669.png" radio="true",Gold AM
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.8669 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8669 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7113" tvg-logo="https://i.mjh.nz/.images/radio.ih.7113.png" radio="true",Heads 106.4FM Mangawhai
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.7113 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7113 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8011" tvg-logo="https://i.mjh.nz/.images/radio.ih.8011.png" radio="true",Hokonui Ashburton
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.8011 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8011 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6196" tvg-logo="https://i.mjh.nz/.images/radio.ih.6196.png" radio="true",Hokonui Southland
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.6196 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6196 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7799" tvg-logo="https://i.mjh.nz/.images/radio.ih.7799.png" radio="true",Hokonui Taranaki
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.7799 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7799 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7633" tvg-logo="https://i.mjh.nz/.images/radio.ih.7633.png" radio="true",Humm FM
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.7633 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7633 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.9000" tvg-logo="https://i.mjh.nz/.images/radio.ih.9000.png" radio="true",Hutt Radio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.9000 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.9000 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7074" tvg-logo="https://i.mjh.nz/.images/radio.ih.7074.png" radio="true",K Radio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.7074 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7074 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8868" tvg-logo="https://i.mjh.nz/.images/radio.ih.8868.png" radio="true",KICK.
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.8868 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8868 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6938" tvg-logo="https://i.mjh.nz/.images/radio.ih.6938.png" radio="true",Life FM
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.6938 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6938 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7401" tvg-logo="https://i.mjh.nz/.images/radio.ih.7401.png" radio="true",Lyall Bay School's Maranui FM
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.7401 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7401 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.9055" tvg-logo="https://i.mjh.nz/.images/radio.ih.9055.png" radio="true",MTV Sounds
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.9055 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.9055 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8512" tvg-logo="https://i.mjh.nz/.images/radio.ih.8512.png" radio="true",Maestro
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.8512 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8512 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.or.14" tvg-logo="https://i.mjh.nz/.images/radio.or.14.png" radio="true",Magic
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.or.14.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.or.14 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.or.26" tvg-logo="https://i.mjh.nz/.images/radio.or.26.png" radio="true",Magic Manawatu
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.or.26.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.or.26 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.or.31" tvg-logo="https://i.mjh.nz/.images/radio.or.31.png" radio="true",Magic Talk
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.or.31.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.or.31 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.or.3" tvg-logo="https://i.mjh.nz/.images/radio.or.3.png" radio="true",Mai FM
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.or.3.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.or.3 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.or.22" tvg-logo="https://i.mjh.nz/.images/radio.or.22.png" radio="true",Mai FM Manawatu
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.or.22.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.or.22 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8513" tvg-logo="https://i.mjh.nz/.images/radio.ih.8513.png" radio="true",Melo
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.8513 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8513 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7168" tvg-logo="https://i.mjh.nz/.images/radio.ih.7168.png" radio="true",Mix
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.7168 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7168 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8199" tvg-logo="https://i.mjh.nz/.images/radio.ih.8199.png" radio="true",Moana Radio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.8199 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8199 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.or.2" tvg-logo="https://i.mjh.nz/.images/radio.or.2.png" radio="true",More FM
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.or.2.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.or.2 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.or.19" tvg-logo="https://i.mjh.nz/.images/radio.or.19.png" radio="true",More FM Manawatu
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.or.19.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.or.19 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6965" tvg-logo="https://i.mjh.nz/.images/radio.ih.6965.png" radio="true",NBR Radio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.6965 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6965 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6491" tvg-logo="https://i.mjh.nz/.images/radio.ih.6491.png" radio="true",NZ Top 40
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.6491 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6491 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6187" tvg-logo="https://i.mjh.nz/.images/radio.ih.6187.png" radio="true",Newstalk ZB
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.6187 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6187 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8272" tvg-logo="https://i.mjh.nz/.images/radio.ih.8272.png" radio="true",Newstalk ZB Auckland
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.8272 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8272 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6189" tvg-logo="https://i.mjh.nz/.images/radio.ih.6189.png" radio="true",Newstalk ZB Christchurch
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.6189 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6189 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6194" tvg-logo="https://i.mjh.nz/.images/radio.ih.6194.png" radio="true",Newstalk ZB Sport
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.6194 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6194 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6188" tvg-logo="https://i.mjh.nz/.images/radio.ih.6188.png" radio="true",Newstalk ZB Wellington
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.6188 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6188 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.9050" tvg-logo="https://i.mjh.nz/.images/radio.ih.9050.png" radio="true",Niu FM
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.9050.aac -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.9050 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8860" tvg-logo="https://i.mjh.nz/.images/radio.ih.8860.png" radio="true",Oamaru FM 91.2
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.8860 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8860 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6373" tvg-logo="https://i.mjh.nz/.images/radio.ih.6373.png" radio="true",Official NZ Top 20
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.6373 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6373 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8756" tvg-logo="https://i.mjh.nz/.images/radio.ih.8756.png" radio="true",Ones To Watch
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.8756 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8756 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7814" tvg-logo="https://i.mjh.nz/.images/radio.ih.7814.png" radio="true",Our Lounge
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.7814 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7814 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7864" tvg-logo="https://i.mjh.nz/.images/radio.ih.7864.png" radio="true",Pulzar FM
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.7864 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7864 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7945" tvg-logo="https://i.mjh.nz/.images/radio.ih.7945.png" radio="true",Q97
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.7945 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7945 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.or.9" tvg-logo="https://i.mjh.nz/.images/radio.or.9.png" radio="true",RDU
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.or.9 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.or.9 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6868" tvg-logo="https://i.mjh.nz/.images/radio.ih.6868.png" radio="true",RNZ Pacific
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.6868 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6868 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.or.12" tvg-logo="https://i.mjh.nz/.images/radio.or.12.png" radio="true",Radio Active
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.or.12 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.or.12 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8404" tvg-logo="https://i.mjh.nz/.images/radio.ih.8404.png" radio="true",Radio Apna
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.8404 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8404 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.or.13" tvg-logo="https://i.mjh.nz/.images/radio.or.13.png" radio="true",Radio Control
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.or.13 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.or.13 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6191" tvg-logo="https://i.mjh.nz/.images/radio.ih.6191.png" radio="true",Radio Hauraki
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.6191 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6191 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6374" tvg-logo="https://i.mjh.nz/.images/radio.ih.6374.png" radio="true",Radio Hauraki Auckland
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.6374 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6374 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.or.7" tvg-logo="https://i.mjh.nz/.images/radio.or.7.png" radio="true",Radio Live
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.or.7.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.or.7 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.or.27" tvg-logo="https://i.mjh.nz/.images/radio.or.27.png" radio="true",Radio Live Manawatu
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.or.27.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.or.27 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6867" tvg-logo="https://i.mjh.nz/.images/radio.ih.6867.png" radio="true",Radio New Zealand Concert
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.6867 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6867 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6866" tvg-logo="https://i.mjh.nz/.images/radio.ih.6866.png" radio="true",Radio New Zealand National
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.6866 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6866 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8200" tvg-logo="https://i.mjh.nz/.images/radio.ih.8200.png" radio="true",Radio Ngati Porou
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.8200 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8200 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6676" tvg-logo="https://i.mjh.nz/.images/radio.ih.6676.png" radio="true",Radio Tarana
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.6676 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6676 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8193" tvg-logo="https://i.mjh.nz/.images/radio.ih.8193.png" radio="true",Radio Waatea
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.8193 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8193 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7300" tvg-logo="https://i.mjh.nz/.images/radio.ih.7300.png" radio="true",Radio Wanaka
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.7300 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7300 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.or.18" tvg-logo="https://i.mjh.nz/.images/radio.or.18.png" radio="true",Radio X
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.or.18 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.or.18 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.or.32" tvg-logo="https://i.mjh.nz/.images/radio.or.32.png" radio="true",Radio XPD
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.or.32 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.or.32 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7782" tvg-logo="https://i.mjh.nz/.images/radio.ih.7782.png" radio="true",Real Radio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.7782 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7782 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6937" tvg-logo="https://i.mjh.nz/.images/radio.ih.6937.png" radio="true",Rhema
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.6937 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6937 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7301" tvg-logo="https://i.mjh.nz/.images/radio.ih.7301.png" radio="true",Roy FM
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.7301 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7301 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8797" tvg-logo="https://i.mjh.nz/.images/radio.ih.8797.png" radio="true",Rudolph Radio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.8797 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8797 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.or.33" tvg-logo="https://i.mjh.nz/.images/radio.or.33.png" radio="true",SENZ
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.or.33.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.or.33 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8178" tvg-logo="https://i.mjh.nz/.images/radio.ih.8178.png" radio="true",SUN FM
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.8178 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8178 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8385" tvg-logo="https://i.mjh.nz/.images/radio.ih.8385.png" radio="true",Shake Me!
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.8385 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8385 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7156" tvg-logo="https://i.mjh.nz/.images/radio.ih.7156.png" radio="true",Ski FM Network
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.7156 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7156 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.or.30" tvg-logo="https://i.mjh.nz/.images/radio.or.30.png" radio="true",Sleep Radio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.or.30 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.or.30 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8716" tvg-logo="https://i.mjh.nz/.images/radio.ih.8716.png" radio="true",Sonos Test
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.8716 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8716 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6939" tvg-logo="https://i.mjh.nz/.images/radio.ih.6939.png" radio="true",Southern Star
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.6939 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6939 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.or.28" tvg-logo="https://i.mjh.nz/.images/radio.or.28.png" radio="true",TAB Trackside Radio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.or.28.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.or.28 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8177" tvg-logo="https://i.mjh.nz/.images/radio.ih.8177.png" radio="true",Tainui Live
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.8177 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8177 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8243" tvg-logo="https://i.mjh.nz/.images/radio.ih.8243.png" radio="true",Te Arawa FM
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.8243 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8243 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8203" tvg-logo="https://i.mjh.nz/.images/radio.ih.8203.png" radio="true",Te Korimako o Taranaki
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.8203 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8203 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7820" tvg-logo="https://i.mjh.nz/.images/radio.ih.7820.png" radio="true",Te Patu Manawa
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.7820 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7820 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8202" tvg-logo="https://i.mjh.nz/.images/radio.ih.8202.png" radio="true",Te Upoko O Te Ika
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.8202 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8202 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.or.4" tvg-logo="https://i.mjh.nz/.images/radio.or.4.png" radio="true",The Breeze
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.or.4.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.or.4 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.or.20" tvg-logo="https://i.mjh.nz/.images/radio.or.20.png" radio="true",The Breeze Manawatu
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.or.20.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.or.20 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8514" tvg-logo="https://i.mjh.nz/.images/radio.ih.8514.png" radio="true",The Casual
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.8514 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8514 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8847" tvg-logo="https://i.mjh.nz/.images/radio.ih.8847.png" radio="true",The Cheese
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.8847 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8847 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7159" tvg-logo="https://i.mjh.nz/.images/radio.ih.7159.png" radio="true",The Country
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.7159 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7159 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.or.8" tvg-logo="https://i.mjh.nz/.images/radio.or.8.png" radio="true",The Edge
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.or.8.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.or.8 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.or.21" tvg-logo="https://i.mjh.nz/.images/radio.or.21.png" radio="true",The Edge Manawatu
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.or.21.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.or.21 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8811" tvg-logo="https://i.mjh.nz/.images/radio.ih.8811.png" radio="true",The Generator FM
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.8811 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8811 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7946" tvg-logo="https://i.mjh.nz/.images/radio.ih.7946.png" radio="true",The Heat
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.7946 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7946 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8832" tvg-logo="https://i.mjh.nz/.images/radio.ih.8832.png" radio="true",The Hits
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.8832 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8832 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6197" tvg-logo="https://i.mjh.nz/.images/radio.ih.6197.png" radio="true",The Hits Auckland
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.6197 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6197 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6202" tvg-logo="https://i.mjh.nz/.images/radio.ih.6202.png" radio="true",The Hits Bay of Plenty
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.6202 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6202 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6199" tvg-logo="https://i.mjh.nz/.images/radio.ih.6199.png" radio="true",The Hits Christchurch
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.6199 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6199 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7755" tvg-logo="https://i.mjh.nz/.images/radio.ih.7755.png" radio="true",The Hits Coromandel
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.7755 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7755 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6203" tvg-logo="https://i.mjh.nz/.images/radio.ih.6203.png" radio="true",The Hits Dunedin
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.6203 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6203 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6204" tvg-logo="https://i.mjh.nz/.images/radio.ih.6204.png" radio="true",The Hits Hawkes Bay
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.6204 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6204 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6205" tvg-logo="https://i.mjh.nz/.images/radio.ih.6205.png" radio="true",The Hits Manawatu
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.6205 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6205 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6206" tvg-logo="https://i.mjh.nz/.images/radio.ih.6206.png" radio="true",The Hits Nelson
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.6206 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6206 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6207" tvg-logo="https://i.mjh.nz/.images/radio.ih.6207.png" radio="true",The Hits Northland
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.6207 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6207 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6208" tvg-logo="https://i.mjh.nz/.images/radio.ih.6208.png" radio="true",The Hits Rotorua
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.6208 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6208 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6897" tvg-logo="https://i.mjh.nz/.images/radio.ih.6897.png" radio="true",The Hits Southern Lakes
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.6897 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6897 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6209" tvg-logo="https://i.mjh.nz/.images/radio.ih.6209.png" radio="true",The Hits Southland
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.6209 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6209 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6210" tvg-logo="https://i.mjh.nz/.images/radio.ih.6210.png" radio="true",The Hits Taranaki
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.6210 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6210 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.9071" tvg-logo="https://i.mjh.nz/.images/radio.ih.9071.png" radio="true",The Hits To Move You
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.9071 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.9071 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6211" tvg-logo="https://i.mjh.nz/.images/radio.ih.6211.png" radio="true",The Hits Waikato
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.6211 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6211 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6198" tvg-logo="https://i.mjh.nz/.images/radio.ih.6198.png" radio="true",The Hits Wellington
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.6198 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6198 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7265" tvg-logo="https://i.mjh.nz/.images/radio.ih.7265.png" radio="true",The Lounge
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.7265 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7265 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.or.1" tvg-logo="https://i.mjh.nz/.images/radio.or.1.png" radio="true",The Rock
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.or.1.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.or.1 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.or.23" tvg-logo="https://i.mjh.nz/.images/radio.or.23.png" radio="true",The Rock Manawatu
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.or.23.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.or.23 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.or.5" tvg-logo="https://i.mjh.nz/.images/radio.or.5.png" radio="true",The Sound
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.or.5.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.or.5 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.or.24" tvg-logo="https://i.mjh.nz/.images/radio.or.24.png" radio="true",The Sound Manawatu
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.or.24.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.or.24 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7429" tvg-logo="https://i.mjh.nz/.images/radio.ih.7429.png" radio="true",The Station
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.7429 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7429 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7114" tvg-logo="https://i.mjh.nz/.images/radio.ih.7114.png" radio="true",The Wireless 90.4FM
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.7114 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7114 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.or.16" tvg-logo="https://i.mjh.nz/.images/radio.or.16.png" radio="true",Triple X FM
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.or.16 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.or.16 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8179" tvg-logo="https://i.mjh.nz/.images/radio.ih.8179.png" radio="true",Tumeke FM
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.8179 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8179 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8204" tvg-logo="https://i.mjh.nz/.images/radio.ih.8204.png" radio="true",Turanga FM
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.8204 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8204 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.9078" tvg-logo="https://i.mjh.nz/.images/radio.ih.9078.png" radio="true",Waiata Anthems
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.9078 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.9078 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6190" tvg-logo="https://i.mjh.nz/.images/radio.ih.6190.png" radio="true",ZM
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.6190 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6190 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.9" tvg-logo="https://i.mjh.nz/.images/tv.9.png" tvg-chno="1",TVNZ 1
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/tv.9.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.9 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://i.mjh.nz/.images/tv.10.png" tvg-chno="2",TVNZ 2
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/tv.10.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.10 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.11" tvg-logo="https://i.mjh.nz/.images/tv.11.png" tvg-chno="3",Three
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/tv.11.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.11 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.12" tvg-logo="https://i.mjh.nz/.images/tv.12.png" tvg-chno="4",Bravo
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/tv.12.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.12 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.13" tvg-logo="https://i.mjh.nz/.images/tv.13.png" tvg-chno="5",Māori Television
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/tv.13.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.13 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.28" tvg-logo="https://i.mjh.nz/.images/tv.28.png" tvg-chno="10",PRIME
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/tv.28.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.28 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.51" tvg-logo="https://i.mjh.nz/.images/tv.51.png" tvg-chno="11",The Edge TV
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/tv.51.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.51 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.37" tvg-logo="https://i.mjh.nz/.images/tv.37.png" tvg-chno="12",Choice TV
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/tv.37.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.37 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.55" tvg-logo="https://i.mjh.nz/.images/tv.55.png" tvg-chno="13",DUKE
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/tv.55.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.55 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.68" tvg-logo="https://i.mjh.nz/.images/tv.68.png" tvg-chno="14",BREEZE TV
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/tv.68.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.68 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.20" tvg-logo="https://i.mjh.nz/.images/tv.20.png" tvg-chno="15",Te Reo
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/tv.20.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.20 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.46" tvg-logo="https://i.mjh.nz/.images/tv.46.png" tvg-chno="16",Al Jazeera
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/tv.46.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.46 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.58" tvg-logo="https://i.mjh.nz/.images/tv.58.png" tvg-chno="17",HGTV
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/tv.58.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.58 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.45" tvg-logo="https://i.mjh.nz/.images/tv.45.png" tvg-chno="20",TVSN Shopping
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/tv.45.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.45 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.7" tvg-logo="https://i.mjh.nz/.images/tv.7.png" tvg-chno="25",Shine TV
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/tv.7.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.7 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.39" tvg-logo="https://i.mjh.nz/.images/tv.39.png" tvg-chno="26",Firstlight
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/tv.39.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.39 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.56" tvg-logo="https://i.mjh.nz/.images/tv.56.png" tvg-chno="27",Hope Channel
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://c.mjh.nz/hope/ -vcodec copy -acodec copy -metadata service_name=tv.56 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.21" tvg-logo="https://i.mjh.nz/.images/tv.21.png" tvg-chno="28",Chinese TV28
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/tv.21.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.21 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.36" tvg-logo="https://i.mjh.nz/.images/tv.36.png" tvg-chno="29",Chinese TV29
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/tv.36.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.36 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.18" tvg-logo="https://i.mjh.nz/.images/tv.18.png" tvg-chno="31",Parliament TV
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/tv.18.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.18 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.49" tvg-logo="https://i.mjh.nz/.images/tv.49.png" tvg-chno="36",APNA Television
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/tv.49.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.49 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.63" tvg-logo="https://i.mjh.nz/.images/tv.63.png" tvg-chno="37",Panda TV
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/tv.63.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.63 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.60" tvg-logo="https://i.mjh.nz/.images/tv.60.png" tvg-chno="41",Wairarapa TV
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/tv.60.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.60 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.66" tvg-logo="https://i.mjh.nz/.images/tv.66.png" tvg-chno="200",CH200
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/tv.66.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.66 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.juice" tvg-logo="https://i.mjh.nz/.images/tv.juice.png",Juice TV
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/tv.juice.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.juice -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.redbull.tv" tvg-logo="https://i.mjh.nz/.images/tv.redbull.tv.png",Redbull TV
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/tv.redbull.tv.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.redbull.tv -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.trackside1" tvg-logo="https://i.mjh.nz/.images/tv.trackside1.png",TAB Trackside 1
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/tv.trackside1.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.trackside1 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.trackside2" tvg-logo="https://i.mjh.nz/.images/tv.trackside2.png",TAB Trackside 2
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/tv.trackside2.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.trackside2 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7116" tvg-logo="https://i.mjh.nz/.images/radio.ih.7116.png" radio="true",triplej Unearthed
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.7116 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7116 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7115" tvg-logo="https://i.mjh.nz/.images/radio.ih.7115.png" radio="true",triplej
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.7115 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7115 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.smoothfm.95.3" tvg-logo="https://i.mjh.nz/.images/radio.smoothfm.95.3.png" radio="true",smoothfm 95.3
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.smoothfm.95.3.mp3 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.smoothfm.95.3 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7075" tvg-logo="https://i.mjh.nz/.images/radio.ih.7075.png" radio="true",iHeartYou
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.7075 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7075 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6996" tvg-logo="https://i.mjh.nz/.images/radio.ih.6996.png" radio="true",iHeartRadio Old Skool
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.6996 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6996 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6941" tvg-logo="https://i.mjh.nz/.images/radio.ih.6941.png" radio="true",iHeartRadio Dance
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.6941 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6941 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6902" tvg-logo="https://i.mjh.nz/.images/radio.ih.6902.png" radio="true",iHeartRadio Countdown AUS
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.6902 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6902 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7222" tvg-logo="https://i.mjh.nz/.images/radio.ih.7222.png" radio="true",iHeartCountry Australia
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.7222 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7222 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7050" tvg-logo="https://i.mjh.nz/.images/radio.ih.7050.png" radio="true",iHeartAustralia
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.7050 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7050 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.9083" tvg-logo="https://i.mjh.nz/.images/radio.ih.9083.png" radio="true",Waiata Anthems
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.9083 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.9083 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8865" tvg-logo="https://i.mjh.nz/.images/radio.ih.8865.png" radio="true",Vintage FM
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.8865 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8865 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8876" tvg-logo="https://i.mjh.nz/.images/radio.ih.8876.png" radio="true",TikTok Trending on iHeartRadio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.8876 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8876 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8734" tvg-logo="https://i.mjh.nz/.images/radio.ih.8734.png" radio="true",The Get Up
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.8734 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8734 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7419" tvg-logo="https://i.mjh.nz/.images/radio.ih.7419.png" radio="true",The Faction Radio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.7419 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7419 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6179" tvg-logo="https://i.mjh.nz/.images/radio.ih.6179.png" radio="true",The Edge
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.6179 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6179 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6180" tvg-logo="https://i.mjh.nz/.images/radio.ih.6180.png" radio="true",The Edge
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.6180 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6180 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6327" tvg-logo="https://i.mjh.nz/.images/radio.ih.6327.png" radio="true",The Bounce
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.6327 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6327 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6793" tvg-logo="https://i.mjh.nz/.images/radio.ih.6793.png" radio="true",The 90s iHeartRadio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.6793 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6793 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6794" tvg-logo="https://i.mjh.nz/.images/radio.ih.6794.png" radio="true",The 80s iHeartRadio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.6794 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6794 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8665" tvg-logo="https://i.mjh.nz/.images/radio.ih.8665.png" radio="true",TAFE Radio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.8665.aac -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8665 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.sky.sports.radio" tvg-logo="https://i.mjh.nz/.images/radio.sky.sports.radio.png" radio="true",Sky Sports Radio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.sky.sports.radio.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.sky.sports.radio -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8319" tvg-logo="https://i.mjh.nz/.images/radio.ih.8319.png" radio="true",Sky News Radio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.8319 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8319 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.9047" tvg-logo="https://i.mjh.nz/.images/radio.ih.9047.png" radio="true",SWR 99.9 FM
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.9047.pls -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.9047 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7026" tvg-logo="https://i.mjh.nz/.images/radio.ih.7026.png" radio="true",SBS Radio 3
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.7026 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7026 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7025" tvg-logo="https://i.mjh.nz/.images/radio.ih.7025.png" radio="true",SBS Radio 2
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.7025 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7025 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6998" tvg-logo="https://i.mjh.nz/.images/radio.ih.6998.png" radio="true",SBS Radio 1
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.6998 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6998 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7031" tvg-logo="https://i.mjh.nz/.images/radio.ih.7031.png" radio="true",SBS PopDesi
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.7031 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7031 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7028" tvg-logo="https://i.mjh.nz/.images/radio.ih.7028.png" radio="true",SBS PopAsia
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.7028 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7028 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7029" tvg-logo="https://i.mjh.nz/.images/radio.ih.7029.png" radio="true",SBS Chill
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.7029 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7029 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7030" tvg-logo="https://i.mjh.nz/.images/radio.ih.7030.png" radio="true",SBS Arabic24
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.7030 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7030 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.9033" tvg-logo="https://i.mjh.nz/.images/radio.ih.9033.png" radio="true",RhemaFM
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.9033.pls -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.9033 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7111" tvg-logo="https://i.mjh.nz/.images/radio.ih.7111.png" radio="true",Radio National
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.7111 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7111 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8005" tvg-logo="https://i.mjh.nz/.images/radio.ih.8005.png" radio="true",Radio Australia
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.8005 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8005 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8866" tvg-logo="https://i.mjh.nz/.images/radio.ih.8866.png" radio="true",My88 FM
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.8866 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8866 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.9164" tvg-logo="https://i.mjh.nz/.images/radio.ih.9164.png" radio="true",Musicians Making A Difference
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.9164 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.9164 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7293" tvg-logo="https://i.mjh.nz/.images/radio.ih.7293.png" radio="true",Mardi Gras Radio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.7293 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7293 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.9036" tvg-logo="https://i.mjh.nz/.images/radio.ih.9036.png" radio="true",MTV Sounds on iHeartRadio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.9036 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.9036 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6970" tvg-logo="https://i.mjh.nz/.images/radio.ih.6970.png" radio="true",Little Rockers Radio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.6970 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6970 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.9032" tvg-logo="https://i.mjh.nz/.images/radio.ih.9032.png" radio="true",Koori Radio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.9032.pls -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.9032 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7918" tvg-logo="https://i.mjh.nz/.images/radio.ih.7918.png" radio="true",Kinderling Kids Radio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.7918 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7918 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6185" tvg-logo="https://i.mjh.nz/.images/radio.ih.6185.png" radio="true",KIIS 1065
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.6185 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6185 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7547" tvg-logo="https://i.mjh.nz/.images/radio.ih.7547.png" radio="true",JOY
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.7547 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7547 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6315" tvg-logo="https://i.mjh.nz/.images/radio.ih.6315.png" radio="true",Inspire Digital
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.6315 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6315 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6314" tvg-logo="https://i.mjh.nz/.images/radio.ih.6314.png" radio="true",Hope 103.2
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.6314 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6314 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7260" tvg-logo="https://i.mjh.nz/.images/radio.ih.7260.png" radio="true",Guzman Y Gomez
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.7260 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7260 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6312" tvg-logo="https://i.mjh.nz/.images/radio.ih.6312.png" radio="true",Fine Music Sydney
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.6312.aacp -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6312 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6311" tvg-logo="https://i.mjh.nz/.images/radio.ih.6311.png" radio="true",FBi Radio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.6311 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6311 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6329" tvg-logo="https://i.mjh.nz/.images/radio.ih.6329.png" radio="true",Energy Groove
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.6329 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6329 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6440" tvg-logo="https://i.mjh.nz/.images/radio.ih.6440.png" radio="true",Elf Radio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.6440 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6440 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.double.j" tvg-logo="http://i.mjh.nz/.images/radio.double.j.png" radio="true",Double J
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.double.j -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.double.j -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7090" tvg-logo="https://i.mjh.nz/.images/radio.ih.7090.png" radio="true",Double J
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.7090 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7090 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8873" tvg-logo="https://i.mjh.nz/.images/radio.ih.8873.png" radio="true",Dancing with the Stars
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.8873 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8873 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.dove.gospel" tvg-logo="https://i.mjh.nz/.images/radio.dove.gospel.png" radio="true",DGRadio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.dove.gospel.mp3 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.dove.gospel -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.curtin.radio" tvg-logo="http://i.mjh.nz/.images/radio.curtin.radio.png" radio="true",Curtin Radio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.curtin.radio -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.curtin.radio -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6178" tvg-logo="https://i.mjh.nz/.images/radio.ih.6178.png" radio="true",Chemist Warehouse Remix
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.6178 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6178 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7308" tvg-logo="https://i.mjh.nz/.images/radio.ih.7308.png" radio="true",Bondi Radio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.7308 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7308 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7421" tvg-logo="https://i.mjh.nz/.images/radio.ih.7421.png" radio="true",AndrewHaug.com Metal Radio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.7421 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7421 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7112" tvg-logo="https://i.mjh.nz/.images/radio.ih.7112.png" radio="true",ABC Sport
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.7112 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7112 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7135" tvg-logo="https://i.mjh.nz/.images/radio.ih.7135.png" radio="true",ABC Radio Sydney
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.7135 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7135 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7110" tvg-logo="https://i.mjh.nz/.images/radio.ih.7110.png" radio="true",ABC NewsRadio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.7110 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7110 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7967" tvg-logo="https://i.mjh.nz/.images/radio.ih.7967.png" radio="true",ABC KIDS Listen
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.7967 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7967 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7124" tvg-logo="https://i.mjh.nz/.images/radio.ih.7124.png" radio="true",ABC Jazz
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.7124 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7124 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7125" tvg-logo="https://i.mjh.nz/.images/radio.ih.7125.png" radio="true",ABC Country
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.7125 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7125 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7123" tvg-logo="https://i.mjh.nz/.images/radio.ih.7123.png" radio="true",ABC Classic 2
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.7123 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7123 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7118" tvg-logo="https://i.mjh.nz/.images/radio.ih.7118.png" radio="true",ABC Classic
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.7118 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7118 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8848" tvg-logo="https://i.mjh.nz/.images/radio.ih.8848.png" radio="true",A Tribute To Michael Gudinski
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.8848 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8848 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8677" tvg-logo="https://i.mjh.nz/.images/radio.ih.8677.png" radio="true",90.1 NBC FM
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.8677 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8677 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.9039" tvg-logo="https://i.mjh.nz/.images/radio.ih.9039.png" radio="true",89.3FM 2GLF
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.9039.pls -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.9039 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6709" tvg-logo="http://i.mjh.nz/.images/radio.ih.6709.png" radio="true",2UE 954
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.6709.aac -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6709 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6324" tvg-logo="https://i.mjh.nz/.images/radio.ih.6324.png" radio="true",2SER
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.6324 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6324 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7221" tvg-logo="http://i.mjh.nz/.images/radio.ih.7221.png" radio="true",2GB
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.7221.aac -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7221 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.sydney.2ch" tvg-logo="https://i.mjh.nz/.images/radio.sydney.2ch.png" radio="true",2CH
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.sydney.2ch.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.sydney.2ch -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.2ccc" tvg-logo="https://i.mjh.nz/.images/radio.2ccc.png" radio="true",2CCC - Coast 96.3
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.2ccc -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.2ccc -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6186" tvg-logo="https://i.mjh.nz/.images/radio.ih.6186.png" radio="true",101.7 WSFM
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/radio.ih.6186 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6186 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101406020623" tvg-logo="https://i.mjh.nz/.images/tv.101406020623.png",10 SHAKE
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/tv.101406020623.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101406020623 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101406020628" tvg-logo="https://i.mjh.nz/.images/tv.101406020628.png",10 Peach
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/tv.101406020628.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101406020628 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101406020627" tvg-logo="https://i.mjh.nz/.images/tv.101406020627.png",10 BOLD
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/tv.101406020627.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101406020627 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101406020625" tvg-logo="https://i.mjh.nz/.images/tv.101406020625.png",10
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/tv.101406020625.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101406020625 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.7openshop" tvg-logo="http://i.mjh.nz/.images/tv.7openshop.png",openshop
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/tv.7openshop.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.7openshop -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.7ausbiz" tvg-logo="http://i.mjh.nz/.images/tv.7ausbiz.png",ausbiz TV
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/tv.7ausbiz.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.7ausbiz -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101305020520" tvg-logo="https://i.mjh.nz/.images/tv.101305020520.png",Seven
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/tv.101305020520.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101305020520 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101305020528" tvg-logo="https://i.mjh.nz/.images/tv.101305020528.png",RACING.COM
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/tv.101305020528.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101305020528 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.7pac12" tvg-logo="http://i.mjh.nz/.images/tv.7pac12.png",PAC-12
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/tv.7pac12.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.7pac12 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.7outdoor" tvg-logo="http://i.mjh.nz/.images/tv.7outdoor.png",Outdoor Channel
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/tv.7outdoor.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.7outdoor -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.7olympics" tvg-logo="http://i.mjh.nz/.images/tv.7olympics.png",Olympics Channel
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/tv.7olympics.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.7olympics -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.7fueltv" tvg-logo="http://i.mjh.nz/.images/tv.7fueltv.png",Fuel TV
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/tv.7fueltv.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.7fueltv -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101305020523" tvg-logo="https://i.mjh.nz/.images/tv.101305020523.png",7mate
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/tv.101305020523.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101305020523 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101305020525" tvg-logo="https://i.mjh.nz/.images/tv.101305020525.png",7flix
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/tv.101305020525.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101305020525 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101305020522" tvg-logo="https://i.mjh.nz/.images/tv.101305020522.png",7TWO
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/tv.101305020522.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101305020522 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.320203000307" tvg-logo="https://i.mjh.nz/.images/tv.320203000307.png",SBS World Movies
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/tv.320203000307.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.320203000307 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.320203000303" tvg-logo="https://i.mjh.nz/.images/tv.320203000303.png",SBS VICELAND
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/tv.320203000303.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.320203000303 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.320203000304" tvg-logo="https://i.mjh.nz/.images/tv.320203000304.png",SBS Food
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/tv.320203000304.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.320203000304 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.320203000301" tvg-logo="https://i.mjh.nz/.images/tv.320203000301.png",SBS
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/tv.320203000301.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.320203000301 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.320203000305" tvg-logo="https://i.mjh.nz/.images/tv.320203000305.png",NITV
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/tv.320203000305.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.320203000305 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101204200421" tvg-logo="https://i.mjh.nz/.images/tv.101204200421.png",Nine
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/tv.101204200421.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101204200421 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101204200429" tvg-logo="https://i.mjh.nz/.images/tv.101204200429.png",9Rush
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/tv.101204200429.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101204200429 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101204200424" tvg-logo="https://i.mjh.nz/.images/tv.101204200424.png",9Life
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/tv.101204200424.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101204200424 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101204200428" tvg-logo="https://i.mjh.nz/.images/tv.101204200428.png",9Go!
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/tv.101204200428.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101204200428 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101204200427" tvg-logo="https://i.mjh.nz/.images/tv.101204200427.png",9Gem
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/tv.101204200427.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101204200427 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101002210222" tvg-logo="https://i.mjh.nz/.images/tv.abctvplus.png",ABC TV Plus
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://c.mjh.nz/abc2/ -vcodec copy -acodec copy -metadata service_name=tv.abc2 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.abc_news_90" tvg-logo="https://i.mjh.nz/.images/tv.abc_news_90.png",ABC News in 90 Seconds
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/tv.abc_news_90 -vcodec copy -acodec copy -metadata service_name=tv.abc_news_90 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101002210220" tvg-logo="https://i.mjh.nz/.images/tv.101002210220.png",ABC News
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://c.mjh.nz/101002210220/ -vcodec copy -acodec copy -metadata service_name=tv.101002210220 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101002210224" tvg-logo="https://i.mjh.nz/.images/tv.101002210224.png",ABC Me
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://c.mjh.nz/101002210224/ -vcodec copy -acodec copy -metadata service_name=tv.101002210224 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101002210221" tvg-logo="https://i.mjh.nz/.images/tv.101002210221.png",ABC
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://c.mjh.nz/101002210221/ -vcodec copy -acodec copy -metadata service_name=tv.101002210221 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.snowy-mountains" tvg-logo="https://i.mjh.nz/.images/tv.snowy-mountains.png",Snowy Mountains Television
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://c.mjh.nz/snowy-mountains/ -vcodec copy -acodec copy -metadata service_name=tv.snowy-mountains -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.skyrtc" tvg-logo="https://i.mjh.nz/.images/tv.skyrtc.png",Sky Racing - Thoroughbred Central
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/tv.skyrtc.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.skyrtc -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.sky2rw" tvg-logo="https://i.mjh.nz/.images/tv.sky2rw.png",Sky Racing #2
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/tv.sky2rw.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.sky2rw -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.sky1rw" tvg-logo="https://i.mjh.nz/.images/tv.sky1rw.png",Sky Racing #1
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/tv.sky1rw.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.sky1rw -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.dove.gospel" tvg-logo="https://i.mjh.nz/.images/tv.dove.gospel.png",DGtv
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/tv.dove.gospel.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.dove.gospel -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.cna" tvg-logo="https://i.mjh.nz/.images/tv.cna.png",Channel News Asia (CNA)
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/tv.cna.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.cna -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.bloomberg" tvg-logo="https://i.mjh.nz/.images/tv.bloomberg.png",Bloomberg Australia
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/tv.bloomberg.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.bloomberg -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.acctv" tvg-logo="http://i.mjh.nz/.images/tv.acctv.png",ACCTV
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Sydney/tv.acctv.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.acctv -f mpegts pipe:1
