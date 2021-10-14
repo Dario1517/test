@@ -1,5 +1,6 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/nzau/epg.xml.gz"
 
+x-tvg-url="https://iptv.programadorx.cl/epg/gratis/abril/guide.xml.gz"
 
 http://54.39.51.30:25461/get.php?username=5491136384842&password=8dvippJZuE&type=m3u_plus&output=ts
 
