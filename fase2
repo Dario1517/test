@@ -2,3 +2,6 @@
 
 #EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/radio.ih.7317.png" radio="true", KIDS TV
 https://livelist01.yowi.tv/lista/eede3daa45f98e0dce894da041ce520a22397517/index-f5-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/radio.ih.7317.png" radio="true", KIDS TV
+ws://video.streamtvradio.com:8081/uv068/uv068
