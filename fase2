@@ -1,7 +1,7 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/radio.ih.7317.png" radio="true", KIDS TV
-https://livelist01.yowi.tv/lista/eede3daa45f98e0dce894da041ce520a22397517/index-f5-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/radio.ih.7317.png" radio="true", FFFF
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/b1b273c853364b69b96eccb55a550536/chunklist_b4628000.m3u8?p=79&s=1635362643&e=1635362763&h=de2bcc31d66c9194490a65bc8a71a805
 
 #EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/radio.ih.7317.png" radio="true", KIDS TV
 ws://video.streamtvradio.com:8081/uv068/uv068
