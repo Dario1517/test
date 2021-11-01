@@ -1,5 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="", 23
-https://streaming.evolucionstreaming.com:10864/stats?sid=1&json=1&callback=jQuery3510577513924024091_1635786225174&_=1635786225229
+https://streaming.evolucionstreaming.com:10864/stream?icy=http
+
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="", 222
+https://www.facebook.com/ajax/bz?__a=1&__ccg=EXCELLENT&__comet_req=0&__csr=&__dyn=7xeUmLz84e685KbwKBAodod8d898nwgU6C7UW3q327E2JwJx61Iwd-4o3Bw5VCwSxu0OE2WxO0FE662y0umUS1vw4iwOxS0oG3S0H8bE2swdq1iwmE2ewnE2Lw6OyES0gq&__hs=18932.BP%3Aplugin_default_pkg.2.0.0.0.&__hsi=7025648337321190591-0&__req=b&__rev=1004651446&__s=%3A0o2m8j%3A9p6pvr&__sp=1&__user=1041618674&dpr=1&fb_dtsg=AQHC5EAMyYTeJKE%3A35%3A1633003911&jazoest=21889&locale=es_LA&lsd=J6D3n92fmZM4WhSjZ2-V_X
+
 
