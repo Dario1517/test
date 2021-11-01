@@ -1,5 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="", 18
-https://radiostreaming.rec.uba.ar/LiveRadioUBA/EnVivo_aac/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="", 0.388
+https://us-b4-p-e-az1-audio.cdn.mdstrm.com/live-audio-aw/60a2765c40105808346c569f/playlist.m3u8?listeningSessionID=61700ca325326439_1056236_kQYlhFwW__0000003eoP5&downloadSessionID=0&aid=60106eadf34de307dd720e7b&dnt=true&uid=8RX6Ln4aDO29YFEelYEfD8iTSVXb1JAv&sid=SwEoqrtULLCVujuQ2y9JKZXDJFYMMT1T&pid=QqDSrc0VZlQeM9g8cRJQ4DMC6t0BCPNt&ref=mucharadio.com.ar&es=us-b4-p-e-az1-audio.cdn.mdstrm.com&ote=1635875825281&ot=AU3lvPa2erFE8Xb0IK7qYg&proto=https&pz=us&cP=128000&awCollectionId=60106eadf34de307dd720e7b&liveId=60a2765c40105808346c569f&referer=https%3A%2F%2Fmucharadio.com.ar%2F&propertyName=lightning-player&propertyType=web-app&propertyVersion=v0.0.173
+
 
