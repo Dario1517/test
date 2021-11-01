@@ -1,5 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://static.epg.best/us/HBO.us.png", 23
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="", 23
 https://streaming.evolucionstreaming.com:10864/stats?sid=1&json=1&callback=jQuery3510577513924024091_1635786225174&_=1635786225229
 
