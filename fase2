@@ -1,5 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://static.epg.best/us/HBO.us.png",HBO
-https://streaming.evolucionstreaming.com:10864/stats?sid=1&json=1&callback=jQuery3510577513924024091_1635786225174&_=1635786225201
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://static.epg.best/us/HBO.us.png",HBO  ++
+https://cdn.syndication.twimg.com/timeline/profile?callback=__twttr.callbacks.tl_i0_profile_fmliderweb_new&dnt=false&domain=www.cadenadigitaluno.com.ar&lang=es&min_position=1454327953366691842&screen_name=fmliderweb&suppress_response_codes=true&t=1817540&tz=GMT-0300&with_replies=false
+
 
