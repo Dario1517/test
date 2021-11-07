@@ -1,7 +1,7 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="" group-title="NOTICIAS", TATETI
-https://64vod-adaptive.akamaized.net/exp=1636329214~acl=%2Fcb11cbc4-cd97-473e-b332-0d191c7e57f7%2F%2A~hmac=b6e391e21f6e07839514f8e082b12a0d59c943554b615f94af6c6cb3ce90f398/cb11cbc4-cd97-473e-b332-0d191c7e57f7/sep/video/d3fe39cb/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NOTICIAS", TATETI ++
+https://64vod-adaptive.akamaized.net/exp=1636329213~acl=%2Fcb11cbc4-cd97-473e-b332-0d191c7e57f7%2F%2A~hmac=33b4ec567a1d151d3eb5aa67d2321ce71294c49af5460ed9cc01acc5339d657c/cb11cbc4-cd97-473e-b332-0d191c7e57f7/sep/video/a2ecbe41,d3fe39cb,dd300b78/master.m3u8?absolute=1
 
 
 
