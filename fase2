@@ -6,3 +6,7 @@ https://us-b5-p-e-kj2-audio.cdn.mdstrm.com/live-audio-aw/60a2745ff943100826374a7
 
 #EXTINF:-1, provincia
 http://streaming.provinciaradio.com.ar:7007/am
+
+
+#EXTINF:-1, telefe 1
+https://edge4-sl.cvattv.com.ar//live/c3eds/TelefeHD/SA_Live_dash_enc_2A/TelefeHD.mpd
