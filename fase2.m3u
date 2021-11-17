@@ -1,8 +1,69 @@
 #EXTM3U
 
 #EXTINF:-1, belisle en linea
-
 https://stmvideo1.livecastv.com/belisle/belisle/playlist.m3u8
 
 
+#EXTINF:-1, 2
+http://edge10-hr.cvattv.com.ar/live/c2live/Eventos_2_HD/verimatrix_rotating_FTA/Eventos_2_HD.m3u8
 
+#EXTINF:-1, 3
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
+
+#EXTINF:-1, 4
+https://google-br.cdn.booyah.live/hls/1500110/97622001.m3u8
+
+#EXTINF:-1, 5
+https://nedmedia.akamaized.net/hls/live/2034243/feed1/master.m3u8
+
+#EXTINF:-1, 6
+https://vcp.myplaytv.com/tlthd/tlthd/playlist.m3u8
+
+#EXTINF:-1, 7
+https://el4live1.boldmss.com/TVP/TVP.isml/TVP.m3u8
+
+
+#EXTINF:-1, ANTIGUA
+http://51.161.12.229:1935/CanalAntigua/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="• LATINO DEPORTES •",LD - TYC SPORTS 
+http://ac.ntvlatino.com:8080/moises/moises2021/8247
+
+
+#EXTINF:0 tvg-id="TDN.mx" group-title="• LATINO DEPORTES •",LD - TUDN FHD 
+http://ac.ntvlatino.com:8080/moises/moises2021/3963 
+
+#EXTINF:0 tvg-id="ext" group-title="• LATINO DEPORTES •",LD - UNIVISION TUDN USA 
+http://ac.ntvlatino.com:8080/moises/moises2021/3751
+
+#EXTINF:0 tvg-id="ext" group-title="• LATINO DEPORTES •",LD - UNIVISION TUDN HD 
+http://ac.ntvlatino.com:8080/moises/moises2021/4117
+
+
+#EXTINF:0 tvg-id="ext" group-title="• LATINO DEPORTES •",LD - UNIVISION DEPORTES FHD 
+http://ac.ntvlatino.com:8080/moises/moises2021/3962
+
+
+#EXTINF:0 tvg-id="ext" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS PLUS SD 
+http://ac.ntvlatino.com:8080/moises/moises2021/8520
+
+#EXTINF:0 tvg-id="ext" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS PLUS HD 
+http://ac.ntvlatino.com:8080/moises/moises2021/27879
+
+
+#EXTINF:0 tvg-id="ext" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS 2 SD 
+http://ac.ntvlatino.com:8080/moises/moises2021/32881
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="• LATINO DEPORTES •",LD - BEIN SPORTS Ñ HD 
+http://ac.ntvlatino.com:8080/moises/moises2021/3747 
+
+#EXTINF:0 tvg-id="ext" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS HD 
+http://ac.ntvlatino.com:8080/moises/moises2021/7863 
+
+#EXTINF:0 tvg-id="ext" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS SD 
+http://ac.ntvlatino.com:8080/moises/moises2021/33512 
+
+#EXTINF:0 tvg-id="ext" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS 2 HD 
+http://ac.ntvlatino.com:8080/moises/moises2021/32882 
