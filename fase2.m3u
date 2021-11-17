@@ -26,44 +26,4 @@ https://el4live1.boldmss.com/TVP/TVP.isml/TVP.m3u8
 #EXTINF:-1, ANTIGUA
 http://51.161.12.229:1935/CanalAntigua/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="• LATINO DEPORTES •",LD - TYC SPORTS 
-http://ac.ntvlatino.com:8080/moises/moises2021/8247
 
-
-#EXTINF:0 tvg-id="TDN.mx" group-title="• LATINO DEPORTES •",LD - TUDN FHD 
-http://ac.ntvlatino.com:8080/moises/moises2021/3963 
-
-#EXTINF:0 tvg-id="ext" group-title="• LATINO DEPORTES •",LD - UNIVISION TUDN USA 
-http://ac.ntvlatino.com:8080/moises/moises2021/3751
-
-#EXTINF:0 tvg-id="ext" group-title="• LATINO DEPORTES •",LD - UNIVISION TUDN HD 
-http://ac.ntvlatino.com:8080/moises/moises2021/4117
-
-
-#EXTINF:0 tvg-id="ext" group-title="• LATINO DEPORTES •",LD - UNIVISION DEPORTES FHD 
-http://ac.ntvlatino.com:8080/moises/moises2021/3962
-
-
-#EXTINF:0 tvg-id="ext" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS PLUS SD 
-http://ac.ntvlatino.com:8080/moises/moises2021/8520
-
-#EXTINF:0 tvg-id="ext" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS PLUS HD 
-http://ac.ntvlatino.com:8080/moises/moises2021/27879
-
-
-#EXTINF:0 tvg-id="ext" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS 2 SD 
-http://ac.ntvlatino.com:8080/moises/moises2021/32881
-
-
-
-#EXTINF:0 tvg-id="ext" group-title="• LATINO DEPORTES •",LD - BEIN SPORTS Ñ HD 
-http://ac.ntvlatino.com:8080/moises/moises2021/3747 
-
-#EXTINF:0 tvg-id="ext" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS HD 
-http://ac.ntvlatino.com:8080/moises/moises2021/7863 
-
-#EXTINF:0 tvg-id="ext" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS SD 
-http://ac.ntvlatino.com:8080/moises/moises2021/33512 
-
-#EXTINF:0 tvg-id="ext" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS 2 HD 
-http://ac.ntvlatino.com:8080/moises/moises2021/32882 
