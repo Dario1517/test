@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1, ESPN
-https://centurylink.br.cdn.booyah.live/hls/1000009/97001883.m3u8
+#EXTINF:-1, FM VIDA
+https://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/60a2b23eaf8c7e00145e64e0_240p/index.m3u8
 
 
 #EXTINF:-1, EVENTOS
