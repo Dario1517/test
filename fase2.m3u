@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1, belisle en linea
-https://stmvideo1.livecastv.com/belisle/belisle/playlist.m3u8
+#EXTINF:-1, ESPN
+https://centurylink.br.cdn.booyah.live/hls/1000009/97001883.m3u8
 
 
 #EXTINF:-1, EVENTOS
@@ -11,8 +11,7 @@ http://edge10-hr.cvattv.com.ar/live/c2live/Eventos_2_HD/verimatrix_rotating_FTA/
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
 
 
-#EXTINF:-1, ESTADIO TNT SPORT CHILE
-https://nedmedia.akamaized.net/hls/live/2034243/feed1/master.m3u8
+
 
 
 
