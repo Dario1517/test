@@ -19,6 +19,9 @@ http://video.streamtvradio.com:8081/uv068/uv068/playlist.m3u8
 #EXTINF:-1,3
 http://clarines.jl.serv.net.mx/stream/FOXFAMILY_HD/04.m3u8
 
+#EXTINF:-1,5
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(03)/index.m3u8
+
 
 
 
