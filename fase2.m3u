@@ -14,8 +14,8 @@ https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/in
 #EXTINF:-1,CALCHAQUI
 http://video.streamtvradio.com:8081/uv068/uv068/playlist.m3u8
 
-#EXTINF:-1 ,ARG: Canal 13 La Rioja
-http://arcast.net:1935/mp/mp/playlist.m3u8?TeamIptv
+#EXTINF:-1 ,Tvm
+https://5b3050bb1b2d8.streamlock.net/tvmlive/tvmlive/chunklist.m3u8
 
 
 
