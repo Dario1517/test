@@ -20,6 +20,9 @@ https://5b3050bb1b2d8.streamlock.net/tvmlive/tvmlive/chunklist.m3u8
 #EXTINF:-1 ,CHI: Cdo Alt
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 
+#EXTINF:-1 ,Canal 4 San Posadas
+http://184.154.28.210:1935/canal4/canal4/playlist.m3u8?TeamIptv
+
 
 
 
