@@ -15,8 +15,7 @@ https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/in
 http://video.streamtvradio.com:8081/uv068/uv068/playlist.m3u8
 
 #EXTINF:-1,ssiptv arg
-http://user.tvcluboficial.com/stream/dec/dec/62.m3u8
-
+http://user.tvcluboficial.com/stream/nov/nov/62.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="DEPORTE", ESPN 
@@ -27,5 +26,8 @@ http://user.tvcluboficial.com/stream/nov/nov/509.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="DEPORTE", Fox Sports Premium
 http://user.tvcluboficial.com/stream/nov/nov/658.m3u8
+
+
+
 
 
