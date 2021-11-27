@@ -18,3 +18,14 @@ http://video.streamtvradio.com:8081/uv068/uv068/playlist.m3u8
 http://user.tvcluboficial.com/stream/nov/nov/62.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="DEPORTE", ESPN 
+http://user.tvcluboficial.com/stream/nov/nov/35.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/xTpGp/5bc4e5d1d6.png" group-title="DEPORTE", TNT Sports
+http://user.tvcluboficial.com/stream/nov/nov/509.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="DEPORTE", Fox Sports Premium
+http://user.tvcluboficial.com/stream/nov/nov/658.m3u8
+
+
