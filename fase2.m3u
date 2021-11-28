@@ -27,6 +27,13 @@ http://user.tvcluboficial.com/stream/nov/nov/509.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="DEPORTE", Fox Sports Premium
 http://user.tvcluboficial.com/stream/nov/nov/658.m3u8
 
+#EXTINF:0, FC REAL MADRID TV HD
+http://154.62.74.11:1935/live/realmadridnntv/chunklist.m3u8
+#EXTINF:0, BarÃ§a TV
+http://154.62.74.29:1935/live/barza/chunklist.m3u8
+#EXTINF:0, GOL TV
+http://154.62.74.29:1935/live/gol/chunklist.m3u8
+
 
 
 
