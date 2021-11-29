@@ -1,7 +1,87 @@
 #EXTM3U
 
-#EXTINF:-1, teledoce
-https://stream-03.nyc.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW3lKLjyOd3jcd1YQBmSkVHo)/dm/3/x7zjvi4/s/live-0.m3u8#cell=lnyc
+#EXTINF:-1,DSR MEDIOS
+https://panel.dattalive.com/8114/8114/playlist.m3u8
+
+#EXTINF:-1,TV STATION
+https://5b38ce71f1f00.streamlock.net/tvmarket/tvmarket/playlist.m3u8
+
+#EXTINF:-1,Infomedia 24 en vivo
+https://59d52c5a5ce5e.streamlock.net:4443/infomedia/infomedia/playlist.m3u8
+
+#EXTINF:-1,Canal 2 Chaqueña
+https://Stmv1.zcastbr.com/stream1/stream1/playlist.m3u8
+
+#EXTINF:-1,CATRIEL TV
+https://589ff3c36f7e8.streamlock.net/alastv/alastv/playlist.m3u8
+
+#EXTINF:-1,CANAL 5
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
+
+#EXTINF:-1,ORBITAL TV
+https://59537faa0729a.streamlock.net/radiorbital/radiorbital/playlist.m3u8
+
+#EXTINF:-1,13 RIO MAYO
+https://59537faa0729a.streamlock.net/canal13tvriomayo/canal13tvriomayo/playlist.m3u8
+
+#EXTINF:-1, CANAL 4 DE CORDOBA
+https://coopmorteros.online/radiocanal/canal01.m3u8
+
+#EXTINF:-1, UNI MAS
+https://unidfpclnlds158.akamaized.net/linear/hls/pa/event/fQCAqHLkSPeYW0FmDm7aOQ/stream/3bc90efb-e26d-4492-9b65-7acb7b0e1715:BRU/variant/e38bf0d4d30d9e59edf8e7c419786e33/bandwidth/3000000.m3u8?hdntl=exp=1601951016~acl=*~id=d80270bf-021c-4b01-b47c-c01ca3c80f7b~data=hdntl~hmac=66e0923e821f23b8c24054e2a01ae82ba1b1ba6baba93e51c6c9c52c745044a9
+
+#EXTINF:-1,CANAL 12
+https://f6z5x8d4.stackpathcdn.com/stream_360/index.m3u8
+
+#EXTINF:-1,LA ESTACION
+https://mediacp.hostradios.com.ar:19360/radioestacion/radioestacion.m3u8
+
+#EXTINF:-1, CANAL DE GUALEGUAYCHU
+https://59d52c5a5ce5e.streamlock.net:4443/gualeguay/gualeguay/playlist.m3u8
+
+#EXTINF:-1,CANAL 10
+https://streamcasthd.com:1936/realidad10/realidad10/playlist.m3u8
+
+#EXTINF:-1,  Canazatel  Beni
+http://hdtv.istbolivia.com:1935/anazatv/anazatv/playlist.m3u8
+
+#EXTINF:-1,Salta teve
+https://59537faa0729a.streamlock.net/canalglobaltv/canalglobaltv/playlist.m3u8
+
+#EXTINF:-1,CANAL 10 EN VIVO 24/7
+https://inliveserver.com:1936/15000/15000/chunklist_w1488963220.m3u8
+
+#EXTINF:-1,FM LA VOZ 91.5
+https://stmvideo2.livecastv.com/lavoztv/lavoztv/chunklist_w859988336.m3u8
+
+#EXTINF:-1, MUNDO MAS
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+
+#EXTINF:-1,LATINOS TV
+https://limited20.todostreaming.es/live/simbana-livestream1.m3u8
+
+#EXTINF:-1, CANAL 2 LA PAMPA
+https://stmv1.srvif.com/canal2/canal2/chunklist_w1646842213.m3u8
+
+#EXTINF:-1, 11 MAR DEL PLATA
+https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
+
+#EXTINF:-1,ESPERANZA TV
+https://bcliveunivsecure-lh.akamaihd.net/i/Esperanza_1@571273/index_596_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,9 LA LOMA
+https://directo.9laloma.es/live.m3u8
+
+#EXTINF:-1,Mirame tv
+https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
+
+#EXTINF:-1,AMAS
+https://dai.google.com/linear/hls/pa/event/SJysMl45QMSwjo0TodSk1Q/stream/784f7b99-de81-4b20-be64-9bf0463d747b:SCL/variant/d0752b4b2f19b05a9299d2af327b0594/bandwidth/638000.m3u8
+
+#EXTINF:-1,AGAPE CANAL 8
+https://can1.krakeniptv.com:25463/live/agape/CPLdE2EadX/1764.m3u8
+
+
 
 
 #EXTINF:-1, EVENTOS
