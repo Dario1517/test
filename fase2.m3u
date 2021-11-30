@@ -65,8 +65,7 @@ http://154.62.74.29:1935/live/barza/chunklist.m3u8
 #EXTINF:0, GOL TV
 http://154.62.74.29:1935/live/gol/chunklist.m3u8
 
-#EXTINF:0, AMERICA TV PRUEBA 
-https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/949bf697-2385-44e1-8941-bf653791a837:SCL/master.m3u8
+
 
 
 
