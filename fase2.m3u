@@ -1,16 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1,DIOS 
-https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
+https://emisoras.hn:8081/diostevekids/index.m3u8
 
-#EXTINF:-1, A24
-https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
-#EXTINF:-1,CANAL 12 TRENQUE LAUQUEN
-https://f6z5x8d4.stackpathcdn.com/stream_360/index.m3u8
 
-#EXTINF:-1,LA ESTACION
-https://mediacp.hostradios.com.ar:19360/radioestacion/radioestacion.m3u8
 
 
 
@@ -33,16 +27,7 @@ http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 
 
 
-#EXTINF:-1, CANAL 2 LA PAMPA
-https://stmv1.srvif.com/canal2/canal2/playlist.m3u8
 
-
-
-
-
-
-#EXTINF:-1,Mirame tv
-https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
 
 
 
