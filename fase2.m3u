@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,DIOS 
+https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,DSR MEDIOS
 https://panel.dattalive.com/8114/8114/playlist.m3u8
 
