@@ -1,5 +1,5 @@
 #EXTM3U"
-
+https://raw.githubusercontent.com/mortal251/ssiptvarg/main/listagratuita.m3u
 #EXTINF:-1,ssiptv arg
 http://user.tvcluboficial.com/stream/dic/dic/62.m3u8
 
@@ -12,6 +12,10 @@ http://user.tvcluboficial.com/stream/nov/nov/509.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="DEPORTE", Fox Sports Premium
 http://user.tvcluboficial.com/stream/nov/nov/658.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="DEPORTE", lista
+https://raw.githubusercontent.com/mortal251/ssiptvarg/main/listagratuita.m3u
 
 
 
