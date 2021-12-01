@@ -17,6 +17,15 @@ http://user.tvcluboficial.com/stream/nov/nov/658.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="DEPORTE", lista
 https://raw.githubusercontent.com/mortal251/ssiptvarg/main/listagratuita.m3u
 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="DEPORTE", lista 2
+http://bit.ly/cNALES-iptv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="DEPORTE", lista 3
+http://bit.ly/cNALES-iptv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="DEPORTE", lista 4
+http://bit.ly/DEPOrt-m3u
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="DEPORTE", lista 5
+http://bit.ly/Varia-dos
+
 
 
 
