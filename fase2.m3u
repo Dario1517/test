@@ -1,5 +1,5 @@
 #EXTM3U"
-https://raw.githubusercontent.com/mortal251/ssiptvarg/main/listagratuita.m3u
+
 #EXTINF:-1,ssiptv arg
 http://user.tvcluboficial.com/stream/dic/dic/62.m3u8
 
@@ -14,8 +14,11 @@ http://user.tvcluboficial.com/stream/nov/nov/509.m3u8
 http://user.tvcluboficial.com/stream/nov/nov/658.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="DEPORTE", lista
-https://raw.githubusercontent.com/mortal251/ssiptvarg/main/listagratuita.m3u
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="amba", ip
+https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="amba", telefe
+
 
 
 
