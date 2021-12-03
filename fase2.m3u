@@ -14,10 +14,10 @@ http://user.tvcluboficial.com/stream/nov/nov/509.m3u8
 http://user.tvcluboficial.com/stream/nov/nov/658.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQjjB8h8lhzBktI4zfzWXgz1cvM0gWdxXQWxrIlBQ=s88-c-k-c0x00ffffff-no-rj", COSMOS TV
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQjjB8h8lhzBktI4zfzWXgz1cvM0gWdxXQWxrIlBQ=s88-c-k-c0x00ffffff-no-rj" group-title="CINE Y SERIES", COSMOS TV
 https://clientes.videostreaming.ar:19360/cosmos/cosmos.m3u8
  
-#EXTINF:-1 tvg-logo="https://scontent.fjuj1-1.fna.fbcdn.net/v/t1.6435-1/p148x148/67352872_2277978742256475_6000712372195426304_n.png?_nc_cat=105&ccb=1-5&_nc_sid=1eb0c7&_nc_ohc=tUhTCL_tOaEAX8LRazd&_nc_ht=scontent.fjuj1-1.fna&oh=90f6f09f43c41886a0ba7e55feb2022e&oe=61CAB43F", Bayres TV
+#EXTINF:-1 tvg-logo="https://scontent.fjuj1-1.fna.fbcdn.net/v/t1.6435-1/p148x148/67352872_2277978742256475_6000712372195426304_n.png?_nc_cat=105&ccb=1-5&_nc_sid=1eb0c7&_nc_ohc=tUhTCL_tOaEAX8LRazd&_nc_ht=scontent.fjuj1-1.fna&oh=90f6f09f43c41886a0ba7e55feb2022e&oe=61CAB43F" group-title="AMBA", Bayres TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 
