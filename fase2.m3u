@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", SSIPTV +
 http://user.tvcluboficial.com/stream/nov/nov/62.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", ALF
+https://srv5.zcast.com.br/alf/alf/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="DEPORTE", ESPN 
 http://user.tvcluboficial.com/stream/nov/nov/35.m3u8
 
