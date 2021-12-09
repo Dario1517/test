@@ -26,3 +26,12 @@ https://clientes.videostreaming.ar:19360/cosmos/cosmos.m3u8
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/usa-music/usamusic-mcpoplatino.png" group-title="ENTRETENIMIENTO 1", US| Music Choice Pop Latino
+http://fajitasonthagrill.xyz:24561/live/delpiero1537/Rpo78218/42924.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1280px-A%26E_Network_logo.svg.png" group-title="ENTRETENIMIENTO 1", Latino | A&E HD
+http://fajitasonthagrill.xyz:24561/live/delpiero1537/Rpo78218/3705.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png" group-title="ENTRETENIMIENTO 1", Latino | AMC
+http://fajitasonthagrill.xyz:24561/live/delpiero1537/Rpo78218/3660.m3u8
+
