@@ -35,3 +35,17 @@ http://fajitasonthagrill.xyz:24561/live/delpiero1537/Rpo78218/3705.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png" group-title="ENTRETENIMIENTO 1", Latino | AMC
 http://fajitasonthagrill.xyz:24561/live/delpiero1537/Rpo78218/3660.m3u8
 
+
+#EXTINF:-1,MX | Foro Tv
+http://51.222.43.170:36995/DanielL/DanielL123/59
+#EXTINF:-1,MX | Canal 5
+http://51.222.43.170:36995/DanielL/DanielL123/60
+#EXTINF:-1,MX | Azteca 7
+http://51.222.43.170:36995/DanielL/DanielL123/61
+#EXTINF:-1,MX | Gala TV
+http://51.222.43.170:36995/DanielL/DanielL123/62
+#EXTINF:-1,MX | El Nueve
+http://51.222.43.170:36995/DanielL/DanielL123/230603
+#EXTINF:-1,MX | Canal 4 Guadalajara
+http://51.222.43.170:36995/DanielL/DanielL123/258996
+
