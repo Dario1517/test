@@ -30,9 +30,9 @@ https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 https://g1.mc-hor.transport.edge-access.net/b06/ngrp:magazine_live01-100083_all/Playlist.m3u8
 
 
-UNIVERSO EAST
+#EXTINF:-1, UNIVERSO EAST
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/21_.m3u8
-UNIVERSO WEST
+#EXTINF:-1, UNIVERSO WEST
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/20_.m3u8
 UNIMAS
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/29_.m3u8
@@ -44,7 +44,7 @@ TELEMUNDO 47
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/46_.m3u8
 TELEMUNDO 52
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/51_.m3u8
-TELEMUNDO 51
+#EXTINF:-1, TELEMUNDO 51
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/66_.m3u8
 WLS ABC
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/136_.m3u8
@@ -62,13 +62,13 @@ NUEVE
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/108_.m3u8
 CANAL DRAMA
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/111_.m3u8
-EL TRECE
+#EXTINF:-1, EL TRECE
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/112_.m3u8
-AMERICA TV
+#EXTINF:-1, AMERICA TV
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/112_.m3u8
 ESTRELLAS MX
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/8_.m3u8
-TELEFE
+#EXTINF:-1, TELEFE
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/9_.m3u8
 AZTECA 1
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/10_.m3u8
