@@ -44,3 +44,14 @@ https://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/21_.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="MESOPOTAMIA", RADIO BRAVA PASOS DE LOS LIBRES 103.9 FM (SOLO AUDIO)
+http://bravafm.hopto.org:88/broadwave.mp3
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="MESOPOTAMIA", RADIO SAN JORGE CURUZU CUATIA 106.9 FM (SOLO AUDIO)
+https://autodj.nvradios.com/radio/8130/radio.mp3
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="MESOPOTAMIA", FM NEXO 105.9 FM CORRIENTES (SOLO AUDIO)
+https://radio02.ferozo.com/proxy/ra02001383/?mp=/stream/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="MESOPOTAMIA", RADIOACTIVIDAD 91.5 FM CORRIENTES (SOLO AUDIO)
+http://200.58.106.247:8898/;stream.mp3
