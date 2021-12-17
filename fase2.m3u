@@ -31,4 +31,8 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSh7XjPZSGyNjRrZpYF4nwLpJUbxtv_Qf2gQqNOjlwiHzXvusMUnp8gGkfXg6ocaVpgYA&usqp=CAU" group-title="NORTE", CNR JUJUY
 https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="DEPORTE", Fox Sports Premium
+http://odenfull.co:2086/Mario0521/wBciOGSOGS/135283
+
+
 
