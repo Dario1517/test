@@ -31,9 +31,8 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSh7XjPZSGyNjRrZpYF4nwLpJUbxtv_Qf2gQqNOjlwiHzXvusMUnp8gGkfXg6ocaVpgYA&usqp=CAU" group-title="NORTE", CNR JUJUY
 https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/rtpdois/picture?width=200&height=200" group-title="deporte", espn 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://edge-live15-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd
+#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png" group-title="AMBA", NEO TV DIGITAL  16.1
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
 
