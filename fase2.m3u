@@ -33,6 +33,28 @@ http://user.tvcluboficial.com/stream/nov/nov/34.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1410260561212882945/yeUi7tMe_400x400.jpg" group-title="DEPORTE", TNT Sports
 http://user.tvcluboficial.com/stream/nov/nov/509.m3u8
 
+
+#EXTINF:-1 tvg-logo="" group-title="telecarpincho", ooo
+http://user.tvcluboficial.com/stream/nov/nov/1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="telecarpincho", ooo
+http://user.tvcluboficial.com/stream/nov/nov/2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="telecarpincho", ooo
+http://user.tvcluboficial.com/stream/nov/nov/3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="telecarpincho", ooo
+http://user.tvcluboficial.com/stream/nov/nov/4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="telecarpincho", ooo
+http://user.tvcluboficial.com/stream/nov/nov/5.m3u8
+#EXTINF:-1 tvg-logo="" group-title="telecarpincho", ooo
+http://user.tvcluboficial.com/stream/nov/nov/6.m3u8
+#EXTINF:-1 tvg-logo="" group-title="telecarpincho", ooo
+http://user.tvcluboficial.com/stream/nov/nov/7.m3u8
+#EXTINF:-1 tvg-logo="" group-title="telecarpincho", ooo
+http://user.tvcluboficial.com/stream/nov/nov/8.m3u8
+#EXTINF:-1 tvg-logo="" group-title="telecarpincho", ooo
+http://user.tvcluboficial.com/stream/nov/nov/9.m3u8
+#EXTINF:-1 tvg-logo="" group-title="telecarpincho", ooo
+http://user.tvcluboficial.com/stream/nov/nov/10.m3u8
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="DEPORTE", Fox Sports Premium
 http://user.tvcluboficial.com/stream/nov/nov/658.m3u8
 
