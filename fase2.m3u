@@ -50,30 +50,3 @@ https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png" group-title="AMBA", NEO TV DIGITAL  16.1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="telecarpincho", STARS HITS
-http://user.tvcluboficial.com/stream/nov/nov/51.m3u8
-#EXTINF:-1 tvg-logo="" group-title="telecarpincho", FOX SPORTS
-http://user.tvcluboficial.com/stream/nov/nov/52.m3u8
-#EXTINF:-1 tvg-logo="" group-title="telecarpincho", FOX SPORTS 2
-http://user.tvcluboficial.com/stream/nov/nov/53.m3u8
-#EXTINF:-1 tvg-logo="" group-title="telecarpincho", 000
-http://user.tvcluboficial.com/stream/nov/nov/54.m3u8
-#EXTINF:-1 tvg-logo="" group-title="telecarpincho", 000
-http://user.tvcluboficial.com/stream/nov/nov/55.m3u8
-#EXTINF:-1 tvg-logo="" group-title="telecarpincho", UNIVISION
-http://user.tvcluboficial.com/stream/nov/nov/56.m3u8
-#EXTINF:-1 tvg-logo="" group-title="telecarpincho", GOLDEN
-http://user.tvcluboficial.com/stream/nov/nov/57.m3u8
-#EXTINF:-1 tvg-logo="" group-title="telecarpincho", GOLDEN EDGE
-http://user.tvcluboficial.com/stream/nov/nov/58.m3u8
-#EXTINF:-1 tvg-logo="" group-title="telecarpincho", GOLDEN PREMIER
-http://user.tvcluboficial.com/stream/nov/nov/59.m3u8
-#EXTINF:-1 tvg-logo="" group-title="telecarpincho", CINE
-http://user.tvcluboficial.com/stream/nov/nov/60.m3u8
-
-
-
-
-
-
-
