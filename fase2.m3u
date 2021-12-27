@@ -50,6 +50,28 @@ https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png" group-title="AMBA", NEO TV DIGITAL  16.1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="telecarpincho", DEPELICULA +
+http://user.tvcluboficial.com/stream/nov/nov/31.m3u8
+#EXTINF:-1 tvg-logo="" group-title="telecarpincho", DISCOVERY
+http://user.tvcluboficial.com/stream/nov/nov/32.m3u8
+#EXTINF:-1 tvg-logo="" group-title="telecarpincho", HGTV
+http://user.tvcluboficial.com/stream/nov/nov/33.m3u8
+#EXTINF:-1 tvg-logo="" group-title="telecarpincho", DISCOVERY H&H
+http://user.tvcluboficial.com/stream/nov/nov/34.m3u8
+#EXTINF:-1 tvg-logo="" group-title="telecarpincho", DISCOVERY KIDS
+http://user.tvcluboficial.com/stream/nov/nov/35.m3u8
+#EXTINF:-1 tvg-logo="" group-title="telecarpincho", DISCOVERY SCI
+http://user.tvcluboficial.com/stream/nov/nov/36.m3u8
+#EXTINF:-1 tvg-logo="" group-title="telecarpincho", DISCOVERY THEATER
+http://user.tvcluboficial.com/stream/nov/nov/37.m3u8
+#EXTINF:-1 tvg-logo="" group-title="telecarpincho", DISCOVERY TURBO
+http://user.tvcluboficial.com/stream/nov/nov/38.m3u8
+#EXTINF:-1 tvg-logo="" group-title="telecarpincho", DISNEY CHANNEL
+http://user.tvcluboficial.com/stream/nov/nov/39.m3u8
+#EXTINF:-1 tvg-logo="" group-title="telecarpincho", DISNEY JUNIOR
+http://user.tvcluboficial.com/stream/nov/nov/40.m3u8
+
+
 
 
 
