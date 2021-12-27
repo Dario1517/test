@@ -50,26 +50,26 @@ https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png" group-title="AMBA", NEO TV DIGITAL  16.1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="telecarpincho", DEPELICULA +
-http://user.tvcluboficial.com/stream/nov/nov/31.m3u8
-#EXTINF:-1 tvg-logo="" group-title="telecarpincho", DISCOVERY
-http://user.tvcluboficial.com/stream/nov/nov/32.m3u8
-#EXTINF:-1 tvg-logo="" group-title="telecarpincho", HGTV
-http://user.tvcluboficial.com/stream/nov/nov/33.m3u8
-#EXTINF:-1 tvg-logo="" group-title="telecarpincho", DISCOVERY H&H
-http://user.tvcluboficial.com/stream/nov/nov/34.m3u8
-#EXTINF:-1 tvg-logo="" group-title="telecarpincho", DISCOVERY KIDS
-http://user.tvcluboficial.com/stream/nov/nov/35.m3u8
-#EXTINF:-1 tvg-logo="" group-title="telecarpincho", DISCOVERY SCI
-http://user.tvcluboficial.com/stream/nov/nov/36.m3u8
-#EXTINF:-1 tvg-logo="" group-title="telecarpincho", DISCOVERY THEATER
-http://user.tvcluboficial.com/stream/nov/nov/37.m3u8
-#EXTINF:-1 tvg-logo="" group-title="telecarpincho", DISCOVERY TURBO
-http://user.tvcluboficial.com/stream/nov/nov/38.m3u8
-#EXTINF:-1 tvg-logo="" group-title="telecarpincho", DISNEY CHANNEL
-http://user.tvcluboficial.com/stream/nov/nov/39.m3u8
-#EXTINF:-1 tvg-logo="" group-title="telecarpincho", DISNEY JUNIOR
-http://user.tvcluboficial.com/stream/nov/nov/40.m3u8
+#EXTINF:-1 tvg-logo="" group-title="telecarpincho", DISNEY XD
+http://user.tvcluboficial.com/stream/nov/nov/41.m3u8
+#EXTINF:-1 tvg-logo="" group-title="telecarpincho", DISTRITO COMEDIA
+http://user.tvcluboficial.com/stream/nov/nov/42.m3u8
+#EXTINF:-1 tvg-logo="" group-title="telecarpincho", E!
+http://user.tvcluboficial.com/stream/nov/nov/43.m3u8
+#EXTINF:-1 tvg-logo="" group-title="telecarpincho", ESPN
+http://user.tvcluboficial.com/stream/nov/nov/44.m3u8
+#EXTINF:-1 tvg-logo="" group-title="telecarpincho", ESPN 2
+http://user.tvcluboficial.com/stream/nov/nov/45.m3u8
+#EXTINF:-1 tvg-logo="" group-title="telecarpincho", ESPN 
+http://user.tvcluboficial.com/stream/nov/nov/46.m3u8
+#EXTINF:-1 tvg-logo="" group-title="telecarpincho", ESPN EXTRA
+http://user.tvcluboficial.com/stream/nov/nov/47.m3u8
+#EXTINF:-1 tvg-logo="" group-title="telecarpincho", 000
+http://user.tvcluboficial.com/stream/nov/nov/48.m3u8
+#EXTINF:-1 tvg-logo="" group-title="telecarpincho", 000
+http://user.tvcluboficial.com/stream/nov/nov/49.m3u8
+#EXTINF:-1 tvg-logo="" group-title="telecarpincho", 000
+http://user.tvcluboficial.com/stream/nov/nov/50.m3u8
 
 
 
