@@ -13,7 +13,7 @@ https://59537faa0729a.streamlock.net/albardontv/albardontv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", CIUDAD MAGAZINE
-https://g2.proy-hor.transport.edge-access.net/b06/ngrp:magazine_live01-100083_all/magazine_live01-100083_128Kp.m3u8
+https://g1.mc-hor.transport.edge-access.net/b06/ngrp:magazine_live01-100083_all/Playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="PAMPEANA", AIREVISION
 http://airevision.ddns.net:1935/live/myStream/playlist.m3u8
@@ -33,26 +33,7 @@ http://user.tvcluboficial.com/stream/nov/nov/34.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1410260561212882945/yeUi7tMe_400x400.jpg" group-title="DEPORTE", TNT Sports
 http://user.tvcluboficial.com/stream/nov/nov/509.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="telecarpincho", ooo
-http://user.tvcluboficial.com/stream/nov/nov/771.m3u8
-#EXTINF:-1 tvg-logo="" group-title="telecarpincho", ooo
-http://user.tvcluboficial.com/stream/nov/nov/772.m3u8
-#EXTINF:-1 tvg-logo="" group-title="telecarpincho", ANIMAL PLANET
-http://user.tvcluboficial.com/stream/nov/nov/773.m3u8
-#EXTINF:-1 tvg-logo="" group-title="telecarpincho", AZTECA UNO
-http://user.tvcluboficial.com/stream/nov/nov/774.m3u8
-#EXTINF:-1 tvg-logo="" group-title="telecarpincho", AZTECA 7
-http://user.tvcluboficial.com/stream/nov/nov/775.m3u8
-#EXTINF:-1 tvg-logo="" group-title="telecarpincho", 000
-http://user.tvcluboficial.com/stream/nov/nov/776.m3u8
-#EXTINF:-1 tvg-logo="" group-title="telecarpincho", BABYFIRST
-http://user.tvcluboficial.com/stream/nov/nov/777.m3u8
-#EXTINF:-1 tvg-logo="" group-title="telecarpincho", BANDAMAX
-http://user.tvcluboficial.com/stream/nov/nov/778.m3u8
-#EXTINF:-1 tvg-logo="" group-title="telecarpincho", SIN SEÑAL
-http://user.tvcluboficial.com/stream/nov/nov/779.m3u8
-#EXTINF:-1 tvg-logo="" group-title="telecarpincho", ooo
-http://user.tvcluboficial.com/stream/nov/nov/780.m3u8
+
 
 
 
