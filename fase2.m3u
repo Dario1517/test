@@ -9,7 +9,8 @@ https://srv5.zcast.com.br/alf/alf/playlist.m3u8
 https://59537faa0729a.streamlock.net/albardontv/albardontv/playlist.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://ugc.kn3.net/i/760x/http://ing-sat.what.hu/images/logo-insert/satlogos/argentina/162-Magic.jpg" group-title="AMBA", MAGIC KIDS
+https://live.admefy.com/live/default/molecular_peach_261f9.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", CIUDAD MAGAZINE
