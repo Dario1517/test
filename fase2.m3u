@@ -9,18 +9,14 @@ http://ssiptvarg.atwebpages.com/Video_expiro_lista.mp4
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/america-tucuman.png" group-title="NORTE", AMERICA TUCUMAN
 http://45.6.4.154/americatuc/vivo.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", ALF
-https://srv5.zcast.com.br/alf/alf/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" group-title="AMBA", CANAL 9  35.1
 https://d2r6nlw8e5ph9i.cloudfront.net/elnueve/smil:elnueve.smil/chunklist_b2200000.m3u8
 
-#EXTINF:-1 tvg-logo="http://albardontv.com.ar/wp-content/uploads/2020/02/cropped-cropped-2.png" group-title="CUYO", ALBARDON TV SAN JUAN
-https://59537faa0729a.streamlock.net/albardontv/albardontv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://ugc.kn3.net/i/760x/http://ing-sat.what.hu/images/logo-insert/satlogos/argentina/162-Magic.jpg" group-title="AMBA", MAGIC KIDS
-https://live.admefy.com/live/default/molecular_peach_261f9.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", CIUDAD MAGAZINE
@@ -29,8 +25,6 @@ https://g1.mc-hor.transport.edge-access.net/b06/ngrp:magazine_live01-100083_all/
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="PAMPEANA", AIREVISION
 http://airevision.ddns.net:1935/live/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="MESOPOTAMIA", TV 27
-https://5b3050bb1b2d8.streamlock.net/tvmlive/tvmlive/playlist.m3u8
 
 
 
@@ -41,16 +35,13 @@ https://video.streamtvradio.com:8443/uv038/uv038/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="DEPORTE", ESPN 
 http://user.tvcluboficial.com/stream/nov/nov/34.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1410260561212882945/yeUi7tMe_400x400.jpg" group-title="DEPORTE", TNT Sports
-http://user.tvcluboficial.com/stream/nov/nov/509.m3u8
 
 
 
 
 
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="DEPORTE", Fox Sports Premium
-http://user.tvcluboficial.com/stream/nov/nov/658.m3u8
+
 
 
  
