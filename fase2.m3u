@@ -56,3 +56,261 @@ https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png" group-title="AMBA", NEO TV DIGITAL  16.1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/311/311523.png" group-title="CINE", TELECARPINCHO
+http://user.tvcluboficial.com/stream/nov/nov/711.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="DEPORTE", Fox Sports
+http://user.tvcluboficial.com/stream/nov/nov/402.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="DEPORTE", Fox Sports 2
+http://user.tvcluboficial.com/stream/nov/nov/410.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="DEPORTE", Fox Sports 3
+http://user.tvcluboficial.com/stream/nov/nov/511.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="DEPORTE", ESPN 
+http://user.tvcluboficial.com/stream/nov/nov/34.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="DEPORTE", ESPN 2
+http://user.tvcluboficial.com/stream/nov/nov/35.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="DEPORTE", ESPN 3
+http://user.tvcluboficial.com/stream/nov/nov/485.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="DEPORTE", Discovery Turbo
+http://user.tvcluboficial.com/stream/nov/nov/28.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="DEPORTE", Fox Sports Premium
+http://user.tvcluboficial.com/stream/nov/nov/658.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1410260561212882945/yeUi7tMe_400x400.jpg" group-title="DEPORTE", TNT Sports
+http://user.tvcluboficial.com/stream/nov/nov/509.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="DEPORTE", DirectTV Sports
+http://user.tvcluboficial.com/stream/nov/nov/259.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", DirectTV Sports 2
+http://user.tvcluboficial.com/stream/nov/nov/667.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="INFANTIL", Disney Junior
+http://user.tvcluboficial.com/stream/nov/nov/743.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="INFANTIL", Cartoon Network 
+http://user.tvcluboficial.com/stream/nov/nov/737.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" group-title="INFANTIL", Disney Channel
+http://user.tvcluboficial.com/stream/nov/nov/29.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/mw51W/3b10c832dd.png" group-title="INFANTIL", Nick
+http://user.tvcluboficial.com/stream/nov/nov/78.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/boomerang.png" group-title="INFANTIL", Cartoonito
+http://user.tvcluboficial.com/stream/nov/nov/735.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png" group-title="INFANTIL", Disney XD 
+http://user.tvcluboficial.com/stream/nov/nov/744.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="INFANTIL", Discovery Kids
+http://user.tvcluboficial.com/stream/nov/nov/25.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/wZVOI/399ecc3f7e.png" group-title="INFANTIL", Nat Geo Kids
+http://user.tvcluboficial.com/stream/nov/nov/412.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://puu.sh/mw57k/d21813a8f6.png" group-title="INFANTIL", Nick JR
+http://user.tvcluboficial.com/stream/nov/nov/79.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/babytv.png" group-title="INFANTIL", Baby TV
+http://user.tvcluboficial.com/stream/nov/nov/7.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/mw5oi/09350aa9a0.png" group-title="INFANTIL", Tooncast
+http://user.tvcluboficial.com/stream/nov/nov/95.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://puu.sh/mwqrg/e525edd989.png" group-title="SERIES", SyFy 
+http://user.tvcluboficial.com/stream/nov/nov/758.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="SERIES", FX Sur
+http://user.tvcluboficial.com/stream/nov/nov/749.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="SERIES", STAR CHANNEL
+http://user.tvcluboficial.com/stream/nov/nov/750.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://puu.sh/monkP/4502e76205.png" group-title="SERIES", Universal
+http://user.tvcluboficial.com/stream/nov/nov/137.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://puu.sh/reX9a/e5e9972612.png" group-title="SERIES", Space
+http://user.tvcluboficial.com/stream/nov/nov/751.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="SERIES", Cinecanal
+http://user.tvcluboficial.com/stream/nov/nov/738.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/vKP8k/b5666df9d4.png" group-title="SERIES", TNT 
+http://user.tvcluboficial.com/stream/nov/nov/752.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fxm.png" group-title="SERIES",FX Movies
+http://user.tvcluboficial.com/stream/nov/nov/43.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://puu.sh/mP1b6/411b64dc27.png" group-title="SERIES",TCM
+http://user.tvcluboficial.com/stream/nov/nov/85.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://puu.sh/mwdML/61aec19cb5.png" group-title="SERIES", Warner Channel
+http://user.tvcluboficial.com/stream/nov/nov/759.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://puu.sh/msGV1/093178617f.png" group-title="SERIES", Sony
+http://user.tvcluboficial.com/stream/nov/nov/145.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="SERIES", Cinemax 
+http://user.tvcluboficial.com/stream/nov/nov/739.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/mbGkk/b6e3cc25e6.png" group-title="SERIES", Studio Universal
+http://user.tvcluboficial.com/stream/nov/nov/84.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/vKOIx/06a80881a6.png" group-title="SERIES",TNT Series 
+http://user.tvcluboficial.com/stream/nov/nov/757.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/isat.png" group-title="SERIES", I.Sat
+http://user.tvcluboficial.com/stream/nov/nov/153.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="SERIES", AMC
+http://user.tvcluboficial.com/stream/nov/nov/183.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="SERIES", AXN 
+http://user.tvcluboficial.com/stream/nov/nov/804.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="SERIES", ID Discovery
+http://user.tvcluboficial.com/stream/nov/nov/68.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/mw5r2/486241bb2e.png" group-title="SERIES", TruTV
+http://user.tvcluboficial.com/stream/nov/nov/96.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxlife.png" group-title="SERIES",Fox Life Sur
+http://user.tvcluboficial.com/stream/nov/nov/746.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="SERIES", A&E 
+http://user.tvcluboficial.com/stream/nov/nov/734.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="SERIES",Comedy Central Sur
+http://user.tvcluboficial.com/stream/nov/nov/740.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/vKOP3/c19fcde9b2.png" group-title="SERIES",TBS Very Funny
+http://user.tvcluboficial.com/stream/nov/nov/171.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/nsW5e/6bbcc438c7.png" group-title="SERIES",Paramount
+http://user.tvcluboficial.com/stream/nov/nov/200.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://puu.sh/mwqy1/9feaee8770.png" group-title="SERIES",Lifetime
+http://user.tvcluboficial.com/stream/nov/nov/152.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="CINE",HBO
+http://user.tvcluboficial.com/stream/nov/nov/62.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="CINE",HBO 2
+http://user.tvcluboficial.com/stream/nov/nov/300.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="CINE", HBO Plus
+http://user.tvcluboficial.com/stream/nov/nov/64.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="CINE", HBO Family
+http://user.tvcluboficial.com/stream/nov/nov/63.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="CINE", STAR Action
+http://user.tvcluboficial.com/stream/nov/nov/46.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="CINE", STAR Cinema
+http://user.tvcluboficial.com/stream/nov/nov/47.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="CINE", STAR Classics
+http://user.tvcluboficial.com/stream/nov/nov/48.m3u8 
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="CINE", STAR Fun
+http://user.tvcluboficial.com/stream/nov/nov/49.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="CINE", STAR Hits
+http://user.tvcluboficial.com/stream/nov/nov/51.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="CINE", STAR Hits 
+http://user.tvcluboficial.com/stream/nov/nov/747.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="CINE", STAR Series
+http://user.tvcluboficial.com/stream/nov/nov/303.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="CINE", STAR Series
+http://user.tvcluboficial.com/stream/nov/nov/745.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/msJjE/f96602e474.png" group-title="CURIOSIDAD", Nat Geo
+http://user.tvcluboficial.com/stream/nov/nov/76.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="CURIOSIDAD",Discovery Channel 
+http://user.tvcluboficial.com/stream/nov/nov/741.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="CURIOSIDAD", History Channel
+http://user.tvcluboficial.com/stream/nov/nov/67.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="CURIOSIDAD", H2 
+http://user.tvcluboficial.com/stream/nov/nov/760.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="CURIOSIDAD", Discovery H&H
+http://user.tvcluboficial.com/stream/nov/nov/24.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="CURIOSIDAD", Animal Planet
+http://user.tvcluboficial.com/stream/nov/nov/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/mb2Rd/9c56f73248.png" group-title="CURIOSIDAD", Nat Geo Wild
+http://user.tvcluboficial.com/stream/nov/nov/77.m3u8
+
+#EXTINF:-1 tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="CURIOSIDAD", GOURMET TV
+https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/M%C3%A1s_Chic.svg/revision/latest/scale-to-width-down/200?cb=20200114222838&path-prefix=es" group-title="CURIOSIDAD", MAS CHIC
+https://amc-maschic-1.samsung.wurl.com/manifest/8c44a36cdc5ed261301bf8bc6dcddb02.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/glitz.png" group-title="CURIOSIDAD", Glitz
+http://user.tvcluboficial.com/stream/nov/nov/158.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://puu.sh/mbLF3/ceac7e3575.png" group-title="CURIOSIDAD", TLC
+http://user.tvcluboficial.com/stream/nov/nov/87.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="CURIOSIDAD", Discovery SCI
+http://user.tvcluboficial.com/stream/nov/nov/26.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" group-title="CURIOSIDAD", Film & Arts 
+http://user.tvcluboficial.com/stream/nov/nov/149.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverycivilization.png" group-title="CURIOSIDAD",Discovery Civilization
+http://user.tvcluboficial.com/stream/nov/nov/23.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png" group-title="ENTRETENIMIENTO",E!
+http://user.tvcluboficial.com/stream/nov/nov/33.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://puu.sh/maO70/72d9b8319f.png" group-title="ENTRETENIMIENTO", MTV
+http://user.tvcluboficial.com/stream/nov/nov/823.m3u8
+
+
+
+
+
+
