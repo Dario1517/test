@@ -64,38 +64,38 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 http://user.tvcluboficial.com/stream/nov/nov/711.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="DEPORTE", * Fox Sports
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="DEPORTE", Fox Sports
 http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/573
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="DEPORTE", Fox Sports 2
-http://user.tvcluboficial.com/stream/nov/nov/410.m3u8
+http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/2
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="DEPORTE", Fox Sports 3
-http://user.tvcluboficial.com/stream/nov/nov/511.m3u8
+http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/582
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="DEPORTE", ESPN 
-http://user.tvcluboficial.com/stream/nov/nov/34.m3u8
+http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/563
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="DEPORTE", ESPN 2
-http://user.tvcluboficial.com/stream/nov/nov/35.m3u8
+http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/256
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="DEPORTE", ESPN 3
-http://user.tvcluboficial.com/stream/nov/nov/485.m3u8
+http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/570
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="DEPORTE", Discovery Turbo
-http://user.tvcluboficial.com/stream/nov/nov/28.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf_400x400.jpg" group-title="DEPORTE", GOL TV
+http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/283
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="DEPORTE", Fox Sports Premium
-http://user.tvcluboficial.com/stream/nov/nov/658.m3u8
+http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/570
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1410260561212882945/yeUi7tMe_400x400.jpg" group-title="DEPORTE", TNT Sports
-http://user.tvcluboficial.com/stream/nov/nov/509.m3u8
+http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/591
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="DEPORTE", DirectTV Sports
-http://user.tvcluboficial.com/stream/nov/nov/259.m3u8
+http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/30083
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", DirectTV Sports 2
-http://user.tvcluboficial.com/stream/nov/nov/667.m3u8
+http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/560
 
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="INFANTIL", Disney Junior
