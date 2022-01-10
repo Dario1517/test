@@ -64,8 +64,8 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 http://user.tvcluboficial.com/stream/nov/nov/711.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="DEPORTE", Fox Sports
-http://user.tvcluboficial.com/stream/nov/nov/402.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="DEPORTE", * Fox Sports
+http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/573
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="DEPORTE", Fox Sports 2
 http://user.tvcluboficial.com/stream/nov/nov/410.m3u8
