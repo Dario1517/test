@@ -13,6 +13,31 @@ http://ssiptvarg.atwebpages.com/Video_expiro_lista.mp4
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", EXPIRO LISTA
 http://ssiptvarg.atwebpages.com/Video_expiro_lista.mp4
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", action
+http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/261
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", 1
+
+http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/2618
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", 2
+
+http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/2619
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", 3
+http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/2620
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", 4
+http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/2621
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", 5
+http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/2622
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", 6
+http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/2623
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", 7
+http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/2624
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", 8
+http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/2625
+
+
+
 #EXTINF:-1 tvg-id="TN.ar" tvg-country="AR" group-title="NOTICIAS", TODO NOTICIAS       
 https://www.youtube.com/watch?v=wHn1_QVoXGM
 
