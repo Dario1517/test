@@ -17,26 +17,30 @@ http://ssiptvarg.atwebpages.com/Video_expiro_lista.mp4
 http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/2617
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", 1
 
-http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/2618
+http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/1
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", 2
 
-http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/2619
+http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/2
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", 3
-http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/2620
+http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/3
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", 4
-http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/2621
+http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/4
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", 5
-http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/2622
+http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/5
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", 6
-http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/2623
+http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/6
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", 7
-http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/2624
+http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/7
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", 8
-http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/2625
+http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", 9
+http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/9
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", 10
+http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/10
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-country="AR" group-title="NOTICIAS", TODO NOTICIAS       
 https://www.youtube.com/watch?v=wHn1_QVoXGM
