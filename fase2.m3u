@@ -10,6 +10,33 @@ http://ssiptvarg.atwebpages.com/Video_expiro_lista.mp4
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", EXPIRO LISTA
 http://ssiptvarg.atwebpages.com/Video_expiro_lista.mp4
 
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", 101
+http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/100
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", 102
+http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/101
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", 103
+http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/102
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", 104
+http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/103
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", 105
+http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/104
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", 106
+http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/105
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", 107
+http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/106
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", 108
+http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/107
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", 109
+http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/108
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", 110
+http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/109
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", 100
+http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/110
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", merlo tv
 https://stmvideo2.livecastv.com/merlotv/merlotv/playlist.m3u8
 
