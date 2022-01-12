@@ -169,6 +169,9 @@ http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/2913.m3u8
 
 
 
+
+
+
 #EXTINF:-1 tvg-logo="https://puu.sh/mwqrg/e525edd989.png" group-title="SERIES", SyFy 
 http://user.tvcluboficial.com/stream/nov/nov/758.m3u8
 
@@ -214,8 +217,6 @@ http://user.tvcluboficial.com/stream/nov/nov/739.m3u8
 #EXTINF:-1 tvg-logo="https://puu.sh/mbGkk/b6e3cc25e6.png" group-title="SERIES", Studio Universal
 http://user.tvcluboficial.com/stream/nov/nov/84.m3u8
 
-#EXTINF:-1 tvg-logo="https://puu.sh/vKOIx/06a80881a6.png" group-title="SERIES",TNT Series 
-http://user.tvcluboficial.com/stream/nov/nov/757.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/isat.png" group-title="SERIES", I.Sat
 http://user.tvcluboficial.com/stream/nov/nov/153.m3u8
@@ -234,9 +235,6 @@ http://user.tvcluboficial.com/stream/nov/nov/96.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxlife.png" group-title="SERIES",Fox Life Sur
 http://user.tvcluboficial.com/stream/nov/nov/746.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="SERIES", A&E 
-http://user.tvcluboficial.com/stream/nov/nov/734.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="SERIES",Comedy Central Sur
 http://user.tvcluboficial.com/stream/nov/nov/740.m3u8
@@ -263,10 +261,28 @@ http://user.tvcluboficial.com/stream/nov/nov/64.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="CINE", HBO Family
 http://user.tvcluboficial.com/stream/nov/nov/63.m3u8
 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png" group-title="CINE", HBO Extreme
+http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/181.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-signature-hd_m.png" group-title="CINE", HBO Signature
 http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/178.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="CINE",Golden
+http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/3922.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="CINE",Golden Premiere
+http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/3923.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="CINE",Edge
+http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/3924.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-signature-hd_m.png" group-title="SERIES", TNT Series
+http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/304.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="CINE", STAR Action
-http://user.tvcluboficial.com/stream/nov/nov/46.m3u8
+http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/2617
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="CINE", STAR Cinema
 http://user.tvcluboficial.com/stream/nov/nov/47.m3u8
@@ -293,19 +309,19 @@ http://user.tvcluboficial.com/stream/nov/nov/745.m3u8
 http://user.tvcluboficial.com/stream/nov/nov/76.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="CURIOSIDAD",Discovery Channel 
-http://user.tvcluboficial.com/stream/nov/nov/741.m3u8
+http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/392.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="CURIOSIDAD", History Channel
-http://user.tvcluboficial.com/stream/nov/nov/67.m3u8
+http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/391.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="CURIOSIDAD", H2 
 http://user.tvcluboficial.com/stream/nov/nov/760.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="CURIOSIDAD", Discovery H&H
-http://user.tvcluboficial.com/stream/nov/nov/24.m3u8
+http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/386.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="CURIOSIDAD", Animal Planet
-http://user.tvcluboficial.com/stream/nov/nov/3.m3u8
+http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/2171.m3u8
 
 #EXTINF:-1 tvg-logo="https://puu.sh/mb2Rd/9c56f73248.png" group-title="CURIOSIDAD", Nat Geo Wild
 http://user.tvcluboficial.com/stream/nov/nov/77.m3u8
