@@ -20,22 +20,7 @@ http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/101
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", 103
 http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/102
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", 104
-http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/103
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", 105
-http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/104
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", 106
-http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/105
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", 107
-http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/106
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", 108
-http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/107
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", 109
-http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/108
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", 110
-http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/109
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", 100
-http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/110
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", merlo tv
 https://stmvideo2.livecastv.com/merlotv/merlotv/playlist.m3u8
@@ -151,20 +136,20 @@ http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/560
 http://user.tvcluboficial.com/stream/nov/nov/743.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="INFANTIL", Cartoon Network 
-http://user.tvcluboficial.com/stream/nov/nov/737.m3u8
+http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/150.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" group-title="INFANTIL", Disney Channel
-http://user.tvcluboficial.com/stream/nov/nov/29.m3u8
+http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/139.m3u8
 
 #EXTINF:-1 tvg-logo="https://puu.sh/mw51W/3b10c832dd.png" group-title="INFANTIL", Nick
 http://user.tvcluboficial.com/stream/nov/nov/78.m3u8   
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/boomerang.png" group-title="INFANTIL", Cartoonito
-http://user.tvcluboficial.com/stream/nov/nov/735.m3u8
+http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/142.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png" group-title="INFANTIL", Disney XD 
-http://user.tvcluboficial.com/stream/nov/nov/744.m3u8
+http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/160.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="INFANTIL", Discovery Kids
 http://user.tvcluboficial.com/stream/nov/nov/25.m3u8
@@ -174,13 +159,13 @@ http://user.tvcluboficial.com/stream/nov/nov/412.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://puu.sh/mw57k/d21813a8f6.png" group-title="INFANTIL", Nick JR
-http://user.tvcluboficial.com/stream/nov/nov/79.m3u8
+http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/1744.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/babytv.png" group-title="INFANTIL", Baby TV
-http://user.tvcluboficial.com/stream/nov/nov/7.m3u8
+http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/3926.m3u8
 
 #EXTINF:-1 tvg-logo="https://puu.sh/mw5oi/09350aa9a0.png" group-title="INFANTIL", Tooncast
-http://user.tvcluboficial.com/stream/nov/nov/95.m3u8
+http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/2913.m3u8
 
 
 
@@ -277,6 +262,8 @@ http://user.tvcluboficial.com/stream/nov/nov/64.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="CINE", HBO Family
 http://user.tvcluboficial.com/stream/nov/nov/63.m3u8
+
+http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/178.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="CINE", STAR Action
 http://user.tvcluboficial.com/stream/nov/nov/46.m3u8
