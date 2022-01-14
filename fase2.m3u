@@ -4,6 +4,9 @@
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", EXPIRO LISTA
 http://ssiptvarg.atwebpages.com/Video_expiro_lista.mp4
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", XXX
+http://compitv.info:8080/movie/Ulises45/gH8ZpaSLqx/210427.mkv
+
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/962300034661396481/OzHK6TZr_400x400.jpg" group-title="NOTICIAS", TODO NOTICIAS       
 http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/7498
@@ -19,6 +22,8 @@ http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/17827
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", merlo tv
 https://stmvideo2.livecastv.com/merlotv/merlotv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1458611383570993154/J-uHPy2t_400x400.jpg" group-title="AMBA", TV PUBLICA - 23.2
+https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8  
 
 
 
@@ -103,7 +108,7 @@ http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/226.m3u8
 http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/221.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="DEPORTE", Fox Sports 2
-http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/2
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/205202
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="DEPORTE", Fox Sports 3
 http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/2129.m3u8
@@ -113,10 +118,10 @@ http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/2129.m3u8
 http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/210.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1410260561212882945/yeUi7tMe_400x400.jpg" group-title="DEPORTE", TNT Sports
-http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/591
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/174644
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="DEPORTE", Fox Sports Premium
-http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/3113
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/106575
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="DEPORTE", DirectTV Sports
 http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/234.m3u8
@@ -126,7 +131,7 @@ http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/219.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="INFANTIL", Disney Junior
-http://user.tvcluboficial.com/stream/nov/nov/743.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/47839
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="INFANTIL", Cartoon Network 
 http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/150.m3u8
@@ -135,7 +140,7 @@ http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/150.m3u8
 http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/139.m3u8
 
 #EXTINF:-1 tvg-logo="https://puu.sh/mw51W/3b10c832dd.png" group-title="INFANTIL", Nick
-http://user.tvcluboficial.com/stream/nov/nov/78.m3u8   
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/47834
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/boomerang.png" group-title="INFANTIL", Cartoonito
 http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/142.m3u8
@@ -145,10 +150,10 @@ http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/142.m3u8
 http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/160.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="INFANTIL", Discovery Kids
-http://user.tvcluboficial.com/stream/nov/nov/25.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/47847
 
 #EXTINF:-1 tvg-logo="https://puu.sh/wZVOI/399ecc3f7e.png" group-title="INFANTIL", Nat Geo Kids
-http://user.tvcluboficial.com/stream/nov/nov/412.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/47835
 
 
 #EXTINF:-1 tvg-logo="https://puu.sh/mw57k/d21813a8f6.png" group-title="INFANTIL", Nick JR
@@ -166,93 +171,93 @@ http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/2913.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://puu.sh/mwqrg/e525edd989.png" group-title="SERIES", SyFy 
-http://user.tvcluboficial.com/stream/nov/nov/758.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/47733
 
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="SERIES", FX Sur
-http://user.tvcluboficial.com/stream/nov/nov/749.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="SERIES", FX
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/47695
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="SERIES", STAR CHANNEL
-http://user.tvcluboficial.com/stream/nov/nov/750.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/47736
 
 
 #EXTINF:-1 tvg-logo="https://puu.sh/monkP/4502e76205.png" group-title="SERIES", Universal
-http://user.tvcluboficial.com/stream/nov/nov/137.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/47703
 
 
 #EXTINF:-1 tvg-logo="https://puu.sh/reX9a/e5e9972612.png" group-title="SERIES", Space
-http://user.tvcluboficial.com/stream/nov/nov/751.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/47788
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="SERIES", Cinecanal
-http://user.tvcluboficial.com/stream/nov/nov/738.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/47762
 
 #EXTINF:-1 tvg-logo="https://puu.sh/vKP8k/b5666df9d4.png" group-title="SERIES", TNT 
-http://user.tvcluboficial.com/stream/nov/nov/752.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/47772
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/fxm.png" group-title="SERIES",FX Movies
-http://user.tvcluboficial.com/stream/nov/nov/43.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/47724
 
 
 #EXTINF:-1 tvg-logo="https://puu.sh/mP1b6/411b64dc27.png" group-title="SERIES",TCM
-http://user.tvcluboficial.com/stream/nov/nov/85.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/47747
 
 
 #EXTINF:-1 tvg-logo="https://puu.sh/mwdML/61aec19cb5.png" group-title="SERIES", Warner Channel
-http://user.tvcluboficial.com/stream/nov/nov/759.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/47692
 
 
 #EXTINF:-1 tvg-logo="https://puu.sh/msGV1/093178617f.png" group-title="SERIES", Sony
-http://user.tvcluboficial.com/stream/nov/nov/145.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/47743
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="SERIES", Cinemax 
-http://user.tvcluboficial.com/stream/nov/nov/739.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/253004
 
 #EXTINF:-1 tvg-logo="https://puu.sh/mbGkk/b6e3cc25e6.png" group-title="SERIES", Studio Universal
-http://user.tvcluboficial.com/stream/nov/nov/84.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/253103
 
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/isat.png" group-title="SERIES", I.Sat
-http://user.tvcluboficial.com/stream/nov/nov/153.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/253064
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="SERIES", AMC
-http://user.tvcluboficial.com/stream/nov/nov/183.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/252987
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="SERIES", AXN 
-http://user.tvcluboficial.com/stream/nov/nov/804.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/47746
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="SERIES", ID Discovery
-http://user.tvcluboficial.com/stream/nov/nov/68.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/252442
 
 #EXTINF:-1 tvg-logo="https://puu.sh/mw5r2/486241bb2e.png" group-title="SERIES", TruTV
-http://user.tvcluboficial.com/stream/nov/nov/96.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/47711
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxlife.png" group-title="SERIES",Fox Life Sur
-http://user.tvcluboficial.com/stream/nov/nov/746.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/253024
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="SERIES",Comedy Central Sur
-http://user.tvcluboficial.com/stream/nov/nov/740.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/47728
 
 #EXTINF:-1 tvg-logo="https://puu.sh/vKOP3/c19fcde9b2.png" group-title="SERIES",TBS Very Funny
-http://user.tvcluboficial.com/stream/nov/nov/171.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/47688
 
 #EXTINF:-1 tvg-logo="https://puu.sh/nsW5e/6bbcc438c7.png" group-title="SERIES",Paramount
-http://user.tvcluboficial.com/stream/nov/nov/200.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/253074
 
 
 #EXTINF:-1 tvg-logo="https://puu.sh/mwqy1/9feaee8770.png" group-title="SERIES",Lifetime
-http://user.tvcluboficial.com/stream/nov/nov/152.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/47767
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="CINE",HBO
-http://user.tvcluboficial.com/stream/nov/nov/62.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/47784
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="CINE",HBO 2
-http://user.tvcluboficial.com/stream/nov/nov/300.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/47700
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="CINE", HBO Plus
-http://user.tvcluboficial.com/stream/nov/nov/64.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/47794
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="CINE", HBO Family
-http://user.tvcluboficial.com/stream/nov/nov/63.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/47773
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png" group-title="CINE", HBO Extreme
 http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/181.m3u8
@@ -275,28 +280,24 @@ http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/304.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="CINE", STAR Action
-http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/2617
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/47793
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="CINE", STAR Cinema
-http://user.tvcluboficial.com/stream/nov/nov/47.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/47765
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="CINE", STAR Classics
-http://user.tvcluboficial.com/stream/nov/nov/48.m3u8 
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/47766
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="CINE", STAR Fun
-http://user.tvcluboficial.com/stream/nov/nov/49.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/47795
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="CINE", STAR Hits
-http://user.tvcluboficial.com/stream/nov/nov/51.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="CINE", STAR Hits 
-http://user.tvcluboficial.com/stream/nov/nov/747.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/47775
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="CINE", STAR Series
-http://user.tvcluboficial.com/stream/nov/nov/303.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/47725
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="CINE", STAR Series
-http://user.tvcluboficial.com/stream/nov/nov/745.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://puu.sh/msJjE/f96602e474.png" group-title="CURIOSIDAD", Nat Geo
 http://user.tvcluboficial.com/stream/nov/nov/76.m3u8
