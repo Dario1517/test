@@ -300,25 +300,25 @@ http://compitv.info:8080/Ulises45/gH8ZpaSLqx/47725
 
 
 #EXTINF:-1 tvg-logo="https://puu.sh/msJjE/f96602e474.png" group-title="CURIOSIDAD", Nat Geo
-http://user.tvcluboficial.com/stream/nov/nov/76.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/252469
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="CURIOSIDAD",Discovery Channel 
-http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/392.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/252436
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="CURIOSIDAD", History Channel
-http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/391.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/252458
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="CURIOSIDAD", H2 
-http://user.tvcluboficial.com/stream/nov/nov/760.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/252460
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="CURIOSIDAD", Discovery H&H
-http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/386.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/252439
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="CURIOSIDAD", Animal Planet
-http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/2171.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/252428
 
 #EXTINF:-1 tvg-logo="https://puu.sh/mb2Rd/9c56f73248.png" group-title="CURIOSIDAD", Nat Geo Wild
-http://user.tvcluboficial.com/stream/nov/nov/77.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/252466
 
 #EXTINF:-1 tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="CURIOSIDAD", GOURMET TV
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
@@ -328,32 +328,27 @@ https://amc-maschic-1.samsung.wurl.com/manifest/8c44a36cdc5ed261301bf8bc6dcddb02
 
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/glitz.png" group-title="CURIOSIDAD", Glitz
-http://user.tvcluboficial.com/stream/nov/nov/158.m3u8
-
-
-
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/252457
 
 #EXTINF:-1 tvg-logo="https://puu.sh/mbLF3/ceac7e3575.png" group-title="CURIOSIDAD", TLC
-http://user.tvcluboficial.com/stream/nov/nov/87.m3u8
-
-
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/252472
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="CURIOSIDAD", Discovery SCI
-http://user.tvcluboficial.com/stream/nov/nov/26.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/252443
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" group-title="CURIOSIDAD", Film & Arts 
-http://user.tvcluboficial.com/stream/nov/nov/149.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/252455
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverycivilization.png" group-title="CURIOSIDAD",Discovery Civilization
-http://user.tvcluboficial.com/stream/nov/nov/23.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/252438
 
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png" group-title="ENTRETENIMIENTO",E!
-http://user.tvcluboficial.com/stream/nov/nov/33.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/252452
 
 
 #EXTINF:-1 tvg-logo="https://puu.sh/maO70/72d9b8319f.png" group-title="ENTRETENIMIENTO", MTV
-http://user.tvcluboficial.com/stream/nov/nov/823.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/68215
 
 
 
