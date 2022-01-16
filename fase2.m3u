@@ -14,14 +14,7 @@ https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
 https://59537faa0729a.streamlock.net:443/canal6mdp/canal6mdp/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="TN.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/962300034661396481/OzHK6TZr_400x400.jpg" group-title="NOTICIAS", TODO NOTICIAS       
-http://compitv.info:8080/Ulises45/gH8ZpaSLqx/64694
 
-#EXTINF:-1 tvg-id="C5N.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1409536579127939080/GqY-VqhM_400x400.jpg" group-title="NOTICIAS", C5N  25.2
-http://compitv.info:8080/Ulises45/gH8ZpaSLqx/64708
-
-#EXTINF:-1 tvg-id="LNPlus.ar" tvg-country="AR"  tvg-logo="https://pbs.twimg.com/profile_images/1421221924580044800/YV3QcaCT_400x400.jpg" group-title="NOTICIAS", LN+  25.3
-http://compitv.info:8080/Ulises45/gH8ZpaSLqx/286772
 
 
 
