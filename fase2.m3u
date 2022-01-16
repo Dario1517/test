@@ -105,17 +105,41 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/311/311523.png" group-title="CINE", TELECARPINCHO
 http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/2617
 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="SERIES", A&E
+http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/3920.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png" group-title="CINE", HBO Extreme
+http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/181.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-signature-hd_m.png" group-title="CINE", HBO Signature
+http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/178.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="CINE",Golden
+http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/3922.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="CINE",Golden Premiere
+http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/3923.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="CINE",Edge
+http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/3924.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-signature-hd_m.png" group-title="SERIES", TNT Series
+http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/304.m3u8
+
 
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="DEPORTE", ESPN 
-http://tv.streamid.ga:8080/castillo/hW9e1RUHtU/563
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/47674
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="DEPORTE", ESPN 2
-http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/1704.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/47678
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="DEPORTE", ESPN 3
 http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/226.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="DEPORTE", ESPN EXTRA
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/283627
 
 
 
@@ -134,7 +158,7 @@ http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/2129.m3u8
 http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/210.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1410260561212882945/yeUi7tMe_400x400.jpg" group-title="DEPORTE", TNT Sports
-http://compitv.info:8080/Ulises45/gH8ZpaSLqx/174644
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/278537
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="DEPORTE", Fox Sports Premium
 http://compitv.info:8080/Ulises45/gH8ZpaSLqx/106575
@@ -275,23 +299,7 @@ http://compitv.info:8080/Ulises45/gH8ZpaSLqx/47794
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="CINE", HBO Family
 http://compitv.info:8080/Ulises45/gH8ZpaSLqx/47773
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png" group-title="CINE", HBO Extreme
-http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/181.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-signature-hd_m.png" group-title="CINE", HBO Signature
-http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/178.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="CINE",Golden
-http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/3922.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="CINE",Golden Premiere
-http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/3923.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="CINE",Edge
-http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/3924.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-signature-hd_m.png" group-title="SERIES", TNT Series
-http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/304.m3u8
 
 
 
@@ -365,8 +373,4 @@ http://compitv.info:8080/Ulises45/gH8ZpaSLqx/252452
 
 #EXTINF:-1 tvg-logo="https://puu.sh/maO70/72d9b8319f.png" group-title="ENTRETENIMIENTO", MTV
 http://compitv.info:8080/Ulises45/gH8ZpaSLqx/68215
-
-
-
-
 
