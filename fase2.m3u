@@ -72,7 +72,7 @@ https://d2r6nlw8e5ph9i.cloudfront.net/elnueve/smil:elnueve.smil/chunklist_b22000
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", CIUDAD MAGAZINE
-https://g1.mc-hor.transport.edge-access.net/b06/ngrp:magazine_live01-100083_all/Playlist.m3u8
+https://g2.vxral-slo.transport.edge-access.net/b06/ngrp:magazine_live01-100083_all/magazine_live01-100083_128Kp.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="PAMPEANA", AIREVISION
 http://airevision.ddns.net:1935/live/myStream/playlist.m3u8
