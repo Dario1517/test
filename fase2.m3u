@@ -136,6 +136,10 @@ http://videostream.shockmedia.com.ar:1935/fmiberoamerica/fmiberoamerica/playlist
 https://stmvideo2.livecastv.com/launotv/launotv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://www.maxifuneslocutor.com.ar/images/banners/55_1632250051.jpeg" group-title="CORDOBA", FM MAS TV LA CARLOTA CORDOBA
+http://streamlov.alsolnet.com/fmmastv/live/playlist.m3u8
+
+
 
 
 
