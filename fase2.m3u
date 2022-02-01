@@ -1,21 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="Claro:Star Action HD" tvg-logo="https://i.imgur.com/G4rwh6O.jpg" group-title="Claro Tv ",Claro:Star Action HD
-http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/23594
-#EXTINF:-1 tvg-id="" tvg-name="Claro:Star Cinema HD" tvg-logo="https://i.imgur.com/pQzMKei.png" group-title="Claro Tv ",Claro:Star Cinema HD
-http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/23549
-#EXTINF:-1 tvg-id="" tvg-name="Claro:Star Classics HD" tvg-logo="https://i.imgur.com/PtMuIXi.jpg" group-title="Claro Tv ",Claro:Star Classics HD
-http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/23550
-#EXTINF:-1 tvg-id="" tvg-name="Claro:Star Comedy HD" tvg-logo="https://i.imgur.com/9djkXK5.png" group-title="Claro Tv ",Claro:Star Comedy HD
-http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/23580
-#EXTINF:-1 tvg-id="" tvg-name="Claro:Star Fun HD" tvg-logo="https://i.imgur.com/YTOItqs.png" group-title="Claro Tv ",Claro:Star Fun HD
-http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/23596
-#EXTINF:-1 tvg-id="" tvg-name="Claro:Star Hits HD" tvg-logo="https://i.imgur.com/YObBY4Z.jpg" group-title="Claro Tv ",Claro:Star Hits HD
-http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/23566
-#EXTINF:-1 tvg-id="" tvg-name="Claro:Star Fun" tvg-logo="https://i.imgur.com/YTOItqs.png" group-title="Claro Tv ",Claro:Star Fun
-http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/23487
-#EXTINF:-1 tvg-id="" tvg-name="Claro:Star Hits" tvg-logo="https://i.imgur.com/YObBY4Z.jpg" group-title="Claro Tv ",Claro:Star Hits
-http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/23488
+#EXTINF:-1 tvg-id="aztecanoticias.mx" tvg-name="• DM | Star Action 434" tvg-logo="https://i.imgur.com/G4rwh6O.jpg" group-title="MEX | MEX",• DM | Star Action 434
+http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/73070
+#EXTINF:-1 tvg-id="aztecanoticias.mx" tvg-name="• DM | Star Cinema 446" tvg-logo="https://i.imgur.com/pQzMKei.png" group-title="MEX | MEX",• DM | Star Cinema 446
+http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/73071
+#EXTINF:-1 tvg-id="aztecanoticias.mx" tvg-name="• DM | Star Classics 450" tvg-logo="https://i.imgur.com/PtMuIXi.jpg" group-title="MEX | MEX",• DM | Star Classics 450
+http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/71711
+#EXTINF:-1 tvg-id="foxfamily.mx" tvg-name="• DM | Star Fun 438" tvg-logo="https://i.imgur.com/YTOItqs.png" group-title="MEX | MEX",• DM | Star Fun 438
+http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/71710
+#EXTINF:-1 tvg-id="foxlife.mx" tvg-name="• DM | Star LIFE 244" tvg-logo="https://i.imgur.com/z2E1Ofs.jpg" group-title="MEX | MEX",• DM | Star LIFE 244
+http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/73075
+#EXTINF:-1 tvg-id="foxmovies.mx" tvg-name="• DM | Star Hits 430" tvg-logo="https://i.imgur.com/YObBY4Z.jpg" group-title="MEX | MEX",• DM | Star Hits 430
+http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/73082
+#EXTINF:-1 tvg-id="fox1.mx" tvg-name="• DM | Fox Premium Series Oeste 426" tvg-logo="http://mylatinotv.com:8080/images/mexico/foxseries.png" group-title="MEX | MEX",• DM | Fox Premium Series Oeste 426
+http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/71730
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", EXPIRO LISTA
