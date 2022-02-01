@@ -1,19 +1,27 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="aztecanoticias.mx" tvg-name="• DM | Star Action 434" tvg-logo="https://i.imgur.com/G4rwh6O.jpg" group-title="MEX | MEX",• DM | Star Action 434
-http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/73070
-#EXTINF:-1 tvg-id="aztecanoticias.mx" tvg-name="• DM | Star Cinema 446" tvg-logo="https://i.imgur.com/pQzMKei.png" group-title="MEX | MEX",• DM | Star Cinema 446
-http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/73071
-#EXTINF:-1 tvg-id="aztecanoticias.mx" tvg-name="• DM | Star Classics 450" tvg-logo="https://i.imgur.com/PtMuIXi.jpg" group-title="MEX | MEX",• DM | Star Classics 450
-http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/71711
-#EXTINF:-1 tvg-id="foxfamily.mx" tvg-name="• DM | Star Fun 438" tvg-logo="https://i.imgur.com/YTOItqs.png" group-title="MEX | MEX",• DM | Star Fun 438
-http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/71710
-#EXTINF:-1 tvg-id="foxlife.mx" tvg-name="• DM | Star LIFE 244" tvg-logo="https://i.imgur.com/z2E1Ofs.jpg" group-title="MEX | MEX",• DM | Star LIFE 244
-http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/73075
-#EXTINF:-1 tvg-id="foxmovies.mx" tvg-name="• DM | Star Hits 430" tvg-logo="https://i.imgur.com/YObBY4Z.jpg" group-title="MEX | MEX",• DM | Star Hits 430
-http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/73082
-#EXTINF:-1 tvg-id="fox1.mx" tvg-name="• DM | Fox Premium Series Oeste 426" tvg-logo="http://mylatinotv.com:8080/images/mexico/foxseries.png" group-title="MEX | MEX",• DM | Fox Premium Series Oeste 426
-http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/71730
+#EXTINF:-1 tvg-id="CLARO2: FOX ACTION  Mexico HD" tvg-name="Lat | Star Action HD" tvg-logo="https://i.imgur.com/G4rwh6O.jpg" group-title="CINEMA LATINO",Lat | Star Action HD
+http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/19351
+#EXTINF:-1 tvg-id="CLARO2: FOX PREMIUM ACTION" tvg-name="Lat | Star Action HD" tvg-logo="https://i.imgur.com/G4rwh6O.jpg" group-title="CINEMA LATINO",Lat | Star Action HD
+http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/19457
+#EXTINF:-1 tvg-id="CLARO2: FOX CINEMA HD" tvg-name="Lat | Star Cinema HD" tvg-logo="https://i.imgur.com/pQzMKei.png" group-title="CINEMA LATINO",Lat | Star Cinema HD
+http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/19360
+#EXTINF:-1 tvg-id="~ SD FOX CLASSICS" tvg-name="Lat | Star Classics HD" tvg-logo="https://i.imgur.com/PtMuIXi.jpg" group-title="CINEMA LATINO",Lat | Star Classics HD
+http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/19361
+#EXTINF:-1 tvg-id="FOX COMEDY VIP HD" tvg-name="Lat | Star Comedy HD" tvg-logo="https://i.imgur.com/9djkXK5.png" group-title="CINEMA LATINO",Lat | Star Comedy HD
+http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/19337
+#EXTINF:-1 tvg-id="CLARO2: FOX HD" tvg-name="Lat | Fox HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox_m.png" group-title="CINEMA LATINO",Lat | Fox HD
+http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/19427
+#EXTINF:-1 tvg-id="CLARO2: FOX LIFE HD" tvg-name="Lat | Star Life HD" tvg-logo="https://i.imgur.com/z2E1Ofs.jpg" group-title="CINEMA LATINO",Lat | Star Life HD
+http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/19365
+#EXTINF:-1 tvg-id="CLARO2: FOX MOVIES HD" tvg-name="Lat | Star Hits HD" tvg-logo="https://i.imgur.com/YObBY4Z.jpg" group-title="CINEMA LATINO",Lat | Star Hits HD
+http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/19377
+#EXTINF:-1 tvg-id="~ (FHD) CV FOX Movies" tvg-name="Lat | Star Hits HD" tvg-logo="https://i.imgur.com/YObBY4Z.jpg" group-title="CINEMA LATINO",Lat | Star Hits HD
+http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/81638
+#EXTINF:-1 tvg-id="" tvg-name="Lat | Star Hits Opc 1" tvg-logo="https://i.imgur.com/YObBY4Z.jpg" group-title="CINEMA LATINO",Lat | Star Hits Opc 1
+http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/19459
+#EXTINF:-1 tvg-id="~ HD Fox Movies" tvg-name="Lat | Star Hits Opc 1" tvg-logo="https://i.imgur.com/YObBY4Z.jpg" group-title="CINEMA LATINO",Lat | Star Hits Opc 1
+http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/81650
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", EXPIRO LISTA
