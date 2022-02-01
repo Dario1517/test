@@ -1,40 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="~ SD FOX CINEMA" tvg-name="MX | Star Cinema" tvg-logo="https://i.imgur.com/pQzMKei.png" group-title="MX Prueba",MX | Star Cinema
-http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/1165049
-#EXTINF:-1 tvg-id="~ HD Fox Action" tvg-name="MX | Star Hits" tvg-logo="https://i.imgur.com/YObBY4Z.jpg" group-title="MX Prueba",MX | Star Hits
-http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/1165050
 
-#EXTINF:-1 tvg-id="~ SD FOX ACTION" tvg-name="MX | Star Action" tvg-logo="https://i.imgur.com/G4rwh6O.jpg" group-title="MX Prueba",MX | Star Action
-http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/1165103
-#EXTINF:-1 tvg-id="~ SD FOX CLASSICS" tvg-name="MX | Star Classics" tvg-logo="https://i.imgur.com/PtMuIXi.jpg" group-title="MX Prueba",MX | Star Classics
-http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/1165104
-#EXTINF:-1 tvg-id="CLARO2: FOX COMEDY HD" tvg-name="MX | Star Comedy" tvg-logo="https://i.imgur.com/9djkXK5.png" group-title="MX Prueba",MX | Star Comedy
-http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/1165105
-#EXTINF:-1 tvg-id="FOX COMEDY VIP HD" tvg-name="MX | Star Fun" tvg-logo="https://i.imgur.com/YTOItqs.png" group-title="MX Prueba",MX | Star Fun
-http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/1165106
-#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="MX | Star Life" tvg-logo="https://i.imgur.com/z2E1Ofs.jpg" group-title="MX Prueba",MX | Star Life
-http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/1165107
-#EXTINF:-1 tvg-id="~ HD Fox Series" tvg-name="MX | Star Series" tvg-logo="https://i.imgur.com/839v7v0.jpg" group-title="MX Prueba",MX | Star Series
-http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/1165108
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT || Star Action" tvg-logo="https://i.imgur.com/G4rwh6O.jpg" group-title="Latinos Sur",LAT || Star Action
-http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/1165204
-#EXTINF:-1 tvg-id="" tvg-name="LAT || Star Cinema" tvg-logo="https://i.imgur.com/pQzMKei.png" group-title="Latinos Sur",LAT || Star Cinema
-http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/1165205
-#EXTINF:-1 tvg-id="" tvg-name="LAT || Star Classics" tvg-logo="https://i.imgur.com/PtMuIXi.jpg" group-title="Latinos Sur",LAT || Star Classics
-http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/1165206
-#EXTINF:-1 tvg-id="" tvg-name="LAT || Star Comedy" tvg-logo="https://i.imgur.com/9djkXK5.png" group-title="Latinos Sur",LAT || Star Comedy
-http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/1165207
-#EXTINF:-1 tvg-id="" tvg-name="LAT || Star Fun" tvg-logo="https://i.imgur.com/YTOItqs.png" group-title="Latinos Sur",LAT || Star Fun
-http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/1165208
-#EXTINF:-1 tvg-id="" tvg-name="LAT || Star Fun OESTE" tvg-logo="https://i.imgur.com/YTOItqs.png" group-title="Latinos Sur",LAT || Star Fun OESTE
-http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/1165209
-#EXTINF:-1 tvg-id="" tvg-name="LAT || Star Hits" tvg-logo="https://i.imgur.com/YObBY4Z.jpg" group-title="Latinos Sur",LAT || Star Hits
-http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/1165210
-#EXTINF:-1 tvg-id="" tvg-name="LAT || FOX PREMIUM SERIES" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/FOXSeries.png" group-title="Latinos Sur",LAT || FOX PREMIUM SERIES
-http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/1165211
-#EXTINF:-1 tvg-id="" tvg-name="LAT || FOX PREMIUM SERIES OESTE" tvg
 
 
 
