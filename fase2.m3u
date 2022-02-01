@@ -1,25 +1,36 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="FHD | Star Action" tvg-logo="http://51.222.105.31:8080/images/5d57729ca24eba9b496b2b0c20462ce6.png" group-title="VIP FHD",FHD | Star Action
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204351
-#EXTINF:-1 tvg-id="" tvg-name="FHD | Star Cinema" tvg-logo="http://51.222.105.31:8080/images/9da5f8cc60e7cc36d07332d10cbe2277.png" group-title="VIP FHD",FHD | Star Cinema
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204352
-#EXTINF:-1 tvg-id="" tvg-name="FHD | Star Hits" tvg-logo="http://51.222.105.31:8080/images/5f1067d30a2bbee3696deae4ad4a1a7c.png" group-title="VIP FHD",FHD | Star Hits
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204353
-#EXTINF:-1 tvg-id="" tvg-name="FHD | Space" tvg-logo="http://51.222.105.31:8080/images/0c2cd7bd8e960dfe417f38338c1dcfaf.png" group-title="VIP FHD",FHD | Space
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204354
-#EXTINF:-1 tvg-id="" tvg-name="FHD | TNT" tvg-logo="http://51.222.105.31:8080/images/5e13b5b330794e2d05928d099d235e0b.png" group-title="VIP FHD",FHD | TNT
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204355
-#EXTINF:-1 tvg-id="" tvg-name="FHD | TNT Series" tvg-logo="http://51.222.105.31:8080/images/afc187d5d9aa070833987c9f0624c0f3.png" group-title="VIP FHD",FHD | TNT Series
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204356
-#EXTINF:-1 tvg-id="" tvg-name="FHD | Warner Channel" tvg-logo="http://51.222.105.31:8080/images/1660885848050e9ca9746ddd54e2de25.png" group-title="VIP FHD",FHD | Warner Channel
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204357
-#EXTINF:-1 tvg-id="" tvg-name="FHD | Universal Channel" tvg-logo="http://51.222.105.31:8080/images/9302226b74ae4795cf34cbc462f9090d.png" group-title="VIP FHD",FHD | Universal Channel
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204358
-#EXTINF:-1 tvg-id="" tvg-name="FHD | MTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGjyQ6gkbpHC22svY9Xq3qZeBeoitkzf3oZAXezTccJboll9RitOskueNXYuGyV2Dulkc&usqp=CAU" group-title="VIP FHD",FHD | MTV
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204359
-#EXTINF:-1 tvg-id="" tvg-name="FHD | VH1" tvg-logo="http://51.222.105.31:8080/images/df550d9fc36007064d00d63f1dbe28c6.png" group-title="VIP FHD",FHD | VH1
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204360
+#EXTINF:-1 tvg-id="axn.mx" tvg-name="CAN SD: STAR COMEDY" tvg-logo="http://51.222.105.31:8080/images/c90b0a554c5db8936f4a1af4802c1c8c.png" group-title="CANALES SD│Latin",CAN SD: STAR COMEDY
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204443
+
+#EXTINF:-1 tvg-id="" tvg-name="CAN SD: STAR Classics" tvg-logo="http://51.222.105.31:8080/images/db8af6f8753a72aaf3230903dd3a714b.png" group-title="CANALES SD│Latin",CAN SD: STAR Classics
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204491
+#EXTINF:-1 tvg-id="" tvg-name="CAN SD: STAR FUN" tvg-logo="http://51.222.105.31:8080/images/bb47e24602a32401aceec088df048e0f.png" group-title="CANALES SD│Latin",CAN SD: STAR FUN
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204494
+#EXTINF:-1 tvg-id="" tvg-name="CAN SD: STAR CINEMA" tvg-logo="http://51.222.105.31:8080/images/1a3ed908b6a5b611a716ffe0166ba2b4.png" group-title="CANALES SD│Latin",CAN SD: STAR CINEMA
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204495
+#EXTINF:-1 tvg-id="" tvg-name="CAN SD: Star Hits" tvg-logo="http://51.222.105.31:8080/images/5f1067d30a2bbee3696deae4ad4a1a7c.png" group-title="CANALES SD│Latin",CAN SD: Star Hits
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204496
+#EXTINF:-1 tvg-id="" tvg-name="CAN SD: STAR Series" tvg-logo="http://51.222.105.31:8080/images/f25be16cd3b679f0e13b84514a6ab060.png" group-title="CANALES SD│Latin",CAN SD: STAR Series
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204497
+#EXTINF:-1 tvg-id="" tvg-name="CAN SD: Golden premier" tvg-logo="http://51.222.105.31:8080/images/d12229d8625abaddf12d0fde6d513615.png" group-title="CANALES SD│Latin",CAN SD: Golden premier
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204499
+#EXTINF:-1 tvg-id="" tvg-name="CAN SD: Golden Edge" tvg-logo="http://51.222.105.31:8080/images/6ef349656aadc3e80a5be1c33da08a9c.png" group-title="CANALES SD│Latin",CAN SD: Golden Edge
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204500
+#EXTINF:-1 tvg-id="" tvg-name="CAN SD: HBO" tvg-logo="http://51.222.105.31:8080/images/4c77b58733a09c26f2d0eb969690785b.png" group-title="CANALES SD│Latin",CAN SD: HBO
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204501
+#EXTINF:-1 tvg-id="" tvg-name="CAN SD: HBO" tvg-logo="http://51.222.105.31:8080/images/4c77b58733a09c26f2d0eb969690785b.png" group-title="CANALES SD│Latin",CAN SD: HBO
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204502
+#EXTINF:-1 tvg-id="" tvg-name="CAN SD: HBO Family" tvg-logo="http://51.222.105.31:8080/images/41b3f811912abcf91f8f85803f6384f4.png" group-title="CANALES SD│Latin",CAN SD: HBO Family
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204504
+#EXTINF:-1 tvg-id="" tvg-name="CAN SD: HBO Mundi" tvg-logo="http://51.222.105.31:8080/images/b768a960b697ac358d3c4c7d21b7a6c8.png" group-title="CANALES SD│Latin",CAN SD: HBO Mundi
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204505
+#EXTINF:-1 tvg-id="" tvg-name="CAN SD: HBO Plus" tvg-logo="http://51.222.105.31:8080/images/bbbdae62464d42b3aeb59a3873fb0284.png" group-title="CANALES SD│Latin",CAN SD: HBO Plus
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204506
+#EXTINF:-1 tvg-id="" tvg-name="CAN SD: HBO plus" tvg-logo="http://51.222.105.31:8080/images/bbbdae62464d42b3aeb59a3873fb0284.png" group-title="CANALES SD│Latin",CAN SD: HBO plus
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204507
+#EXTINF:-1 tvg-id="" tvg-name="CAN SD: HBO Signature" tvg-logo="http://51.222.105.31:8080/images/0d52ce103d5251352ff1a06623798c2e.png" group-title="CANALES SD│Latin",CAN SD: HBO Signature
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204508
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", EXPIRO LISTA
