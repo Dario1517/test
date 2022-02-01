@@ -113,14 +113,11 @@ https://vivo.solumedia.com:19360/oneplaytv/oneplaytv.m3u8
 #EXTINF:-1 tvg-logo="http://www.urbanaolavarria.com.ar/img/BANNER.png" group-title="PAMPEANA", URBANA TV OLAVARRIA
 https://videohd.live:19360/8042/8042.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.urbana98.com/uploads/logo/logo_5f8f30311e770.png" group-title="PAMPEANA", SEÑAL URBANA TV VERONICA
-https://stmvideo2.livecastv.com/urbana98/urbana98/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio17226_1475156823.png" group-title="PAMPEANA", FM IBEROAMERICA 100.3 MAR DEL PLATA
 http://videostream.shockmedia.com.ar:1935/fmiberoamerica/fmiberoamerica/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://launotv.com.ar/templates/default/images/logo.png" group-title="PAMPEANA", RADIO UNO 95.1 FM - AMERICA  RIVADAVIA  
-https://stmvideo2.livecastv.com/launotv/launotv/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="http://www.maxifuneslocutor.com.ar/images/banners/55_1632250051.jpeg" group-title="CORDOBA", FM MAS TV LA CARLOTA CORDOBA
