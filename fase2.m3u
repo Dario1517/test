@@ -1,31 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="MX || Star Action HD" tvg-logo="https://i.imgur.com/G4rwh6O.jpg" group-title="CINEMA LATINO",MX || Star Action HD
-http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/81873
-#EXTINF:-1 tvg-id="~ SD FOX ACTION" tvg-name="MX || Star Action SD" tvg-logo="https://i.imgur.com/G4rwh6O.jpg" group-title="CINEMA LATINO",MX || Star Action SD
-http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/81705
-#EXTINF:-1 tvg-id="FOX ACTION VIP HD" tvg-name="MX || Star Action VIP HD" tvg-logo="https://i.imgur.com/G4rwh6O.jpg" group-title="CINEMA LATINO",MX || Star Action VIP HD
-http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/16517
-#EXTINF:-1 tvg-id="~ SD FOX CHANNEL" tvg-name="MX || Star Channel SD" tvg-logo="https://i.imgur.com/NULADuX.jpg" group-title="CINEMA LATINO",MX || Star Channel SD
-http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/81742
-#EXTINF:-1 tvg-id="~ SD FOX" tvg-name="MX || Star Channel SD Opc 1" tvg-logo="https://i.imgur.com/NULADuX.jpg" group-title="CINEMA LATINO",MX || Star Channel SD Opc 1
-http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/81791
-#EXTINF:-1 tvg-id="~ Fox Cinema" tvg-name="MX || Star Cinema SD" tvg-logo="https://i.imgur.com/pQzMKei.png" group-title="CINEMA LATINO",MX || Star Cinema SD
-http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/81703
-#EXTINF:-1 tvg-id="~ Fox Cinema" tvg-name="MX || Star Cinema SD" tvg-logo="https://i.imgur.com/pQzMKei.png" group-title="CINEMA LATINO",MX || Star Cinema SD
-http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/81871
-#EXTINF:-1 tvg-id="~ SD FOX CLASSICS" tvg-name="MX || Star Classics" tvg-logo="https://i.imgur.com/PtMuIXi.jpg" group-title="CINEMA LATINO",MX || Star Classics
-http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/81870
-#EXTINF:-1 tvg-id="~ SD FOX CLASSICS" tvg-name="MX || Star Classics HD" tvg-logo="https://i.imgur.com/PtMuIXi.jpg" group-title="CINEMA LATINO",MX || Star Classics HD
-http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/81702
-#EXTINF:-1 tvg-id="FOX COMEDY VIP HD" tvg-name="MX || Star Comedy Vip HD" tvg-logo="https://i.imgur.com/9djkXK5.png" group-title="CINEMA LATINO",MX || Star Comedy Vip HD
-http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/16516
-#EXTINF:-1 tvg-id="~ SD FOX MOVIE" tvg-name="MX || Star Hits SD" tvg-logo="https://i.imgur.com/YObBY4Z.jpg" group-title="CINEMA LATINO",MX || Star Hits SD
-http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/81704
-#EXTINF:-1 tvg-id="~ HD Fox Movies" tvg-name="MX || Star Hits HD" tvg-logo="https://i.imgur.com/YObBY4Z.jpg" group-title="CINEMA LATINO",MX || Star Hits HD
-http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/81872
-#EXTINF:-1 tvg-id="FOX MOVIES VIP HD" tvg-name="MX || Star Hits Vip HD" tvg-logo="https://i.imgur.com/YObBY4Z.jpg" group-title="CINEMA LATINO",MX || Star Hits Vip HD
-http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/16515
+#EXTINF:-1 tvg-id="" tvg-name="CO|| Star Action HD" tvg-logo="https://i.imgur.com/G4rwh6O.jpg" group-title="Colombia Full",CO|| Star Action HD
+http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/103644
+#EXTINF:-1 tvg-id="" tvg-name="CO|| Star Action MEXICO HD" tvg-logo="https://i.imgur.com/G4rwh6O.jpg" group-title="Colombia Full",CO|| Star Action MEXICO HD
+http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/103539
+#EXTINF:-1 tvg-id="" tvg-name="CO|| Star Cinema HD" tvg-logo="https://i.imgur.com/pQzMKei.png" group-title="Colombia Full",CO|| Star Cinema HD
+http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/103599
+#EXTINF:-1 tvg-id="" tvg-name="CO|| Star Classics HD" tvg-logo="https://i.imgur.com/PtMuIXi.jpg" group-title="Colombia Full",CO|| Star Classics HD
+http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/103600
+#EXTINF:-1 tvg-id="" tvg-name="CO|| Star Comedy HD" tvg-logo="https://i.imgur.com/9djkXK5.png" group-title="Colombia Full",CO|| Star Comedy HD
+http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/103630
+#EXTINF:-1 tvg-id="" tvg-name="CO|| Star Fun HD" tvg-logo="https://i.imgur.com/YTOItqs.png" group-title="Colombia Full",CO|| Star Fun HD
+http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/103646
+#EXTINF:-1 tvg-id="" tvg-name="CO|| Star HD" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/d3b386d89f2560ca6a5e0ffdabea415b.jpg" group-title="Colombia Full",CO|| Star HD
+http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/103559
+#EXTINF:-1 tvg-id="" tvg-name="CO|| Star LIFE HD" tvg-logo="https://i.imgur.com/z2E1Ofs.jpg" group-title="Colombia Full",CO|| Star LIFE HD
+http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/103604
+#EXTINF:-1 tvg-id="" tvg-name="CO|| Star Hits HD" tvg-logo="https://i.imgur.com/YObBY4Z.jpg" group-title="Colombia Full",CO|| Star Hits HD
+http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/103616
+#EXTINF:-1 tvg-id="" tvg-name="CO|| Fox Premium Series" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1541689139419-Imagen.png" group-title="Colombia Full",CO|| Fox Premium Series
+http://mylatinotv.com:8080/ignaciorioscornejo/GsdmJ2jSxnGD/103531
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", EXPIRO LISTA
