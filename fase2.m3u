@@ -113,14 +113,12 @@ https://panel.streamingtv-mediacp.online:1936/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fepa10-1.fna.fbcdn.net/v/t1.6435-9/99424451_2928774290510290_7589622990636056576_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=973b4a&_nc_ohc=qRdfztmjpHkAX_6DG0_&_nc_ht=scontent.fepa10-1.fna&oh=8a81251142bad9075a7a649c11c3d6eb&oe=61C221C5" group-title="AMBA", FM 100.9 PRIMERO LO NUESTRO - MONTE GRANDE
 https://streamcasthd.com:1936/nacionalypopular/nacionalypopular/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.freepik.com/vector-gratis/inspiracion-diseno-logotipo-microfono_57043-231.jpg" group-title="AMBA", TRADICIONAL AM 1340 
-https://streamcasthd.com:19360/radiotradicional1340/radiotradicional1340.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1316800657685450758/W6dD7mXr_400x400.jpg" group-title="PAMPEANA", ONE PLAY TV BAHIA BLANCA
 https://vivo.solumedia.com:19360/oneplaytv/oneplaytv.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.urbanaolavarria.com.ar/img/BANNER.png" group-title="PAMPEANA", URBANA TV OLAVARRIA
-https://videohd.live:19360/8042/8042.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio17226_1475156823.png" group-title="PAMPEANA", FM IBEROAMERICA 100.3 MAR DEL PLATA
