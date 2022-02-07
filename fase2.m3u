@@ -101,8 +101,7 @@ http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/223487
 #EXTINF:-1 tvg-logo="https://scontent.fjuj1-1.fna.fbcdn.net/v/t1.6435-1/p148x148/67352872_2277978742256475_6000712372195426304_n.png?_nc_cat=105&ccb=1-5&_nc_sid=1eb0c7&_nc_ohc=tUhTCL_tOaEAX8LRazd&_nc_ht=scontent.fjuj1-1.fna&oh=90f6f09f43c41886a0ba7e55feb2022e&oe=61CAB43F" group-title="AMBA", Bayres TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSh7XjPZSGyNjRrZpYF4nwLpJUbxtv_Qf2gQqNOjlwiHzXvusMUnp8gGkfXg6ocaVpgYA&usqp=CAU" group-title="NORTE", CNR JUJUY
-https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png" group-title="AMBA", NEO TV DIGITAL  16.1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
