@@ -329,21 +329,21 @@ http://edge3-hr.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_SAGEMCOM/TheFilmZoneHD
 
 
 #EXTINF:-1 tvg-logo="https://puu.sh/mP1b6/411b64dc27.png" group-title="SERIES",TCM
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204458
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/TCM/SA_SAGEMCOM/TCM.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://puu.sh/mwdML/61aec19cb5.png" group-title="SERIES", Warner Channel
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204357
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://puu.sh/msGV1/093178617f.png" group-title="SERIES", Sony
 https://edge-live11-sl.cvattv.com.ar/live/live/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="SERIES", Cinemax 
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56481
+http://edge-live14-hr.cvattv.com.ar/live/c4eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
 
 #EXTINF:-1 tvg-logo="https://puu.sh/mbGkk/b6e3cc25e6.png" group-title="SERIES", Studio Universal
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/41332
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/isat.png" group-title="SERIES", I.Sat
@@ -442,7 +442,7 @@ http://edge02-fdo-py.cvattv.com.ar/live/live/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u
 https://edge4-sl.cvattv.com.ar/live/c2live/History_2/SA_SAGEMCOM/History_2.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="CURIOSIDAD", Discovery H&H
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56468
+https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="CURIOSIDAD", Animal Planet
 https://chromecast.cvattv.com.ar/live/live/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet.m3u8
@@ -478,8 +478,8 @@ https://edge-vod04-sl.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_SAGEMCOM/Di
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/WOBI_logo.png" group-title="CURIOSIDAD",WOBI
 http://edge3-hr.cvattv.com.ar/live/c6eds/WOBI/SA_SAGEMCOM/WOBI.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Y8gJHw1/hyh.png" tvg-group="CURIOSIDAD", HOME & HEALT
-https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png" group-title="ENTRETENIMIENTO",E!
