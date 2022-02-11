@@ -241,6 +241,9 @@ http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/228757
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1462744513089183746/iFSAPMH-_400x400.jpg" group-title="DEPORTE", F1
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/228763
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Bgpm95Y/k-Mnbxb-EN-400x400.png" tvg-group="DEPORTE", DISCOVERY TURBO
+https://chromecast.cvattv.com.ar/live/live/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1479591833701343234/R-2K8N4C_400x400.jpg" group-title="DEPORTE", WIN SPORT
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204379
@@ -298,7 +301,7 @@ http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204292
 
 
 #EXTINF:-1 tvg-logo="https://puu.sh/mwqrg/e525edd989.png" group-title="SERIES", SyFy 
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56452
+http://edge02-fdo-py.cvattv.com.ar/live/c6eds/SyFy/SA_SAGEMCOM/SyFy.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="SERIES", FX
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
@@ -359,7 +362,7 @@ http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/41314
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/41324
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="SERIES",Comedy Central Sur
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56448
+https://edge9-hr.cvattv.com.ar/live/live/ComedyCentral/SA_SAGEMCOM/ComedyCentral.m3u8
 
 #EXTINF:-1 tvg-logo="https://puu.sh/vKOP3/c19fcde9b2.png" group-title="SERIES",TBS Very Funny
 http://edge02-fdo-py.cvattv.com.ar/live/c6eds/TBS/SA_SAGEMCOM/TBS.m3u8
@@ -369,6 +372,9 @@ https://edge-live15-sl.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.
 
 #EXTINF:-1 tvg-logo="https://puu.sh/mwqy1/9feaee8770.png" group-title="SERIES",Lifetime
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/41329
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9bJ3cxp/ar-film-arts-m.png" tvg-group="SERIES", FILM & ARTS
+https://chromecast.cvattv.com.ar/live/c2live/Film_Arts/SA_SAGEMCOM/Film_Arts.m3u8
 
 
 
@@ -422,6 +428,10 @@ http://edge02-fdo-py.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="CURIOSIDAD",Discovery Channel 
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KyBQx36/ar-discovery-hd-theater-m.png" tvg-group="CURIOSIDAD", DISCOVERY THEATER
+https://chromecast.cvattv.com.ar/live/c2live/Theater_HD/SA_SAGEMCOM/Theater_HD.m3u8
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="CURIOSIDAD", History Channel
 http://edge02-fdo-py.cvattv.com.ar/live/live/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
 
@@ -451,23 +461,30 @@ http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/41323
 http://edge02-fdo-py.cvattv.com.ar/live/c6eds/TLC/SA_SAGEMCOM/TLC.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="CURIOSIDAD", Discovery SCI
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56470
+https://chromecast.cvattv.com.ar/live/c2live/Discovery_Science/SA_SAGEMCOM/Discovery_Science.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverycivilization.png" group-title="CURIOSIDAD",Discovery World
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204635
+https://edge-vod04-sl.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/WOBI_logo.png" group-title="CURIOSIDAD",WOBI
 http://edge3-hr.cvattv.com.ar/live/c6eds/WOBI/SA_SAGEMCOM/WOBI.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y8gJHw1/hyh.png" tvg-group="CURIOSIDAD", HOME & HEALT
+https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png" group-title="ENTRETENIMIENTO",E!
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/41319
 
-
 #EXTINF:-1 tvg-logo="https://puu.sh/maO70/72d9b8319f.png" group-title="ENTRETENIMIENTO", MTV
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56500
+
+
+
+
+
 
 
 
