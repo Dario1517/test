@@ -238,10 +238,13 @@ http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/228754
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/228757
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1462744513089183746/iFSAPMH-_400x400.jpg" group-title="DEPORTE", F1
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/228763
+http://66.70.176.103:8081/SPAIN%7CMOVISTARF1/SPAIN%7CMOVISTARF1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bgpm95Y/k-Mnbxb-EN-400x400.png" tvg-group="DEPORTE", DISCOVERY TURBO
 https://chromecast.cvattv.com.ar/live/live/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s61033_dark_360w_270h.png" group-title="DEPORTE",Golf Channel
+https://edge9-hr.cvattv.com.ar//live/c2live/Golf_Channel/SA_SAGEMCOM/Golf_Channel.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1479591833701343234/R-2K8N4C_400x400.jpg" group-title="DEPORTE", WIN SPORT
@@ -264,7 +267,7 @@ http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/221474
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204286
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="INFANTIL", Cartoon Network 
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204283
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" group-title="INFANTIL", Disney Channel
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204284
@@ -306,7 +309,7 @@ http://edge02-fdo-py.cvattv.com.ar/live/c6eds/SyFy/SA_SAGEMCOM/SyFy.m3u8
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="SERIES", STAR CHANNEL
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56251
+http://edge-live14-hr.cvattv.com.ar:80/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://puu.sh/monkP/4502e76205.png" group-title="SERIES", Universal
 https://edge-live15-sl.cvattv.com.ar/live/c2live/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
@@ -315,7 +318,7 @@ https://edge-live15-sl.cvattv.com.ar/live/c2live/Universal_Channel_HD/SA_SAGEMCO
 https://edge9-hr.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="SERIES", Cinecanal
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56239
+https://edge-live11-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://puu.sh/vKP8k/b5666df9d4.png" group-title="SERIES", TNT 
 http://edge02-fdo-py.cvattv.com.ar/live/live/TNT/SA_SAGEMCOM/TNT.m3u8
@@ -333,7 +336,7 @@ http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204357
 
 
 #EXTINF:-1 tvg-logo="https://puu.sh/msGV1/093178617f.png" group-title="SERIES", Sony
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56451
+https://edge-live11-sl.cvattv.com.ar/live/live/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="SERIES", Cinemax 
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56481
@@ -343,22 +346,22 @@ http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/41332
 
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/isat.png" group-title="SERIES", I.Sat
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204510
+https://edge9-hr.cvattv.com.ar/live/c2live/ISAT/SA_SAGEMCOM/ISAT.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="SERIES", AMC
 http://edge9-sl.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="SERIES", AXN 
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204444
+https://edge9-hr.cvattv.com.ar//live/live/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="SERIES", ID Discovery
 http://edge02-fdo-py.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
 
 #EXTINF:-1 tvg-logo="https://puu.sh/mw5r2/486241bb2e.png" group-title="SERIES", TruTV
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/41314
+https://edge9-hr.cvattv.com.ar//live/c3eds/TruTV/SA_SAGEMCOM/TruTV.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxlife.png" group-title="SERIES",Star Life 
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/41324
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/Fox_Life/SA_SAGEMCOM/Fox_Life.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="SERIES",Comedy Central Sur
 https://edge9-hr.cvattv.com.ar/live/live/ComedyCentral/SA_SAGEMCOM/ComedyCentral.m3u8
@@ -441,13 +444,14 @@ https://edge4-sl.cvattv.com.ar/live/c2live/History_2/SA_SAGEMCOM/History_2.m3u8
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56468
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="CURIOSIDAD", Animal Planet
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204321
+https://chromecast.cvattv.com.ar/live/live/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet.m3u8
 
 #EXTINF:-1 tvg-logo="https://puu.sh/mb2Rd/9c56f73248.png" group-title="CURIOSIDAD", Nat Geo Wild
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="CURIOSIDAD", GOURMET TV
-https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
+https://chromecast.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/M%C3%A1s_Chic.svg/revision/latest/scale-to-width-down/200?cb=20200114222838&path-prefix=es" group-title="CURIOSIDAD", MAS CHIC
 https://amc-maschic-1.samsung.wurl.com/manifest/8c44a36cdc5ed261301bf8bc6dcddb02.m3u8
@@ -478,7 +482,21 @@ https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/Di
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/41319
 
 #EXTINF:-1 tvg-logo="https://puu.sh/maO70/72d9b8319f.png" group-title="ENTRETENIMIENTO", MTV
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56500
+https://edge9-hr.cvattv.com.ar//live/c2live/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qUAc6Cs.png" group-title="ENTRETENIMIENTO",MTV Hits
+https://edge9-hr.cvattv.com.ar//live/c2live/MTV_Hits/SA_SAGEMCOM/MTV_Hits.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M88NzqH/Xly8mKUw.jpg" tvg-group="ENTRETENIMIENTO", HTV
+https://chromecast.cvattv.com.ar/live/c2live/HTV/SA_SAGEMCOM/HTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e8y6yYp.png" group-title="ENTRETENIMIENTO",CM El Canal de la Musica
+https://edge9-hr.cvattv.com.ar//live/c2live/CM/SA_SAGEMCOM/CM.m3u8
+
+
+
+
+
 
 
 
@@ -1029,7 +1047,7 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/CNNESPANOL/__op/hls-default/__f
 
 
 
-#EXTM3U
+
 #EXTINF:-1,#0 FHD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/2146
 #EXTINF:-1,#VAMOS FHD
