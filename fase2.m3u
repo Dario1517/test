@@ -301,16 +301,16 @@ http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204292
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56452
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="SERIES", FX
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56450
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="SERIES", STAR CHANNEL
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56251
 
 #EXTINF:-1 tvg-logo="https://puu.sh/monkP/4502e76205.png" group-title="SERIES", Universal
-
+https://edge-live15-sl.cvattv.com.ar/live/c2live/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://puu.sh/reX9a/e5e9972612.png" group-title="SERIES", Space
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56268
+https://edge9-hr.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="SERIES", Cinecanal
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56239
@@ -319,7 +319,7 @@ http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56239
 http://edge02-fdo-py.cvattv.com.ar/live/live/TNT/SA_SAGEMCOM/TNT.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/fxm.png" group-title="SERIES",FX Movies
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56257
+http://edge3-hr.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_SAGEMCOM/TheFilmZoneHD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://puu.sh/mP1b6/411b64dc27.png" group-title="SERIES",TCM
@@ -344,13 +344,13 @@ http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/41332
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204510
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="SERIES", AMC
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/219014
+http://edge9-sl.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="SERIES", AXN 
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204444
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="SERIES", ID Discovery
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56469
+http://edge02-fdo-py.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
 
 #EXTINF:-1 tvg-logo="https://puu.sh/mw5r2/486241bb2e.png" group-title="SERIES", TruTV
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/41314
@@ -362,10 +362,10 @@ http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/41324
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56448
 
 #EXTINF:-1 tvg-logo="https://puu.sh/vKOP3/c19fcde9b2.png" group-title="SERIES",TBS Very Funny
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56273
+http://edge02-fdo-py.cvattv.com.ar/live/c6eds/TBS/SA_SAGEMCOM/TBS.m3u8
 
 #EXTINF:-1 tvg-logo="https://puu.sh/nsW5e/6bbcc438c7.png" group-title="SERIES",Paramount
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56265
+https://edge-live15-sl.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
 
 #EXTINF:-1 tvg-logo="https://puu.sh/mwqy1/9feaee8770.png" group-title="SERIES",Lifetime
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/41329
@@ -373,28 +373,28 @@ http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/41329
 
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="CINE",HBO
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204501
+https://edge9-hr.cvattv.com.ar//live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="CINE",HBO 2
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56263
+http://edge02-fdo-py.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="CINE", HBO Plus
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56493
+https://edge-vod04-sl.cvattv.com.ar/live/c2live/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="CINE", HBO Family
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/219004
+http://edge02-fdo-py.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png" group-title="CINE", HBO Extreme
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/41300
+https://edge-vod04-sl.cvattv.com.ar/live/c2live/Max_Prime_HD/SA_SAGEMCOM/Max_Prime_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-signature-hd_m.png" group-title="CINE", HBO Signature
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56494
+http://edge-vod04-sl.cvattv.com.ar/live/c2live/HBO_Signature/SA_SAGEMCOM/HBO_Signature.m3u8
 
 #EXTINF:-1 tvg-logo="http://51.222.105.31:8080/images/b768a960b697ac358d3c4c7d21b7a6c8.png" group-title="CINE", HBO Mundi
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204505
+https://edge-vod04-sl.cvattv.com.ar/live/c2live/Max_HD/SA_SAGEMCOM/Max_HD.m3u8
 
 #EXTINF:-1 tvg-logo="http://51.222.105.31:8080/images/fe1eb7b7a92b71537d1385bed683de3a.png" group-title="CINE", HBO pop
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/219008
+http://edge02-fdo-py.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.universalplus.com/assets/logo_reality_hero.png" group-title="CINE", UNIVERSAL REALITY
@@ -417,16 +417,16 @@ http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204443
 
 
 #EXTINF:-1 tvg-logo="https://puu.sh/msJjE/f96602e474.png" group-title="CURIOSIDAD", Nat Geo
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56477
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="CURIOSIDAD",Discovery Channel 
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56467
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="CURIOSIDAD", History Channel
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56475
+http://edge02-fdo-py.cvattv.com.ar/live/live/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="CURIOSIDAD", H2 
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56476
+https://edge4-sl.cvattv.com.ar/live/c2live/History_2/SA_SAGEMCOM/History_2.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="CURIOSIDAD", Discovery H&H
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56468
@@ -435,7 +435,7 @@ http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56468
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204321
 
 #EXTINF:-1 tvg-logo="https://puu.sh/mb2Rd/9c56f73248.png" group-title="CURIOSIDAD", Nat Geo Wild
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204322
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="CURIOSIDAD", GOURMET TV
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
@@ -448,7 +448,7 @@ https://amc-maschic-1.samsung.wurl.com/manifest/8c44a36cdc5ed261301bf8bc6dcddb02
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/41323
 
 #EXTINF:-1 tvg-logo="https://puu.sh/mbLF3/ceac7e3575.png" group-title="CURIOSIDAD", TLC
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/41330
+http://edge02-fdo-py.cvattv.com.ar/live/c6eds/TLC/SA_SAGEMCOM/TLC.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="CURIOSIDAD", Discovery SCI
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56470
@@ -457,6 +457,9 @@ http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56470
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverycivilization.png" group-title="CURIOSIDAD",Discovery World
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204635
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/WOBI_logo.png" group-title="CURIOSIDAD",WOBI
+http://edge3-hr.cvattv.com.ar/live/c6eds/WOBI/SA_SAGEMCOM/WOBI.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png" group-title="ENTRETENIMIENTO",E!
