@@ -501,7 +501,20 @@ https://edge9-hr.cvattv.com.ar//live/c2live/CM/SA_SAGEMCOM/CM.m3u8
 
 
 
-
+#EXTINF:-1,PASIONES
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Pasiones/SA_SAGEMCOM/Pasiones.m3u8
+#EXTINF:-1,NET TV ARG.
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/Net_TV/SA_SAGEMCOM/Net_TV.m3u8
+#EXTINF:-1,FOOD NETWORK
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Food_Network/SA_SAGEMCOM/Food_Network.m3u8
+#EXTINF:-1,C9 ARG.
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
+#EXTINF:-1,13 TV HD
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
+#EXTINF:-1,AMERICA
+https://edge8-ccast-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
+#EXTINF:-1,LaTele
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4.m3u8
 
 
 
@@ -1582,20 +1595,7 @@ http://edge02-fdo-py.cvattv.com.ar/live/c4eds/E_Entertainment_Television/SA_SAGE
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/IDHD/__op/hls-default/__f/index.m3u8
 #EXTINF:-1,Discovery Turbo
 http://45.161.188.242:88/discoveryturbo/mono.m3u8
-#EXTINF:-1,PASIONES
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Pasiones/SA_SAGEMCOM/Pasiones.m3u8
-#EXTINF:-1,NET TV ARG.
-http://edge02-fdo-py.cvattv.com.ar/live/c2live/Net_TV/SA_SAGEMCOM/Net_TV.m3u8
-#EXTINF:-1,FOOD NETWORK
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Food_Network/SA_SAGEMCOM/Food_Network.m3u8
-#EXTINF:-1,C9 ARG.
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
-#EXTINF:-1,13 TV HD
-https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
-#EXTINF:-1,AMERICA
-https://edge8-ccast-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
-#EXTINF:-1,LaTele
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4.m3u8
+
 #EXTINF:-1,MEGA
 http://45.161.188.242:88/mega/mono.m3u8
 #EXTINF:-1,ÑanTV
