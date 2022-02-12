@@ -512,12 +512,10 @@ https://edge9-hr.cvattv.com.ar//live/c2live/CM/SA_SAGEMCOM/CM.m3u8
 
 
 
-#EXTINF:-1,PASIONES
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Pasiones/SA_SAGEMCOM/Pasiones.m3u8
+
 #EXTINF:-1,NET TV ARG.
 http://edge02-fdo-py.cvattv.com.ar/live/c2live/Net_TV/SA_SAGEMCOM/Net_TV.m3u8
-#EXTINF:-1,FOOD NETWORK
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Food_Network/SA_SAGEMCOM/Food_Network.m3u8
+
 #EXTINF:-1,C9 ARG.
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
 #EXTINF:-1,13 TV HD
@@ -849,46 +847,18 @@ https://edge9-hr.cvattv.com.ar/live/c2live/ISAT/SA_SAGEMCOM/ISAT.m3u8
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PARAMOUNT/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://cdn.mitvstatic.com/channels/fd8cde27-1fa8-46f4-a2ff-96436bbe6912_m.jpg" group-title="CINE",STUDIO UNIVERSAL HD
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/STUDIOUNIVERSALHD/__op/hls-default/__f/index.m3u8
-#EXTINF:-1,tvg-id="Canal truTV" tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/tru-tv.png",TRU TV
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TRUTVHD/__op/hls-default/__f/index.m3u8
-#EXTINF:-1  tvg-id="Canal Glitz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png", Glitz
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/GLITZ/__op/hls-default/__f/index.m3u8
-#EXTINF:-1  tvg-id="Canal Discovery Science (Latinoamérica)" tvg-logo="https://youcompare.com.au/assets/img/paytv_logos/discovery-science-channel.png", Discovery Science
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISCOVERYSCIENCE/__op/hls-default/__f/index.m3u8
-#EXTINF:-1  tvg-id="Canal Discovery World Latinoamérica" tvg-logo="https://www.izzi.mx/izzi/v4/img/dummy-img/channels/World%20HD.png", Discovery World
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISCOVERYWORLDHD/__op/hls-default/__f/index.m3u8
-#EXTINF:-1,¡¡NICKELODEON
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/NICKELODEONHD/__op/hls-default/__f/index.m3u8
-#EXTINF:-1,¡¡TVN CHILE
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TVNCHILE/__op/hls-default/__f/index.m3u8
-#EXTINF:-1  tvg-id="Canal National Geographic (NatGeo Latinoamérica)" tvg-logo="https://www.izzi.mx/izzi/v4/img/dummy-img/channels/NationalGeografic.png", NATGEO HD
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/NATGEOHD/__op/hls-default/__f/index.m3u8
-#EXTINF:-1  tvg-id=" " tvg-logo="https://www.izzi.mx/izzi/v4/img/dummy-img/channels/animalPlanet.png", ANIMAL PLANET
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ANIMALPLANETHD/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-id="MX - Investigation Discovery" tvg-name="Investigation Discovery FHD (MX)" tvg-logo="http://img.tvcl.xyz/culturales/id.png" group-title="Culturales",Investigation Discovery HD
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/IDHD/__op/hls-default/__f/index.m3u8
-#EXTINF:-1,¡¡D.CHANNEL HD
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISCOVERYCHANNELHD/__op/hls-default/__f/index.m3u8
-#EXTINF:-1,¡¡AA3cine
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/A3_Cine/SA_SAGEMCOM/A3_Cine.m3u8
-#EXTINF:-1,¡¡AA3series INT.
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/A3_Series/SA_SAGEMCOM/A3_Series.m3u8
-#EXTINF:-1,¡¡VOLVER
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Volver/SA_SAGEMCOM/Volver.m3u8
-#EXTINF:-1 tvg-id="MX - Investigation Discovery" tvg-name="Investigation Discovery FHD (MX)" tvg-logo="http://img.tvcl.xyz/culturales/id.png" group-title="Culturales",Investigation Discovery HD
-http://edge02-fdo-py.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
-#EXTINF:-1,¡¡HOLA TV!!
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Hola_TV/SA_SAGEMCOM/Hola_TV.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1,¡¡TELEDOCE!!
 http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Canal12URU/SA_SAGEMCOM/Canal12URU.m3u8
-#EXTINF:-1,¡¡HGTV!!
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Home_and_Garden/SA_SAGEMCOM/Home_and_Garden.m3u8
-#EXTINF:-1,¡¡MAS CHIC!!
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Mas_Chic/SA_SAGEMCOM/Mas_Chic.m3u8
-#EXTINF:-1,¡¡Ei!!
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/E_Entertainment_Television/SA_SAGEMCOM/E_Entertainment_Television.m3u8
-#EXTINF:-1,¡¡PASIONES!!
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Pasiones/SA_SAGEMCOM/Pasiones.m3u8
+
+
+
 #EXTINF:-1,¡¡TVP ARG.!!
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
 #EXTINF:-1,¡¡NET TV ARG.
@@ -899,8 +869,7 @@ http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
 #EXTINF:-1,¡¡AMERICA
 https://edge8-ccast-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
-#EXTINF:-1,¡¡Telemundo
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8
+
 #EXTINF:-1,¡¡LasEstrellas
 http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
 #EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="ARG: Telefe HD" tvg-logo="http://img.tvcl.xyz/argentina/telefe.png" group-title="Argentina",ARG: Telefe HD
@@ -911,18 +880,12 @@ http://edge02-fdo-py.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4.
 http://edge02-fdo-py.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8
 #EXTINF:-1,¡¡RPC
 http://edge02-fdo-py.cvattv.com.ar/live/c4eds/RPC_C4/SA_SAGEMCOM/RPC_C4.m3u8
-#EXTINF:-1,¡¡HTV
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/HTV/SA_SAGEMCOM/HTV.m3u8
-#EXTINF:-1,¡¡QUIERO MÚSICA
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Quiero_HD/SA_SAGEMCOM/Quiero_HD.m3u8
+
+
 #EXTINF:-1,¡¡GOURMET
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
-#EXTINF:-1,¡¡FOOD NETWORK
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Food_Network/SA_SAGEMCOM/Food_Network.m3u8
-#EXTINF:-1,¡¡D.WORLD
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD.m3u8
-#EXTINF:-1,¡¡TBS
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/TBS/SA_SAGEMCOM/TBS.m3u8
+
+
 #EXTINF:-1 tvg-id="Cine TV: AXN (MOVIL)" tvg-logo="https://i.ibb.co/NZ66vJS/AXNHD.jpg" group-title="CINE",AXN HD
 http://edge02-fdo-py.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
 #EXTINF:-1,¡¡COMEDY CENTRAL
