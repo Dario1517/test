@@ -1,6 +1,67 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="Lista 16" ,Fox Sports
+https://sv.spliktv.xyz/live/caster/CA/c3eds/Fox_Sports_Premiun_HD/ab.m3u8
+#EXTINF:-1 group-title="Lista 16" ,Win Sports
+https://sv.spliktv.xyz/live/caster/CO/WIN.m3u8
+#EXTINF:-1 group-title="Lista 16" ,Star Life
+https://sv.spliktv.xyz/live/caster/CA/c2live/Fox_Life/ab.m3u8
+#EXTINF:-1 group-title="Lista 16" ,Galavisión
+https://sv.spliktv.xyz/live/caster/US/GALAVISION.m3u8
+#EXTINF:-1 group-title="Lista 16" ,Más Chic
+https://sv.spliktv.xyz/live/caster/OTT/MASCHIC.m3u8
+#EXTINF:-1 group-title="Lista 16" ,Univisión
+https://sv.spliktv.xyz/live/caster/US/UNIVISION.m3u8
+#EXTINF:-1 group-title="Lista 16" ,Globo
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_1000/index.m3u8?caster
+#EXTINF:-1 group-title="Lista 16" ,RT en Español
+https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
+#EXTINF:-1 group-title="Lista 16" ,MTV Hits
+https://sv.spliktv.xyz/live/caster/CA/c2live/MTV_Hits/ab.m3u8
+#EXTINF:-1 group-title="Lista 16" ,MTV 00s
+https://sv.spliktv.xyz/live/caster/CA/c4eds/VH1/ab.m3u8
+#EXTINF:-1 group-title="Lista 16" ,HTV
+https://sv.spliktv.xyz/live/caster/CA/c2live/HTV/ab.m3u8
+#EXTINF:-1 group-title="Lista 16" ,Disney Channel
+https://sv.spliktv.xyz/live/caster/CA/c3eds/DisneyChannelHD/ab.m3u8
+#EXTINF:-1 group-title="Lista 16" ,Disney Junior
+https://sv.spliktv.xyz/live/caster/CA/live/DisneyJr/ab.m3u8
+#EXTINF:-1 group-title="Lista 16" ,Disney XD
+https://sv.spliktv.xyz/live/caster/CA/live/DisneyXD/ab.m3u8
+#EXTINF:-1 group-title="Lista 16" ,Discovery Kids
+https://sv.spliktv.xyz/live/caster/CA/c2live/Discovery_Kids/ab.m3u8
+#EXTINF:-1 group-title="Lista 16" ,Cartoon Network
+https://sv.spliktv.xyz/live/caster/CA/c3eds/CartoonNetwork/ab.m3u8
+#EXTINF:-1 group-title="Lista 16" ,Cartoonito
+https://sv.spliktv.xyz/live/caster/CA/live/Boomerang/ab.m3u8
+#EXTINF:-1 group-title="Lista 16" ,Nickelodeon
+https://sv.spliktv.xyz/live/caster/CA/c3eds/Nickelodeon/ab.m3u8
+#EXTINF:-1 group-title="Lista 16" ,Nick Jr.
+https://sv.spliktv.xyz/live/caster/CA/c2live/Nick_Jr/ab.m3u8
+#EXTINF:-1 group-title="Lista 16" ,Nat Geo Kids
+https://sv.spliktv.xyz/live/caster/CA/c2live/NatGeo_Kids/ab.m3u8
+#EXTINF:-1 group-title="Lista 16" ,Paka Paka
+https://sv.spliktv.xyz/live/caster/CA/c2live/PAKA_PAKA/ab.m3u8
+#EXTINF:-1 group-title="Lista 16" ,Tooncast
+https://sv.spliktv.xyz/live/caster/CA/c2live/Tooncast/ab.m3u8
+#EXTINF:-1 group-title="Lista 16" ,Baby TV
+https://sv.spliktv.xyz/live/caster/CA/live/BabyTV/ab.m3u8
+#EXTINF:-1 group-title="Lista 16" ,IP Noticias
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8?caster
+#EXTINF:-1 group-title="Lista 16" ,Bolivia TV
+https://sv.spliktv.xyz/live/web/BO/200.m3u8
+#EXTINF:-1 group-title="Lista 16" ,Canal Uno
+https://sv.spliktv.xyz/live/caster/CO/canal_uno_sd.m3u8
+#EXTINF:-1 group-title="Lista 16" ,Imagen TV
+https://sv.spliktv.xyz/live/caster/MX/2606.m3u8
+#EXTINF:-1 group-title="Lista 16" ,ADN 40
+https://sv.spliktv.xyz/live/caster/RU/ADN40.m3u8
+#EXTINF:-1 group-title="Lista 16" ,Milenio
+https://sv.spliktv.xyz/live/caster/MX/1250.m3u8
+#EXTINF:-1 group-title="Lista 16" ,Latina
+https://sv.spliktv.xyz/live/caster/PE/LATINA.m3u8
+
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="http://x.playerlatino.live/telefe.png" group-title="AMBA", TELEFE  34.1
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8 
 
