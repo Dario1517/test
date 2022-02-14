@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1   group-title="FLOW (Personal)", FOX
+https://sv.spliktv.xyz/live/dash/AR/c3eds/FOXHD.mpd
+
 #EXTINF:-1   group-title="FLOW (Personal)", DeporTV
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/DeporTVHD/SA_SAGEMCOM/DeporTVHD.m3u8
 #EXTINF:-1   group-title="FLOW (Personal)", TyC Sport
