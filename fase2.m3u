@@ -45,8 +45,7 @@ https://stream.arcast.live/quatro/quatro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnm0AkQxSWixY8HZ8XBIHFfseix3T5-JqypfVODqa7C68GVwsj8mdaz02G6-hBMRejOw&usqp=CAU" group-title="CORDOBA", CABLEDIGITAL HIUNCA REANCO CORDOBA
 https://vivo.solumedia.com:19360/huinca/huinca.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.la95.com.ar/recursos/img/centrofmlogo256solidcolors.png" group-title="CORDOBA", RADIO CENTRO 91.9 ALMAFUERTE
-http://www.la95.com.ar:8000/centro.m3u
+
 
 
 
