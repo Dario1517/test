@@ -26,6 +26,9 @@ https://edge-live12-sl.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N.m3u8
 #EXTINF:-1 tvg-id="C5N.ar" tvg-country="AR" group-title="NOTICIAS", C5N  25.2
 https://www.youtube.com/watch?v=jN0TnHxhliA
 
+#EXTINF:-1 tvg-id="CanaldelaCiudad.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1088570060887810048/IAlLnIgQ.jpg" group-title="AMBA", CANAL DE LA CIUDAD
+https://g2.proy-hor.transport.edge-access.net/b08/ngrp:gcba_video4-100042_all/gcba_video4-100042_540p.m3u8
+
 #EXTINF:-1 tvg-id="LNPlus.ar" tvg-country="AR"  tvg-logo="https://pbs.twimg.com/profile_images/1421221924580044800/YV3QcaCT_400x400.jpg" group-title="NOTICIAS", LN+  25.3
 http://edge02-fdo-py.cvattv.com.ar/live/live/La_Nacion/SA_SAGEMCOM/La_Nacion.m3u8
 
