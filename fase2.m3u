@@ -124,7 +124,8 @@ https://stream.arcast.live/quatro/quatro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnm0AkQxSWixY8HZ8XBIHFfseix3T5-JqypfVODqa7C68GVwsj8mdaz02G6-hBMRejOw&usqp=CAU" group-title="CORDOBA", CABLEDIGITAL HIUNCA REANCO CORDOBA
 https://vivo.solumedia.com:19360/huinca/huinca.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQY_HK9O5T7Eaq_O2DNcf4tFtbLkqWOmleAzQ&usqp=CAU" group-title="SANTA FE", PLAY TELEVISION SANTA FE
+http://videostream.shockmedia.com.ar:1935/playtelevision/playtelevision/playlist.m3u8
 
 
 
